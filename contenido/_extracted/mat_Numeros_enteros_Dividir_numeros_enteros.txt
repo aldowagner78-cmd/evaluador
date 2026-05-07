@@ -1,0 +1,85 @@
+                                      Dividir números enteros
+  Dividir un número negativo por un número positivo
+  La imagen ilustra (−8) ÷ 4, u ocho negativos divididos
+  en cuatro grupos. Podemos ver que la respuesta es −2.
+  Cuando un número negativo está dividido por un número
+  positivo, podemos ilustrarlo como tantas fichas negativas divididas en grupos. La respuesta será
+  negativa.
+  Entonces, cada vez que divides un número negativo por un número positivo, la respuesta es negativa.
+
+  Dividir un número positivo por un número negativo. Por ejemplo, 24 ÷ (−8) = ?
+  Recuerda que multiplicación es la operación opuesta de división. Vamos a escribir la respuesta
+  de 24 ÷ (−8) como s. Después, escribimos una multiplicación utilizando la división:
+  24 ÷ (−8) = s       ⇒       (−8)s = 24
+  (Podrías utilizar una línea vacía en vez de s, si el variable s te confunde.)
+
+  El único número que cumple la ecuación (−8)s = 24 es s = −3. Por lo tanto, 24 ÷ (−8) = −3.
+  Asimismo, cada vez que divides un número positivo por un número negativo, la respuesta es negativa.
+
+  Dividir un número negativo por un número negativo. Por ejemplo, (−24) ÷ (−8) = ?
+  Otra vez, vamos a marcar la respuesta de −24 ÷ (−8) con y, y después escribir una multiplicación.
+  −24 ÷ (−8) = y        ⇒       (−8)y = −24
+  El único número que cumple la ecuación (−8)y = −24 es y = 3. Por eso, −24 ÷ (−8) = 3.
+  Asimismo, cada vez que divides un número positivo por un número negativo, la respuesta es positiva.
+
+  Sumario. Los símbolos abajo muestran si consigues una respuesta positiva o negativa, cuando
+  multiplicas o divides números enteros. ¡Nota que las reglas para multiplicación y división son iguales!
+  Multiplicación                   Ejemplos                        División           Ejemplos
+        ×     =                    4 × (−5) = −20                       ÷         =   20 ÷ (−5) = −4
+        ×     =                    −4 × 5 = −20                         ÷         =   −20 ÷ 5 = −4
+        ×     =                    −4 × (−5) = 20                       ÷         =   −20 ÷ (−5) = 4
+
+        ×     =                                                         ÷         =   20 ÷ 5 = 4
+                                   4 × 5 = 20
+
+  He aquí un atajo para multiplicación y división (NO sirve para ni suma ni resta):
+    z   Si ambos números tienen el mismo símbolo (ambos son positivos o negativos), la respuesta
+        es positiva.
+    z   Por lo demás, la respuesta es negativa.
+
+Hoja de muestra de
+www.MamutMatematicas.com                                          31
+ 1. Divide.
+
+  a. −50 ÷ (−5) = ______               b. (−8) ÷ (−1) = ______          c. 81 ÷ (−9) = ______
+
+     −12 ÷ 2 = ______                    14 ÷ (−2) = ______                −100 ÷ (−10) = ______
+
+ 2. Multiplica. Después, escribe una división para cada multiplicación, utilizando los mismos números.
+
+  a. −5 × (−5) = ______                b. 9 × (−6) = ______             c. −80 × 8 = ______
+
+  ______ ÷_____ = ______               ______ ÷ _____ = ______          ______ ÷ _____ = ______
+
+ 3. Completa los patrones.
+
+                 a.                                    b.                                c.
+
+          12 ÷ 4 = ______                   ______ ÷ (−7) = −3                 60 ÷ ______ = 2
+          8 ÷ 4 = ______                    ______ ÷ (−7) = −2                 40 ÷ ______ = 2
+          4 ÷ 4 = ______                    ______ ÷ (−7) = −1                 20 ÷ ______ = 2
+          0 ÷ 4 = ______                    ______ ÷ (−7) = 0                 −20 ÷ ______ = 2
+         (−4) ÷ 4 = ______                  ______ ÷ (−7) = 1                 −40 ÷ ______ = 2
+         (−8) ÷ 4 = ______                  ______ ÷ (−7) = 2                 −60 ÷ ______ = 2
+         (−12) ÷ 4 = ______                 ______ ÷ (−7) = 3                 −80 ÷ ______ = 2
+         (−16) ÷ 4 = ______                 ______ ÷ (−7) = 4                −100 ÷ ______ = 2
+
+
+ 4. He aquí una adivinanza graciosa. Resuelve los problemas para descubrir la respuesta.
+
+   O ____ ÷ (−8) = 2                    C 12 × (−5) = ______            O (−144) ÷ 12 = _____
+   O 3 × (−12) = ____                   T ____ ÷ 12 = 5                 A −4 × (−9) =____
+   O −15 ÷ ____ = −5                    H ____ × (−6) = 0               Y −45 ÷ ______ = 5
+   N −1 × (−9) = ______                 C −27 ÷ 9 = ______              E −7 × ____ = −84
+   S −48 ÷ (−6) = ______                H 3 × _____ = −24
+  Si me quitas la mitad, solo valgo doble cero. ¿Quién soy?
+
+     8     −12 −9            −36 −60    0     12   9        60   36                  3        −3   −8 −16
+                                                                         Y
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                               32
+

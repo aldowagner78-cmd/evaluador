@@ -1,0 +1,47 @@
+        Multiplicar decimales por números enteros
+       ¡Se puede resolver multiplicación de un decimal por un número entero por sumar repetidamente!
+
+       4 × 0.2 = 0.2 + 0.2 + 0.2 + 0.2 = 0.8
+       Ya que sumamos repetidamente un número que tiene décimos, la respuesta también tiene décimos.
+
+       5 × 0.15 = 0.15 + 0.15 + 0.15 + 0.15 + 0.15 = 0.75
+       Ya que sumamos repetidamente un número que tiene hundredths, la respuesta también centésimos.
+
+       3 × 0.006 = 0.006 + 0.006 + 0.006 = 0.018
+       Ya que sumamos repetidamente un número que tiene milésimos, la respuesta también tiene milésimos.
+
+ 1. Escribe cada multiplicación como una suma repetida, y resuelve.
+
+  a. 2 × 0.8 =                                                 b. 3 × 1.5 =
+
+  c. 4 × 0.03 =                                                d. 2 × 0.007 =
+
+
+
+  Utilizando multiplicación: Para resolver 6 × 0.05, puedes multiplicar 6 × 5 = 30 en tu mente. Estás
+  multiplicando 6 veces 5 centésimos. Obviamente, la respuesta es 30 centésimos. (Compara esto a
+  “6 veces 5 manzanas = 30 manzanas”.)
+  Entonces, para tener centésimos, tu respuesta necesita tener dos dígitos decimales: es 0.30.
+  De manera similar, 7 × 0.008 va a tener milésimos, entonces necesita tres dígitos decimales. Entonces, primero
+  multiplica sin el punto decimal: 7 × 8 = 56, y luego encuentra que la respuesta tiene que ser 0.056.
+
+ 2. Coloca el punto decimal en la respuesta.
+
+  a. 10 × 0.4 = 4 0                      g. 7 × 0.05 =          35              m. 4 × 0.004 =      16
+
+  b. 100 × 0.4 = 4 0 0                   h. 8 × 0.05 =          40              n. 5 × 0.008 =      40
+
+  c. 1000 × 0.4 = 4 0 0                  i. 10 × 0.05 =        50               o. 3 × 0.012 =      36
+
+  d. 8 × 0.4 = 3 2                       j. 10 × 0.09 =             90          p. 10 × 0.003 =         30
+
+  e. 80 × 0.4 = 3 2 0                    k. 100 × 0.09 =          900           q. 100 × 0.003 =        300
+
+  f. 800 × 0.4 = 3 2 0 0                 l. 1000 × 0.09 =         9000          r. 1000 × 0.003 =       3000
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                  23
+

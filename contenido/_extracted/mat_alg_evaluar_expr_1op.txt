@@ -1,0 +1,43 @@
+7/5/26, 8:09 a.m.                                                            Ejercicios para evaluar expresiones
+
+
+                                   Ejercicios para evaluar expresiones 1
+  Halla el valor de las expresiones para los valores de variable(s) dados.
+
+              m
+     1a.        , cuando m = 5                                                        1b. z + 10 + t, cuando z = 8 y t = 1
+              2
+
+
+
+
+     2a. x + 10, cuando x = 10                                                        2b. c + d + 4, cuando c = 10 y d = 10
+
+
+
+
+     3a. d3, cuando d = 8                                                             3b. d3, cuando d = 8
+
+
+
+
+     4a. w + 2, cuando w = 6                                                          4b. t − b, cuando t = 1 y b = 9
+
+
+
+
+     5a. c + t, cuando c = 4 y t = 7                                                  5b. r2, cuando r = 5
+
+
+
+
+                                                                              Clave
+   Autorización de copias: Se permite realizar un número ilimitado de copias de esta hoja de ejercicios para proporcionar material de trabajo a los estudiantes para
+                     sus tareas de matemáticas. No se permite su distribución en sitios web, libros o similares sin la autorización de la autora.
+                                Copyright 2006-2026 Taina Maria Miller / Ejercicios de Matematicas en MamutMatematicas.com
+
+
+
+
+https://www.mamutmatematicas.com/ejercicios/tabla_evaluar_expresiones.php?col=2&row=5&level1=1&min1=1&max1=10&min2…                                                1/1
+

@@ -1,0 +1,143 @@
+                                                         Índice
+                Introducción .......................................................................         4
+
+
+                Introducción a las razones .................................................                 6
+                Razones y tasas ...................................................................         10
+                Tasas unitarias 1 .................................................................         13
+                Tasas unitarias 2 ................................................................          15
+                Utilizar tasas equivalentes .................................................               20
+                Resolver problemas utilizando
+                tasas equivalentes ...............................................................          24
+                Relación de aspecto ............................................................            26
+                Utilizar razones para convertir
+                unidades de medición .........................................................              28
+
+
+                Resolver proporciones: multiplicar en cruz .....................
+                                                                                                            32
+                Por qué funciona multiplicar en cruz ................................                       38
+                Relaciones proporcionales ..................................................                39
+                Graficar relaciones proporcionales – más práctica .........                                 45
+                Más sobre proporciones .....................................................                47
+                Modificar la escala de figuras ............................................                 51
+                Planos de planta ..................................................................         57
+                Los mapas ............................................................................      61
+                Las cifras significativas ......................................................            67
+                Resolver problemas con modelos de barra 1 ...................                               69
+                Resolver problemas con modelos de barra 2 ...................                               72
+                Resolver problemas con modelos de barra 3 ...................                               74
+                Resolver problemas con modelos de barra 4 ...................                               76
+                Problemas con razones y modelos de barra 1 ..................                               80
+                Problemas con razones y modelos de barra 2 ..................                               83
+                Repaso ..................................................................................   86
+
+
+                Respuestas ............................................................................     93
+                Más sobre Mamut Matemáticas .........................................                       129
+
+
+
+
+Sample worksheet from
+www.mathmammoth.com                                               3
+                                              Introducción
+ Mamut Matemáticas Razones, proporciones y la resolución de problemas es un libro de texto y ejercicios
+ que se concentra, en primer lugar, en dos conceptos importantes: razones y proporciones, y después en
+ resolver problemas.
+ El libro comienza con los conceptos básicos de razones, tasas y tasas unitarias. Las lecciones sobre las
+ tasas unitarias enseñan cómo calcularlas y tienen ejercicios para practicar ese concepto. También incluyen
+ práctica con tasas unitarias que implican las fracciones complejas.
+ Las dos lecciones sobre las tasas equivalentes permiten a los estudiantes a resolver una variedad de problemas que
+ implican razones y tasas. También relacionamos el concepto de tasas (específicamente, tablas de tasas equivalentes)
+ con pares ordenados, utilizamos ecuaciones (tales como y = 3x) para describir esas tablas y trazamos los pares en el
+ plano cartesiano.
+ Luego, estudiantes se encuentran con el concepto de la relación de aspecto, la cual es simplemente la razón de la
+ anchura de un rectángulo a su altura y resuelven una variedad de problemas que implican la relación de aspecto.
+ Siguiente, estudiantes aprenden cómo se pueden utilizar las tasas para convertir las unidades de medición. Este es
+ otro método para convertir las unidades de medición además de los métodos que se explican en los libros de Mamut
+ Matemáticas sobre los decimales. No está incluido para insinuar que los estudiantes deberían “cambiar” y olvidar
+ los métodos que aprendieron anteriormente—simplemente es un método diferente para realizar las conversiones.
+ Puede que algunos estudiantes prefieran un método antes que otro; puede que algunos tengan la capacidad de
+ dominar todos los métodos. La mayoría de los estudiantes probablemente escogerán un sólo método que prefieren
+ para realizar estas conversiones.
+
+ Luego, centramos nuestra atención en las proporciones (las cuales son ecuaciones de dos razones). Las lecciones
+ enseñan cómo resolver las proporciones utilizando multiplicación cruzada y cómo ordenar las proporciones en la
+ manera correcta. También estudiamos brevemente los fundamentos de la multiplicación cruzada (¡no es un truco de
+ la magia!).
+
+ Se presenta el concepto de variación directa en la lección Relaciones proporcionales. Escribir y hacer gráficos de
+ ecuaciones da un entendimiento visual de la proporcionalidad. En las dos lecciones sobre proporciones que siguen,
+ estudiantes también practican la resolución de problemas con tasas en maneras diferentes, empleando los varios
+ métodos que han aprendido por todo el libro.
+
+ Las lecciones Modificar la escala de figuras, Planos de planta y Los mapas dan aplicaciones útiles y más práctica
+ para dominar los conceptos de las proporciones. También hay una lección optativa, Las cifras significativas, que
+ trata el concepto de la precisión de una medida y cómo limita la precisión de la solución.
+
+ Por último, estudiamos varios tipos de problemas que implican las razones y utilizamos un modelo de barra para
+ resolver estos problemas. Estas lecciones relacionan las razones con los conocimientos anteriores del estudiante
+ sobre el uso de los modelos de barra como una herramienta para resolver problemas.
+
+       ¡Espero que este libro le resulte de gran ayuda en su enseñanza de las matemáticas!
+
+       Maria Miller, la autora
+
+
+
+
+Sample worksheet from
+www.mathmammoth.com                                       4
+ Recursos útiles en Internet
+ Utilice estos recursos gratuitos para complementar el trabajo en el cuadernillo como usted lo considere
+ conveniente.
+
+ Ratio Stadium (Estadio de razones)
+ Un juego de carreras de múltiples participantes para unir razones equivalentes. El estudiante con el ritmo más
+ rápido de responder correctamente ganará la carrera.
+ http://www.arcademicskillbuilders.com/games/ratio-stadium/
+
+ Dirt Bike Proportions (Proporciones de bicicletas en pista de tierra)
+ Un juego de carrera donde necesita encontrar la incógnita en una proporción sencilla. Este juego también
+ funcionaría igualmente bien para practicar fracciones equivalentes, porque las proporciones son muy sencillas.
+ http://www.arcademicskillbuilders.com/games/dirt-bike-proportions/dirt-bike-proportions.html
+
+ Ratio and Proportion Game From BBC Skillswise (Juego de razón y proporción de BBC Skillswise)
+ Escribe la razón simplificada de canicas rojas a canicas negras. Responda a preguntas sencillas sobre razones y
+ canicas.
+ http://www.bbc.co.uk/skillswise/numbers/wholenumbers/ratioandproportion/ratio/game.shtml
+
+ Ratio Pairs Matching Game (Juego de unir pares de razones)
+ Una cartas que representan razones equivalentes.
+ Fácil: http://nrich.maths.org/4824 Reto: http://nrich.maths.org/4821
+
+ Equivalent Ratios Workout (Sesión de ejercicios de razones equivalentes)
+ 10 problemas online para practicar.
+ http://www.math.com/school/subject1/practice/S1U2L1/S1U2L1Pract.html
+
+ Free Ride (Paseo gratis)
+ Una actividad interactiva sobre las razones de los engranajes de bicicletas. Elija el engranaje de la parte delantera y
+ él de la parte atrás, los cuales determinan la razón de engranaje. Después, elija una ruta, pedalee hacia delante y
+ asegura que cae exactamente en las cinco banderas.
+ http://illuminations.nctm.org/ActivityDetail.aspx?ID=178
+
+ Thinking Blocks (Bloques de pensamiento)
+ Una herramienta interactiva de matemáticas para ayudar a los estudiantes a aprender cómo resolver problemas
+ verbales de varios pasos. Utilizando bloques de colores brillantes, los estudiantes modelan las relaciones
+ entre los componentes de cada problema. El sitio web tiene problemas de suma/resta, problemas de
+ multiplicación/división y problemas de razones. Este modelo de bloques corresponde con el modelo de
+ barras que se utiliza en este libro.
+ http://www.thinkingblocks.com/
+
+ Similar Triangles Quiz from ThatQuiz.org (Examen de triángulos similares de ThatQuiz.org)
+ Este examen tiene 10 preguntas y pide que el estudiante escriba la longitud de lado faltante cuando se muestran los
+ triángulos similares. También puede modificar los parámetros del examen de su gusto.
+ http://www.thatquiz.org/tq-A/?-jg-l1i-m2kc0-na-p0
+
+
+
+
+Sample worksheet from
+www.mathmammoth.com                                         5
+

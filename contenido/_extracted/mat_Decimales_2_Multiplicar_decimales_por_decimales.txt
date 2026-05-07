@@ -1,0 +1,98 @@
+                 Multiplicar decimales por decimales
+  Ya sabes que multiplicación por un número entero, tal como 3 × 4 o 8 × 0.6 , se puede entender como suma
+  repetida. Sin embargo, esta idea no sirve si ninguno de los factores es un número entero, como en 0.83 × 1.43
+  o 2/3 × 7/11. Cuando multiplicas decimales o fracciones, considéralo como encontrar una cierta parte del otro
+  factor. En este sentido, el signo “×” se traduce a “de.”
+  Ejemplo. 0.1 × 80 significa encontrar un décimo “de” 80, lo cual es 8.
+  Ejemplo. 0.4 × 80 significa encontrar cuatro décimos “de” 80. Ya que un décimo de 80 es 8, entonces 0.4 de 80
+  es cuatro veces esa cantidad, o 32.
+  Ejemplo. 0.02 × 3,000 significa encontrar dos centésimos de 3,000. Ya que un centésimo de 3,000 es 30,
+  entonces 0.02 de 3,000 es dos veces esa cantidad, o 60.
+
+ 1. Escribe una multiplicación utilizando un decimal, y resuelve. Recuerda, “de” significa “×”. Utiliza el
+    problema superior en cada recuadro para ayudarte a resolver el problema inferior.
+
+  a. un décimo de 50                       c. un décimo de 700                  e. un centésimo de 4,000
+
+  _______ × ______ = _______               ______ × _______ = _______           _______ × _______ = _______
+
+  b. tres décimos de 50                    d. cuatro décimos de 700             f. seis centésimos de 4,000
+
+  _______ × ______ = _______               ______ × _______ = _______           _______ × _______ = _______
+
+ 2. Resuelve. Utiliza el problema superior en cada recuadro para ayudarte a resolver el problema inferior.
+
+  a. Encuentra 0.1 × 30 _______          b. Encuentra 0.1 × 400 ________        c. Encuentra 0.01 × 600 ________
+
+    Encuentra 0.4 × 30 _______             Encuentra 0.6 × 400 ________            Encuentra 0.07 × 600 ________
+
+  d. Encuentra 0.1 × 520                 e. Encuentra 0.001 × 5,000 ________    f. Encuentra 0.01 × 800
+  _______                                                                       ________
+                                           Encuentra 0.002 × 5,000
+    Encuentra 0.3 × 520 _______          ________                                  Encuentra 0.11 × 800 ________
+
+ 3. Respuesta. No tienes que calcular.
+   a. Has aprendido que 0.1 × 246 significa un décimo de 246.
+     ¿Será el resultado de 0.1 × 246 mayor o menor que 246?
+
+   b. También, 0.1 × 0.8 significa un décimo de 0.8.
+     ¿Será el resultado de 0.1 × 0.8 mayor o menor que 0.8?
+
+   c. ¿Será el resultado de 1.9 × 928 mayor o menor que 928?
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                   29
+  Modificación de escala significa aumentar o reducir algo por algún factor.
+
+  Esta línea roja mide      40 píxeles.                           Ahora, reducimos la línea a escala así que
+  Vamos a aumentarlo a escala cuatro veces:                       mide 0.4 veces lo original:
+              →                                                                →
+
+  Podemos escribir una “ecuación”:                                Nota, ¡se redujo de tamaño! Podemos escribir:
+  4×           =                                                  0.4 ×         =
+
+  Utilizando píxeles, 4 × 40 px = 160 px.                         En píxeles, 0.4 × 40 px = 16 px.
+
+  El número por lo cual multiplicamos (4 y 0.4 en los ejemplos de arriba) se llama el factor de modificación de
+  escala.
+  Si el factor de modificación de escala es mayor que 1, tal como 2.3, la línea resultante es más larga que la
+  original.
+
+  Si el factor de modificación de escala es menor que 1, tal como 0.5 o 0.66, la línea resultante es más corta.
+
+ 4. La línea se está reduciendo. ¿Cuánto medirá en píxeles? Compara los problemas.
+
+  a. 0.1 ×          =                     b. 0.3 ×           =                        c. 0.6 ×         =
+       0.1 × 40 px = ________ px             0.3 × 40 px = ________ px                     0.6 × 40 px = ________ px
+
+  d. 0.2 ×           =                    e. 0.5 ×            =                       f. 0.9 ×         =
+       0.2 × 40 px = ________ px             0.5 × 40 px = ________ px                     0.9 × 40 px = ________ px
+
+
+  Vamos a aumentar el tamaño de esta línea             (40 px) así que sea 1.2 veces más larga:
+  →
+  Podemos escribir una multiplicación: 1.2 ×             =
+  Para calcular cuánto mide en píxeles, primero vamos a encontrar cuánto es 0.2 de 40.
+  Ya que un décimo de 40 es 4, entonces 0.2 de 40 es el doble de eso, o 8.
+  Entonces, 1.2 × 40 px sería 1 × 40 px y 0.2 × 40 px, o 40 + 8 = 48 píxeles.
+
+ 5. La línea roja mide          50 píxeles. Se está aumentando o reduciendo de tamaño. Completa.
+
+  a. 0.5 ×               =                                        b. 0.3 ×             =
+       0.5 × 50 px = ________ px                                     0.3 × 50 px = ________ px
+
+  c. 1.5 ×               =                                        d. 1.3 ×             =
+       1.5 × 50 px = ________ px                                     1.3 × 50 px = ________ px
+
+ 6. Escribe si la línea resultante será más corta o más larga que la original después de que se “multiplica”.
+
+  a. 3.1 ×         será más larga/más corta que                   c. 0.9 ×          será más larga/más corta que
+
+  b. 0.3 ×         será más larga/más corta que                   d. 1.2 ×          será más larga/más corta que
+
+Hoja de muestra de
+www.MamutMatematicas.com                                     30
+

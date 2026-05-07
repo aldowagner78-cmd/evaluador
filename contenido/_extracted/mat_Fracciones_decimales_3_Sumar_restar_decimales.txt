@@ -1,0 +1,98 @@
+                                Sumar y restar decimales
+  He aquí un “truquillo” para ayudarte a estar pendiente de suma y resta de decimales:
+  Da todos los sumandos la misma cantidad de cifras decimales
+  por “colocar” ceros al final.                                               0.024 + 0.1      + 0.05
+                                                                                ↓          ↓       ↓
+  Por ejemplo, en el problema 0.024 + 0.1 + 0.05, si “colocamos”              0.024 + 0.100 + 0.050 = 0.174
+  dos ceros al final de 0.1 y un cero al final de 0.05, todos los
+  sumandos tendrán tres cifras decimales:
+                                 0.024 + 0.100 + 0.050                                               0.0 2 4
+                                                                                                     0.1 0 0
+  Ahora, puedes imaginar sumando los números sin los puntos decimales:
+                                                                                                   + 0.0 5 0
+  24 + 100 + 50 = 174. La respuesta completa tiene tres decimales, entonces
+  es 0.174. La suma de columnas a la derecha muestra el mismo principio. →                           0.1 7 4
+
+
+ 1. Escribe el decimal que es mayor o menor que el decimal que se da por la cantidad especificada.
+
+         U    d   c m d-m                                      U    d    c m d-m c-m
+  a.                                                      b.
+         0 . 0 0 2                                             0 . 8 5
+  1 décimo más: _______________                           2 centésimos más: _______________
+  1 milésimo más: _______________                         2 diezmilésimos más: _______________
+  1 diezmilésimo más: _______________                     2 cienmilésimos más: _______________
+
+
+ 2. Suma.
+
+   a. 0.2 + 0.8                        d. 0.03 + 0.06                       g. 0.09 + 0.007
+
+   b. 0.2 + 0.08                       e. 0.03 + 0.0006                     h. 0.9 + 0.007
+
+   c. 0.2 + 0.0008                     f. 0.03 + 0.00006                    i. 0.00009 + 0.007
+
+ 3. Suma o resta en tu mente.
+          3                             27                          5                      289
+  a. 1      + 0.56          b. 0.2 +                    c. 3.19 +                   d. 2        − 0.1
+         10                             100                         10                     1000
+
+
+
+ 4. Continua las secuencias por seis números más. Usa matemáticas mental.
+
+   a. 0.25, 0.28, 0.31,
+
+   b. 3.275, 3.28, 3.285,
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                            16
+ 5. Halla los dos cálculos que están equivocados, y corrígelos.
+  a. 0.15 + 0.2 = 0.17               b. 1.06 + 0.04 = 1.1              c. 0.9 − 0.08 = 0.1
+
+
+ 6. Halla el valor de la expresión 0.5 − y cuando
+
+   a. y = 0.02                        b. y = 0.002                          c. y = 0.0002
+
+
+
+
+ 7. Calcula. Acuérdate a alinear los puntos decimales.
+
+    a. 6.907 – 4.80056
+
+
+    b. 2 + 9.082 + 0.038284 + 4.5028
+
+
+    c. 410 – 25.6 – 4.59384
+
+
+ 8. Primero convierte las fracciones en decimales, después calcula.
+
+         2     35                                                 4    4
+   a.      +                                              b.         +
+        10   1,000                                             10,000 100
+
+
+
+
+         7     205       18                                    900    9     1
+   c.      +         –                                    d.       +      –
+        10   100,000   1,000                                   100 10,000   2
+
+
+
+
+ 9. Resuelve las ecuaciones.
+
+   a. 0.0095 + x = 2.3                b. x – 0.39192 = 0.00311              c. 1 – x = 0.004803
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                             17
+

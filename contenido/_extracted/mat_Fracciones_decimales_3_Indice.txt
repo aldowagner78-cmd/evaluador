@@ -1,0 +1,158 @@
+                                                 Índice
+              Introducción ......................................................................... 5
+
+              Valor posicional con decimales .......................................... 12
+              Comparar decimales ........................................................... 14
+              Sumar y restar decimales ................................................... 16
+              Redondear decimales ......................................................... 18
+
+              Repaso: multiplicar y dividir decimales en la mente ...... 21
+              Repaso: multiplicar decimales por decimales ................. 23
+              Repaso: algoritmo de división con decimales .................. 25
+              Resolver problemas con decimales ................................... 27
+              Fracciones a decimales ...................................................... 29
+
+              Multiplicar y dividir por las potencias de diez ................ 32
+              Notación científica .............................................................. 34
+
+              Dividir decimales por decimales 1 ................................... 37
+              Dividir decimales por decimales 2 ................................... 40
+
+              Problemas con unidades de medición imperiales ..........                             42
+              Prefijos del sistema métrico .............................................           46
+              Convertir unidades en el sistema métrico ......................                      48
+              Convertir entre imperial y métrico .................................                 52
+              Repaso de decimales .........................................................        54
+
+              Simplificar fracciones usando factorización ..................                      59
+              Terminología de fracciones .............................................            62
+              Repaso: fracciones y números mixtos ............................                    63
+              Restar números mixtos ....................................................          65
+              Sumar fracciones heterogéneas ......................................                67
+              Repaso: Simplificar fracciones .......................................              71
+              Sumar y restar fracciones: más práctica ......................                      72
+
+              Multiplicar fracciones .....................................................        74
+              Simplificar antes de multiplicar ....................................               77
+              Dividir fracciones ............................................................     79
+              Muchas operaciones y ecuaciones de fracciones ...........                           82
+              Comparar división de fracciones y decimales ...............                         85
+              Multiplicación, división y fracciones ..............................                88
+Hoja de muestra de
+www.MamutMatematicas.com                                 3
+              Problemas con partes fraccionarias ............................... 90
+              Problemas con razones involucrando fracciones .......... 94
+              Escalar en mapas .............................................................. 96
+              Repaso de fracciones ........................................................ 99
+
+              Clave .................................................................................. 103
+
+              Más de Mamut Matemáticas .......................................... 128
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                   4
+                                              Introducción
+ Mamut Matemáticas Fracciones y Decimales 3 continua el estudio de los temas de fracciones y decimales, en el
+ nivel de 6º grado. Este libro supone que el estudiante ya ha estudiado fracciones y decimales en el pasado, por
+ ejemplo usando Mamut Matemáticas Fracciones 2 y Mamut Matemáticas Decimales 2.
+ La meta del libro es cubrir toda la aritmética de fracciones y decimales, usando hasta seis cifras decimales y
+ denominadores en fracciones que sean mayores que los que comúnmente se encuentran en materiales de 4º y 5º
+ grado. Para algunos estudiantes, puede que esto signifique mucho repaso, pero algunos estudiantes necesitan
+ reforzar estos temas si no los dominaron completamente en grados anteriores.
+ El libro comienza con el estudio de decimales, el sistema métrico, y usando decimales en unidades de medición. Si
+ el estudiante ya tiene buen entendimiento de los decimales, considere asignando sólo 1/3 - 1/2 de los problemas, y
+ él/ella debería poder completar rápidamente esas lecciones.
+ Comenzamos por estudiar valor posicional con decimales y comparar decimales, hasta seis cifras decimales. Varias
+ de las lecciones que siguen contienen principalmente repaso, sólo usando decimales más largos que los que se usan
+ en 5º grado: sumar y restar decimales, redondear decimales, usar matemáticas mental para multiplicar y dividir
+ decimales, algoritmo de división con decimales, fracciones a decimales y multiplicando y dividiendo decimales por
+ las potencias de diez.
+ Notación científica es un tema nuevo. También está cubierto por la mayoría de los currículos de matemáticas de 7º
+ grado (primer año de escuela secundaria). Después de eso, dirigimos la atención otra vez a dividir decimales por
+ decimales. He tratado de explicar el principio que respalda el atajo o regla común (“Mover el punto decimal en el
+ divisor y el dividendo tantos pasos que el divisor se convierte en un número entero"). El principio aquí tiene que
+ ver con multiplicar el divisor y el dividendo por una potencia de diez, y aun está relacionado con fracciones
+ equivalentes. Muchos libros escolares nunca explican este principio en conexión a división de decimales.
+ Las últimas lecciones en la sección con decimales tratan unidades de medición y el sistema métrico, y hacen un
+ buen final de nuestro estudio de decimales.
+ Después de decimales, el libro cubre toda la aritmética de fracciones. La meta es que el estudiante se pondrá
+ “fluido” con operaciones básicas de fracciones, si todavía no lo ha hecho. Supongo que el estudiante ya ha
+ estudiado las cuatro operaciones de fracciones (en 5º grado), entonces la cobertura informativa de este libro es un
+ poco más corta y no tan detallada como en los libros Mamut Matemáticas Fracciones 1 y Mamut Matemáticas
+ Fracciones 2.
+ Por ejemplo, las lecciones no siempre rebuscan las razones que funciona un atajo —mucho de eso se explica en
+ esos dos libros que se mencionaron anteriormente. Mientras lo considero muy importante que el estudiante entienda
+ los conceptos de fracciones y entienda porqué se hacen ciertas cosas en la manera que se hacen, el material aquí
+ está añadiendo al material de los grados anteriores, donde los estudiantes han sido expuestos a esos pensamientos e
+ ideas.
+ Si el estudiante ya domina las fracciones, considere asignando sólo1/3 - 1/2 de los ejercicios de cálculos. Sin
+ embargo, puede que muchos estudiantes necesiten el repaso a fondo si han olvidado estos temas desde 5º grado,
+ entonces use su juicio.
+ La lección “Comparar división de fracciones y decimales” es opcional. A menudo, puede resolver la misma
+ división usando o división de fracciones o de decimales, si puede convertir los números de decimales a fracciones o
+ viceversa. Esta lección sólo examina la diferencia entre división de fracciones y de decimales, y es mejor para
+ estudiantes avanzados que están interesados.
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                   5
+ La página sobre ecuaciones de fracciones también es opcional y se la puede omitir.
+ Además de reforzar las operaciones de fracciones, estudiantes también tienen varias lecciones sobre resolver
+ problemas para estudiar. Muchos de los problemas en estas lecciones repasan y refuerzan conceptos ya estudiados,
+ tales como razones y usando diagramas de barra para resolver problemas con partes fraccionarias. Como una
+ nueva—y yo espero que interesante— aplicación, estudiamos escalar en mapas.
+
+       ¡Le deseo muchos éxitos en su enseñanza de matemáticas!
+       Maria Miller, la autora
+
+
+
+ Recursos útiles en el Internet
+
+ Use estos recursos gratis en el Internet para complementar los ejercicios en el libro como usted crea
+ conveniente.
+
+ Place Value Strategy (Estrategia de valor posicional)
+ Coloque las 3 ó 4 cifras dadas por el 'spinner' para hacer el número mayor posible.
+ www.decimalsquares.com/dsGames/games/placevalue.html
+
+ Decimal Darts (Dardos de decimales)
+ Trate de hacer explotar globos con dardos por estimar la altura de los globos.
+ www.decimalsquares.com/dsGames/games/darts.html
+
+ Estimate (Estimar)
+ Estime a qué número decimal en la línea de números está señalando la flecha. El juego tiene las palabras
+ “Evaluation version” (Versión para evaluar) en la pantalla, pero sí se puede jugar.
+ www.interactiveresources.co.uk/mathspack1/estimate/estimate.html
+
+ Decimal Challenge (Reto de los decimales)
+ Trate de adivinar un número decimal entre 0 y 10. Cada vez, el juego reacciona y le dice si su adivinanza
+ era demasiada alta o demasiada baja.
+ www.interactivestuff.org/sums4fun/decchall.html
+
+ Beat the Clock (Ganar al reloj)
+ Escriba un número decimal para representar la parte de un cuadrado que esta sombreada en este juego
+ cronometrado.
+ www.decimalsquares.com/dsGames/games/beatclock.html
+
+ Scales (Balanza)
+ Mueva la aguja para corresponder con el número decimal que se da. Refresque la página de su navegador
+ para conseguir otro problema para resolver.
+ www.interactivestuff.org/sums4fun/scales.html
+
+ Switch (Cambiazo)
+ Coloque la secuencia de números decimales en orden ascendiente por cambiarlos. Refresque la página de
+ su navegador para conseguir otro problema para resolver.
+ www.interactivestuff.org/sums4fun/switch.html
+
+ Smaller and Smaller Maze (Laberinto más y más pequeño)
+ Practique colocando números decimales en orden para atravesar el laberinto.
+ www.mathsyear2000.org/magnet/kaleidoscope/smaller/index.html
+Hoja de muestra de
+www.MamutMatematicas.com                                 6
+

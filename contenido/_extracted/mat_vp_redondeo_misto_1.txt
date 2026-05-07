@@ -1,0 +1,53 @@
+7/5/26, 8:09 a.m.                                                                         Ejercicios de redondear 1
+
+
+                                                            Ejercicios de redondeo 1
+                                    Redondear los siguientes números a la posición del dígito subrayado.
+                                      Por ejemplo, 5678 significa redondear a la decena más cercana.
+
+
+  1a.   951012                                                                             1b.     404825
+
+
+
+  2a.   103331                                                                             2b.     129428
+
+
+
+  3a.   236350                                                                             3b.     175861
+
+
+
+  4a.   399132                                                                             4b.     238679
+
+
+
+  5a.   125689                                                                             5b.     483848
+
+
+
+  6a.   234111                                                                             6b.     748286
+
+
+
+  7a.   13294                                                                              7b.     38722
+
+
+
+  8a.   316773                                                                             8b.     227335
+
+
+                                                                                  Soluciones
+
+
+
+
+    Autorización de copias: Se permite realizar un número ilimitado de copias de esta hoja de ejercicios para proporcionar material de trabajo a los estudiantes para sus tareas de
+                                     matemáticas. No se permite su distribución en sitios web, libros o similares sin la autorización de la autora.
+                                         Copyright 2006-2026 Taina Maria Miller / Ejercicios de Matematicas en MamutMatematicas.com
+
+
+
+
+https://www.mamutmatematicas.com/ejercicios/tabla-redondear.php?R2=&R=-4&R3=&instr=2&col=2&row=8&min1=100&max1=…                                                                      1/1
+

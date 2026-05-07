@@ -1,0 +1,109 @@
+                       Dividir decimales por decimales 1
+ 1. Resuelve, pensando con cuidado en cuántas veces
+    “cabe” el divisor en el dividendo. Compara los            a. 120 ÷ 20 =             e. 28 ÷ 4 =
+    problemas que están adentro de la misma “caja.”
+    ¿Qué observas?                                            b. 12 ÷ 2 =               f. 2.8 ÷ 0.4 =
+
+                                                              c. 1.2 ÷ 0.2 =            g. 0.28 ÷ 0.04 =
+
+                                                              d. 0.12 ÷ 0.02 =          h. 0.028 ÷ 0.004 =
+
+
+
+    ¡Aquí hay un principio importante!
+    Considera cualquiera división. Si multiplicas el dividendo y el divisor por el
+    mismo número, el cociente no cambia.
+
+    Ejemplo 1. Resuelve 6 ÷ 0.3.
+    Supón que multiplicamos 6 y 0.3 por 10 para conseguir una nueva división: 60 ÷ 3. Tiene la
+    misma respuesta que el problema original, 6 ÷ 0.3. La respuesta de ambos problemas es 20.
+
+                             56.4
+    Ejemplo 2. Resuelve           .
+                             0.04
+    Vamos a multiplicar el dividendo y el divisor por 100 para conseguir un nuevo
+               5,640                                                                                  1410
+     problema:        . Ahora usamos el algoritmo de división para resolverlo (a la derecha →):     )
+                                                                                                   4 5640
+                 4
+                                     56.4                                                            -4
+           5,640                                                                                      16
+    Ya que         es igual a 1,410,        es igual a ese número también. ¿Tiene sentido eso?
+             4
+                                     0.04
+    Piensa: ¿Cuántas veces cabe 0.04 (un número pequeño) en 56.4? Tiene sentido que
+    cabría más que 1,000 veces. Mil veces 0.04 es igual a 40. Además, 1,500 veces
+    0.04 sería 60. Entonces tiene sentido que 1,410 veces 0.04 es 56.4.
+
+
+                                                                            ×2                    × 10
+ Ya has visto este principio con fracciones equivalentes. Podemos
+ multiplicar el numerador y el denominador por el mismo número,          3   6             Ó 2 = 20
+ y se queda igual el valor de la fracción.                                 =
+                                                                         7   14              5   50
+
+                                                                            ×2                    × 10
+ Acuérdate, fracciones sólo son divisiones.
+                                                                            × 10                  × 100
+ Usamos el mismo principio cuando escribimos
+ una división usando una línea fraccionaria.                              0.5   5             6.4    640
+                                                                              =   = 2.5 Ó          =     = 80
+                                                                          0.2   2             0.08    8
+ Nuestra meta siempre es convertir el divisor en la parte abajo
+ en un número entero.                                                       × 10                  × 100
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                37
+ 2. Multiplica el dividendo y el divisor por el mismo número que se da. Después, divide en tu mente.
+
+          × 10                                × 100                                   × 1000
+
+         9                                   2                                      0.3
+  a.        =      =                 b.         =          =                 c.          =     =
+        0.3                                0.05                                    0.006
+
+          × 10                                × 100                                   × 1000
+
+
+ 3. Haz lo mismo que hiciste en ejercicio 2. Escoge un factor que convertirá en un número entero el divisor
+    en la parte abajo. Multiplica el dividendo y el divisor por ese mismo factor. Después, divide en tu
+    mente.
+
+
+        16                                   7                                      99
+  a.        =      =                 b.         =          =                 c.         =      =
+        0.4                                0.07                                    0.11
+
+
+
+
+        3.4                                0.56                                     15
+  d.        =      =                 e.         =          =                 f.         =      =
+        0.2                                 0.8                                   0.003
+
+
+
+ 4. Multiplica el dividendo y el divisor por el mismo número (10, 100, ó 1,000), así que consigues
+    una nueva división donde el divisor será un número entero. Después, divide en tu mente.
+
+  a. 0.8 ÷ 0.02                      b. 0.42 ÷ 0.007                         c. 35 ÷ 0.5
+
+       _____ ÷ ____ = _____               _____ ÷ _____ = _____                   _____ ÷ _____ = _____
+
+ 5. Multiplica el dividendo y el divisor por el mismo número (10, 100, ó 1000) así que consigues
+    un divisor que sea un número entero. Después, divide usando el algoritmo de división.
+
+  a. 27.6 ÷ 0.3                                            b. 2.088 ÷ 0.06
+
+       27.6
+            =                                                      =
+       0.3
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                              38
+

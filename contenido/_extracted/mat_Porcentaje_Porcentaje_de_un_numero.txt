@@ -1,0 +1,47 @@
+    Porcentaje de un número
+              100% de algo significa todo de esa cosa.       1% de algo significa 1/100 de esa cosa.
+
+     Para calcular un porcentaje de una cantidad, usamos el mismo método que cuando calculamos una
+     parte fraccionaria de esa cantidad porque por ciento significa una centésima parte. Por eso, porcentajes
+     sólo son fracciones.
+
+     ¿Cuánto es 1% de 200 kg? Esto significa “¿Cuánto es 1/100 de 200 kg?” Sencillamente, es 2 kg.
+     ¡Sólo divides por 100 para hallar una centésima parte!
+     Para hallar 1% de algo (1/100 de algo), divide por 100.
+     Acuérdate cómo dividir por 100 en tu mente: Sólo mueve el punto decimal dos posiciones a la
+     izquierda.
+     Por ejemplo, 1% de 540 es 5.4. Y, 1% de 8.30 es 0.083.
+
+     Para hallar 10% de alguna cantidad, divide por 10.
+     ¿Por qué funciona eso? 10% es 10/100. Y, 10/100 es igual a 1/10. Entonces, ¡sólo hallamos 1/10 de la
+     cantidad! Por ejemplo, 10% de 340 personas es 34 personas. De forma similar, 10% de $2.30 es $0.23.
+     (Para dividir por 10 en tu mente, sólo mueve el punto decimal una posición a la izquierda.)
+
+
+    1. Halla 10% de estos números.
+
+    a. 900 _______             b. 160 _______             c. 50 _______               d. 4,100 _______
+
+    e. 96 _______              f. 145 _______             g. 9 _______                h. 0.5 _______
+
+
+    2. Halla 1% de estos números.
+
+    a. 900 _______             b. 6,800 _______           c. 550 _______              d. 80 _______
+
+    e. 56 _______              f. 12 _______              g. 5 _______                h. 1 _______
+
+
+    3. Si 1% del sueldo de Soraya es $23, ¿cuánto es su sueldo?
+
+    4. Diez por ciento del costo de una piscina es $430. ¿Cuánto cuesta la piscina?
+
+    5. Marco paga 10% de su sueldo en impuestos. Su sueldo es $450.
+       Halla cuánto le queda después de pagar impuestos.
+
+    6. Los ingresos de Erica son $2,500. Halla cuánto le queda
+       después de donar 1% de sus ingresos a obras benéficas.
+
+Hoja de muestra de
+www.MamutMatematicas.com                                14
+

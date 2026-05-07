@@ -1,0 +1,43 @@
+                         Repaso: décimos y centésimos
+       Decimales son fracciones.
+       Es muy sencillo. Los decimales son fracciones con denominadores de 10, 100, 1,000, etc.
+       El primer dígito después del punto decimal te dice cuántos décimos (décimas partes) el número tiene.
+                                      1                            8                 5
+       Entonces, 0.1 es un décimo o 10 . 0.8 es ocho décimos o 10 . 12.5 es 12 10 .
+
+       El segundo dígito después del punto decimal te dice la cantidad de centésimos.
+                                             2                                   9                 7
+       Entonces, 0.02 es dos centésimos o 100 . 0.09 es nueve centésimos o 100 . 4.07 es 4 100 .
+
+
+       ¿Y si tienes décimos y centésimos, tal como en el número 0.67?    Tiene
+       6 décimos y 7 centésimos.
+                                                                                                   =
+       Como la ilustración a la derecha muestra, seis décimos o 0.6 es igual a
+       60 centésimos.
+       Entonces, 6 décimos y 7 centésimos es igual a 60 centésimos y 7                    6                60
+       centésimos, o 67 centésimos.                                                      10
+                                                                                                   =      100
+
+                                                                                 67
+       Leemos el número 0.67 como 67 centésimos. Como una fracción, es 100 .
+       Entonces, si hay dos dígitos decimales, lee el número que forman como centésimos: 0.49 es 49
+       centésimos.
+
+
+ 1. Escribe como fracciones/números mixtos y como decimales.
+
+
+
+
+  a.         = _______           b.        = _______        c.         = _______              d.       = _______
+
+
+
+
+  e.             = _______       f.        = _______        g.           = _______            h.          = _______
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                   7
+

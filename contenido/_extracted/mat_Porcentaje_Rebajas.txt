@@ -1,0 +1,44 @@
+    Rebajas
+             Además de calcular impuesto de venta, la área de vida en la cual probablemente
+             necesitarás usar los porcentajes con más frecuencia es en calcular rebajas.
+             Ejemplo 1. Una computadora portátil que cuesta $600 tiene una rebaja de 20%.
+             ¿Cuál es el precio de rebaja?
+             Calculamos 20% de $600. Eso es el precio de rebaja en dólares.
+             Después, restamos eso del precio original, $600.
+             20% de $600 es $120. Entonces $600 − $120 = $480.
+             Otra manera: Ya que se ha quitado 20% del precio, queda 80% del precio.
+             Entonces, por calcular 80% del precio original, conseguirás el nuevo precio de rebaja:
+             0.8 × $600 = $480
+
+    1. Todas estas cosas están a la venta. Calcula la rebaja en dólares y el precio de venta que resulta.
+     a.                                   b.                                  c.
+                  Precio: $90                            Precio: $5                        Precio: $15
+                  Rebaja de 20%                          Rebaja de 40%                     Rebaja de 30%
+
+     Cantidad de rebaja: $    18          Cantidad de rebaja: $________       Cantidad de rebaja: $________
+     Precio de venta: $____________ Precio de venta: $____________ Precio de venta: $__________
+
+    2. Un traje de baño que costaba $25 estaba de venta con una rebaja del 20%.
+       Mónica calculó el precio de rebaja en esta manera:
+         $25 − $20 = $5.
+       ¿Dónde se equivocó? Halla el precio de rebaja correcto.
+    3. Todas las cosas están a la venta. Halla el precio de rebaja.
+
+     a.                                   b.
+                                                                               c.
+     Precio: $1.20                        Precio: $18                          Precio: $150
+     Rebaja del 25%                       Rebaja del 25%                       Rebaja del 30%
+     Precio rebajado: $_______            Precio rebajado: $_______            Precio rebajado: $_______
+
+     d.                                   e.                                   f.
+
+     Precio: $20                          Precio: $2.20                        Precio: $1.30
+     Rebaja del 40%                       Rebaja del 10%                       Rebaja del 50%
+
+     Precio rebajado: $________           Precio rebajado: $_______            Precio rebajado: $________
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                  21
+

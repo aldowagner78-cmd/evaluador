@@ -1,0 +1,234 @@
+              Mamut Matemáticas Números enteros
+
+                                                 Índice
+
+               Introducción ................................................................... 4
+
+               Números enteros ............................................................ 8
+               Suma y resta como movimientos .................................. 11
+               Sumar números enteros 1: fichas ................................. 14
+               Sumar números enteros 2 ............................................. 17
+               Restar un número entero negativo .............................. 20
+               Suma y resta en resumen .............................................. 22
+               La cuadrícula de coordenadas ..................................... 24
+
+               Multiplicar números enteros ........................................ 28
+               Dividir números enteros ............................................... 31
+               Multiplicación y división en resumen ......................... 33
+
+               Práctica con la cuadrícula de coordenadas ................. 36
+               Graficar .......................................................................... 39
+               Graficar con funciones lineales .................................... 43
+
+               Repaso 1 ......................................................................... 47
+               Repaso 2 ......................................................................... 50
+
+               Respuestas ...................................................................... 52
+
+               Más sobre Mamut Matemáticas ................................... 73
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                 3
+                                          Introducción
+ Mamut Matemáticas Números enteros es un libro de texto y ejercicios que cubre todos los temas
+ importantes de números enteros para la escuela media (grados 6-8), con instrucciones dirigidas al
+ estudiante. Por consiguiente, requiere muy poca participación por parte del profesor/la profesora o
+ padre/madre.
+
+ Se presentan los números enteros empleando la recta numérica para relacionarlos con los conceptos de
+ temperatura, altitud y dinero.
+
+ Se presenta suma y resta de números enteros por medio de dos modelos principales: (1) movimientos por
+ la recta numérica y (2) fichas positivas y negativas. Con la ayuda de estos modelos, los estudiantes no
+ sólo deberían aprender los atajos, o “reglas,” para sumar y restar números enteros, sino también deberían
+ entender por qué funcionan estos atajos.
+
+ Una lección sobre restar los números enteros explica el atajo para restar un número entero utilizando tres
+ puntos de vista diferentes (fichas, movimientos en la recta numérica y como una distancia o diferencia).
+ También hay una lección de resumen sobre la suma y resta de números enteros.
+
+ Siguiente, estudiantes aprenden a ubicar puntos en todos de los cuatro cuadrantes y cómo cambian las
+ coordenadas de una figura cuando se refleja por el eje de abscisas u ordenadas. Estudiantes también
+ mueven puntos según instrucciones dadas, y encuentran distancias entre puntos que tienen la misma
+ primera coordenada o segunda coordenada.
+
+ Se explica multiplicación y división de números enteros primero utilizando fichas y luego contando con
+ las propiedades de multiplicación y división. Utilizamos multiplicación y división en el contexto de
+ aumentar o reducir figuras geométricas en la cuadrícula de coordenadas. Estas lecciones también incluyen
+ algunas ecuaciones sencillas, problemas con varias operaciones y adivinanzas divertidas.
+
+ La última sección de lecciones en este libro trata el concepto de graficar. Estudiantes también trazan
+ puntos en la cuadrícula de coordenadas según una ecuación dada en dos variables (tal como y = x + 2),
+ esta vez también utilizando números negativos. Ellos ven los patrones en las coordenadas de los puntos y
+ el patrón en los puntos que se dibujan en la cuadrícula, y también resuelven algunos problemas de la vida
+ real.
+
+ El libro termina con dos lecciones de repaso.
+
+       ¡Espero que este libro le resulte de gran ayuda en su enseñanza de las matemáticas!
+
+       Maria Miller, la autora
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                              4
+ Recursos útiles en Internet
+
+ Utilice estos recursos gratuitos para complementar el trabajo en el cuadernillo como usted lo considere
+ conveniente.
+
+ Ordenar números enteros
+
+ Number Balls Game (Juego de pelotas de números)
+ Haga un clic en orden ascendiente en las pelotas de números que están rotando.
+ http://www.sheppardsoftware.com/mathgames/numberballs/numberballsAS2.htm
+
+ Negative Numbers Hat Game (Juego de sombreros con números negativos)
+ Ponga los sombreros con números en las cabezas de las personas en el orden correcto.
+ http://www.primaryresources.co.uk/online/negnumorder.swf
+
+ Order Negative Numbers (Ordenar números negativos)
+ Arrastre los números a la escalera en el orden correcto (baje la página un poco para ver la actividad).
+ http://www.bbc.co.uk/bitesize/ks3/maths/number/negative_numbers/revision/2/
+
+ Suma y resta
+ La sección para todas las operaciones tiene aun más juegos para practicar la suma y la resta.
+
+ Adding and Subtracting Integers Gizmos from Explorelearning.com
+ (Aparatos de sumar y restar números enteros de Explorelearning.com)
+ Simulaciones interactivas que ilustran sumar y restar números enteros en una recta numérica o con fichas.
+ Incluye una guía de exploración y preguntas de evaluación. Puede obtener acceso gratuito por 5 minutos,
+ o una cuenta de prueba gratuita por 30 días.
+ http://www.explorelearning.com/index.cfm?
+ method=cResource.dspResourcesForCourse&CourseID=211
+
+ Color Chips Addition (Suma de fichas coloreadas)
+ El usuario arrastra fichas positivas/negativas al área de trabajar, y después las combina en pares para ver
+ la suma.
+ http://nlvm.usu.edu/en/nav/frames_asid_161_g_2_t_1.html
+
+ Color Chips Subtraction (Resta de fichas coloreadas)
+ Arrastre fichas positivas/negativas y pares de ceros en el área de trabajar como se instruye, después reste.
+ http://nlvm.usu.edu/en/nav/frames_asid_162_g_3_t_1.html
+
+ Line Jumper (Saltador de rectas)
+ Se ve una recta numérica y una suma o una resta. Haga un clic en la respuesta correcta en la recta
+ numérica.
+ http://www.funbrain.com/linejump
+
+ Space Coupe to the Rescue (Cupé espacial al rescate)
+ Por escoger un número positivo o negativo, el jugador controla la posición vertical de una nave espacial.
+ Si la nave espacial alcanza la misma posición vertical como un tanque de virus, se destruye el tanque.
+ http://pbskids.org/cyberchase/games/negativenumbers
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                               5
+ Integer Warp (race) (Carrera de números enteros)
+ Sume dos números enteros de la telarañas para conseguir el número en el medio como una suma. Gana el
+ jugador que hace más combinaciones en un minuto. Hasta cuatro personas pueden jugar al mismo tiempo.
+ http://www.arcademicskillbuilders.com/games/spider-match/spider-match.html
+
+ Red and Black TripleMatch Game for Adding Integers (Juego de triple unir rojo y negro)
+ Este es un juego divertido de cartas para 2-5 personas que practica sumar números enteros.
+ http://mathmamawrites.blogspot.com/2010/07/black-and-red-triplematch-card-game-for.html
+
+ Graficar
+
+ Desmos Graphing Calculator (Calculadora de graficar de Desmos)
+ Una calculadora de graficar que es versátil, fácil de usar y gratuita. Para
+ practicar trazar puntos y rectas como se aprende en este libro, agregue
+ un artículo utilizando el botón de + y escoja “table” (tabla). Complete los
+ valores de x e y, y Desmos trazará los puntos. Luego, usted puede escribir
+ la ecuación de la recta en la forma de y = (algo), tal como y = 2x, y
+ compruebe si la recta pasa por los puntos que usted trazó.
+ https://www.desmos.com/calculator
+
+ Meta-Calculator 2.0 (Meta-Calculadora 2.0)
+ Escoja “Graphing Calculator” (Calculadora de graficar). Se puede introducir una ecuación para graficar, o
+ escoger “plot points” (trazar puntos) del menú de arriba para introducir puntos individuales.
+ http://www.meta-calculator.com/online/
+
+ Graph Mole (Topo de graficar)
+ Un juego divertido sobre trazar puntos en la coordenada cartesiana. Trace puntos antes que el topo come
+ los vegetales.
+ http://funbasedlearning.com/algebra/graphing/default.htm
+
+ Catch the Fly (Atrape la mosca)
+ Espere que la mosca aterrice en la cuadrícula de coordenadas, luego escriba sus coordenadas, y una rana
+ la comerá.
+ http://hotmath.com/hotmath_help/games/ctf/ctf_hotmath.swf
+
+ Looking for the Top Quark Game (Juego de buscar el quark superior)
+ Cada jugador recibe seis quarks que esconde en una cuadrícula. Los jugadores utilizan coordenadas para
+ encontrar los quarks escondidos de su adversario.
+ http://education.jlab.org/topquarkgame
+
+ Coordinate Grid Quiz from ThatQuiz.org (Examen de la cuadrícula de coordenadas de
+ ThatQuiz.org)
+ Este examen tiene 10 preguntas y pide o que el estudiante trace un punto o que dé las coordenadas de un
+ punto dado. También puede modificar los parámetros del examen a su gusto.
+ http://www.thatquiz.org/tq-7/?-j8-l5-m2kc0-na-p0
+
+ Co-ordinate Game (Juego de coordenadas)
+ Verá un círculo rojo en la cuadrícula. Introduzca sus coordenadas y haga un clic en “check” (comprobar).
+ http://www.bgfl.org/bgfl/custom/resources_ftp/client_ftp/ks3/maths/coordinate_game/game1.htm
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                              6
+ Multiplicación y división
+ La sección para “todas las operaciones” tiene aun más juegos para practicar la multiplicación y la
+ división.
+
+ Integer Warp (race) (Carrera de números enteros)
+ Una carrera de un minuto con hasta cuatro naves espaciales (participantes). Responda correctamente a
+ problemas de multiplicación de números enteros para acelerar su nave espacial.
+ http://www.arcademicskillbuilders.com/games/integer-warp/integer-warp.html
+
+ Integers Multiplication Blocks (Bloques de multiplicación de números enteros)
+ Haga un clic en números cuyo producto es igual al número objetivo que se da. Anote tantos puntos como
+ puede en el límite de tiempo dado.
+ http://www.xpmath.com/forums/arcade.php?do=play&gameid=58
+
+ Integers Multiplication -144 to 144 (Multiplicación de números enteros -144 a 144)
+ Resuelva tantos problemas de multiplicar números enteros como puede en un minuto con estas tarjetas
+ online.
+ http://www.xpmath.com/forums/arcade.php?do=play&gameid=17
+
+ Integers Division -81 to 81 (División de números enteros -81 a 81)
+ Resuelva tantos problemas de dividir números enteros como puede en un minuto con estas tarjetas online.
+ http://www.xpmath.com/forums/arcade.php?do=play&gameid=16
+
+
+ Todas las operaciones / General
+
+ Arithmetic Four (Connect the Four game)(Aritmética cuatro) (Juego de unir los cuatro)
+ Practique cualquiera o todas de las cuatro operaciones con números enteros. Primero responda a un
+ problema de matemáticas, después puede realizar su jugada en un juego de unir los cuatro.
+ http://www.shodor.org/interactivate/activities/ArithmeticFour
+
+ Flashcards with Negative Numbers (Tarjetas con números negativos)
+ Tarjetas interactivas en AplusMath.com para practicar suma, resta, multiplicación y división de números
+ enteros.
+ http://www.aplusmath.com/Flashcards/sub-nflash.html
+
+ Hojas de ejercicios gratuitas sobre los números enteros
+ Utilice el generador de hojas de ejercicios de las operaciones básicas para crear hojas de ejercicios con
+ números enteros por escoger que la gama de números sea de negativo a positivo.
+ http://www.mamutmatematicas.com/ejercicios/operaciones-basicas.php
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                              7
+

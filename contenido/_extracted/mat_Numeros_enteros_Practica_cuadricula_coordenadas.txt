@@ -1,0 +1,42 @@
+                Práctica con la cuadrícula de coordenadas
+ Nota en la cuadrícula, el punto (−6, 5) mueve
+ cuatro unidades a la derecha. Acaba en (−2, 5).
+
+ 1. a. Los puntos (−5, −2), (−1, −7) y (1, −6) son
+       vértices de un triángulo. Dibuja el triángulo.
+
+   b. Mueve el triángulo cinco unidades hacia
+      arriba (dibuja el triángulo nuevo). Escribe
+      las coordenadas de los vértices movidos.
+      (−5, −2) → ( _____ , _____ )
+      (−1, −7) → ( _____ , _____ )
+      (1, −6)   → ( _____ , _____ )
+
+
+
+
+ 2. Escribe las coordenadas de los puntos nuevos        Punto              Dirección              Punto nuevo
+    basado en las direcciones en el recuadro a la
+    derecha.                                             (1, 1)   7 unidades hacia abajo
+                                                        (2, −2)   6 unidades hacia la izquierda
+                                                        (−2, 7)   5 unidades hacia la derecha
+
+ 3. El punto (−5, 5) se mueve 8 unidades a la           (−2, −2) 4 unidades hacia abajo
+    derecha y 3 unidades hacia abajo. ¿Cuáles
+    son sus coordenadas nuevas?
+
+
+
+
+ 4. Jorge dibujó una figura secreta, y luego la
+    movió 8 unidades hacia arriba. Los vértices
+    de la figura movida ahora están en: (−4, 8),
+    (−6, 6), (−4, 2) y (1, 6). ¿Cuáles eran las
+    coordenadas de los vértices originales?
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                 36
+

@@ -1,0 +1,50 @@
+                     Dividir decimales por decimales 1
+   Has aprendido:                                              2.04 ÷ 2 = ________
+       z   ...cómo dividir decimales por números               0.24 ÷ 6 = ________                  7 ) 1 7.2 2
+           enteros, utilizando matemáticas mental o
+           el algoritmo de división.
+                                                               5.2 ÷ 10 = ________
+
+                                                               5.2 ÷ 100 = ________
+
+       z   ...cómo dividir decimales por decimales             Resuelve.      2.5 ÷ 0.5 = _______
+           en la mente, pensando en cuántas veces
+           cabe:                                                    0.021 ÷ 0.003 = _______
+
+  ¿Pero cómo podemos resolver divisiones donde el divisor es un decimal, sin embargo el divisor no cabe una
+  cantidad exacta de veces en el dividendo? Por ejemplo: 4.6 ÷ 0.029 o 0.23 ÷ 0.07 ?
+
+  Eso está basado en el siguiente principio:
+       z   Podemos transformar cualquier división de decimales en un problema nuevo que tiene la misma
+           respuesta,
+           pero con un divisor que sea un número entero. Este problema nuevo puede estar resuelto con el algoritmo
+           de división normal.
+
+
+ 1. Resuelve, pensando en cuántas veces “cabe” el divisor en el dividendo. ¿Qué observas?
+
+  a.    60 ÷ 20 = _______                 e. 350 ÷ 50 = _______                  i. 2,000 ÷ 10 = _______
+
+  b.       6   ÷   2 = _______            f.   35 ÷ 5      = _______             j. 200 ÷ 1         = _______
+
+  c.   0.6 ÷ 0.2 = _______                g. 3.5 ÷ 0.5 = _______                 k.    20 ÷ 0.1 = _______
+  d. 0.06 ÷ 0.02 = _______                h. 0.35 ÷ 0.05 = _______               l.     2 ÷ 0.01 = _______
+
+
+
+                       ¿Qué observaste?
+                       No es de extrañar: 0.02 cabe en 0.06 tantas veces como 2 cabe en 6, tantas
+                       veces como 20 cabe en 60, o tantas veces como 200 cabe en 600, etc.
+
+
+ 2. Resuelve el más fácil de los dos problemas en cada recuadro. Ambos problemas tienen la misma respuesta.
+
+  a. 5 ÷ 0.2 = _______                    b. 7 ÷ 0.35 = ________                 c. 36.9 ÷ 3 = __________
+
+       50 ÷ 2 = ________                       700 ÷ 35 = ________                    0.369 ÷ 0.03 = _______
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                  54
+
