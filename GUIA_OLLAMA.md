@@ -1,6 +1,7 @@
 # 🤖 Guía Ollama — PC Intel i5 / 12GB RAM / Sin GPU dedicada
 
 ## ¿Qué es Ollama?
+
 Corre modelos de IA **completamente local**, sin internet, gratis, privado.
 Tu HTML le pregunta cosas → Ollama responde desde tu propia PC.
 
@@ -8,12 +9,12 @@ Tu HTML le pregunta cosas → Ollama responde desde tu propia PC.
 
 ## ✅ Tu hardware — qué podés correr
 
-| Componente | Tu PC | Requerimiento mínimo |
-|---|---|---|
-| CPU | Intel Core i5 | ✅ Suficiente |
-| RAM | 12 GB | ✅ Suficiente para modelos 3B-7B |
-| GPU | Sin dedicada (Intel integrada) | ⚠️ Todo corre en CPU (más lento) |
-| Disco | 1.5 TB | ✅ Sobra espacio |
+| Componente | Tu PC                          | Requerimiento mínimo             |
+| ---------- | ------------------------------ | -------------------------------- |
+| CPU        | Intel Core i5                  | ✅ Suficiente                    |
+| RAM        | 12 GB                          | ✅ Suficiente para modelos 3B-7B |
+| GPU        | Sin dedicada (Intel integrada) | ⚠️ Todo corre en CPU (más lento) |
+| Disco      | 1.5 TB                         | ✅ Sobra espacio                 |
 
 **Expectativa realista**: con CPU sola, velocidad de respuesta ~10-30 tokens/segundo. Para explicaciones educativas cortas es perfectamente usable.
 
@@ -23,23 +24,24 @@ Tu HTML le pregunta cosas → Ollama responde desde tu propia PC.
 
 ### 🏆 MEJOR OPCIÓN para tu PC
 
-| Modelo | Tamaño | RAM usada | Velocidad | Calidad | Comando |
-|---|---|---|---|---|---|
-| **qwen2.5:3b** | 1.9 GB | ~4 GB | ⚡⚡⚡ Rápido | ⭐⭐⭐⭐ Muy buena | `ollama pull qwen2.5:3b` |
-| **llama3.2:3b** | 2.0 GB | ~4 GB | ⚡⚡⚡ Rápido | ⭐⭐⭐⭐ Muy buena | `ollama pull llama3.2:3b` |
-| **gemma3:4b** | 2.5 GB | ~5 GB | ⚡⚡ Bueno | ⭐⭐⭐⭐ Muy buena | `ollama pull gemma3:4b` |
-| **phi4-mini:3.8b** | 2.5 GB | ~5 GB | ⚡⚡ Bueno | ⭐⭐⭐⭐ Muy buena | `ollama pull phi4-mini:3.8b` |
+| Modelo             | Tamaño | RAM usada | Velocidad     | Calidad            | Comando                      |
+| ------------------ | ------ | --------- | ------------- | ------------------ | ---------------------------- |
+| **qwen2.5:3b**     | 1.9 GB | ~4 GB     | ⚡⚡⚡ Rápido | ⭐⭐⭐⭐ Muy buena | `ollama pull qwen2.5:3b`     |
+| **llama3.2:3b**    | 2.0 GB | ~4 GB     | ⚡⚡⚡ Rápido | ⭐⭐⭐⭐ Muy buena | `ollama pull llama3.2:3b`    |
+| **gemma3:4b**      | 2.5 GB | ~5 GB     | ⚡⚡ Bueno    | ⭐⭐⭐⭐ Muy buena | `ollama pull gemma3:4b`      |
+| **phi4-mini:3.8b** | 2.5 GB | ~5 GB     | ⚡⚡ Bueno    | ⭐⭐⭐⭐ Muy buena | `ollama pull phi4-mini:3.8b` |
 
 ### 🇨🇳 Modelos chinos (excelentes, muy eficientes)
 
-| Modelo | Tamaño | Notas | Comando |
-|---|---|---|---|
-| **qwen2.5:3b** | 1.9 GB | De Alibaba, top en razonamiento, excelente en español | `ollama pull qwen2.5:3b` |
-| **qwen2.5:7b** | 4.7 GB | Versión más potente, corre si tenés RAM libre | `ollama pull qwen2.5:7b` |
-| **deepseek-r1:1.5b** | 1.1 GB | De DeepSeek, ultra liviano, muy rápido | `ollama pull deepseek-r1:1.5b` |
-| **deepseek-r1:7b** | 4.7 GB | Con razonamiento paso a paso | `ollama pull deepseek-r1:7b` |
+| Modelo               | Tamaño | Notas                                                 | Comando                        |
+| -------------------- | ------ | ----------------------------------------------------- | ------------------------------ |
+| **qwen2.5:3b**       | 1.9 GB | De Alibaba, top en razonamiento, excelente en español | `ollama pull qwen2.5:3b`       |
+| **qwen2.5:7b**       | 4.7 GB | Versión más potente, corre si tenés RAM libre         | `ollama pull qwen2.5:7b`       |
+| **deepseek-r1:1.5b** | 1.1 GB | De DeepSeek, ultra liviano, muy rápido                | `ollama pull deepseek-r1:1.5b` |
+| **deepseek-r1:7b**   | 4.7 GB | Con razonamiento paso a paso                          | `ollama pull deepseek-r1:7b`   |
 
 ### ❌ NO instalar en tu PC (demasiado grandes)
+
 - llama3:70b, mixtral:8x7b, deepseek-r1:32b → necesitan 32-64 GB RAM
 
 ---
@@ -137,9 +139,11 @@ ipconfig | findstr "IPv4"
 ```
 
 Una vez que tengas la IP, en el generador de lecciones ponés esa IP en el campo "IP de Ollama":
+
 ```
 192.168.1.15:11434
 ```
+
 (reemplazá con tu IP real)
 
 ---
@@ -200,12 +204,12 @@ Si Ollama no está corriendo o no hay red:
 
 ## 🆚 Comparativa rápida: ¿cuál elegir?
 
-| Si querés... | Usá |
-|---|---|
-| Lo más rápido posible | `deepseek-r1:1.5b` |
-| Mejor calidad en español | `qwen2.5:3b` ← **recomendado** |
-| Balanceo calidad/velocidad | `llama3.2:3b` |
-| Máxima calidad (si tenés RAM) | `qwen2.5:7b` o `gemma3:4b` |
+| Si querés...                  | Usá                            |
+| ----------------------------- | ------------------------------ |
+| Lo más rápido posible         | `deepseek-r1:1.5b`             |
+| Mejor calidad en español      | `qwen2.5:3b` ← **recomendado** |
+| Balanceo calidad/velocidad    | `llama3.2:3b`                  |
+| Máxima calidad (si tenés RAM) | `qwen2.5:7b` o `gemma3:4b`     |
 
 ---
 
