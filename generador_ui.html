@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fábrica de Autoevaluaciones — Generador</title>
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Exo+2:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="logo">FÁBRICA<span>·</span>EDU</div>
+  <div style="font-family:'Orbitron',sans-serif; font-size:0.55rem; letter-spacing:3px; color:var(--dim)">
+    GENERADOR DE AUTOEVALUACIONES GAMIFICADAS — 6° GRADO
+  </div>
+  <div class="header-badges">
+    <button class="btn-theme" onclick="toggleTheme(this)" title="Cambiar tema">
+      <span class="th-icon">🌙</span>
+      <span class="th-label">Modo Oscuro</span>
+    </button>
+    <span class="badge badge-cyan">v1.0</span>
+    <span class="badge badge-green">4 MATERIAS</span>
+  </div>
+</header>
+
+<div class="workspace">
+
+  <!-- ══════════════════════════════════════
+       PANEL IZQUIERDO — Árbol de contenido
+  ══════════════════════════════════════ -->
+  <aside class="panel-left">
+    <div class="panel-title">Contenido · 6° Grado</div>
+
+    <!-- MATEMÁTICA -->
+    <div class="subject subj-mat open">
+      <div class="subject-header" onclick="toggleSubject(this)">
+        <span class="subject-icon">🔢</span>
+        <span class="subject-name">Matemática</span>
+        <span class="subject-arrow">▶</span>
+      </div>
+      <div class="subject-topics">
+        <div class="topic active" onclick="selectTopic(this,'mat','Fracciones')">Fracciones</div>
+        <div class="topic" onclick="selectTopic(this,'mat','Decimales')">Decimales</div>
+        <div class="topic" onclick="selectTopic(this,'mat','Porcentajes')">Porcentajes</div>
+        <div class="topic" onclick="selectTopic(this,'mat','Divisibilidad')">Divisibilidad</div>
+        <div class="topic" onclick="selectTopic(this,'mat','Área y perímetro')">Área y perímetro</div>
+        <div class="topic" onclick="selectTopic(this,'mat','Álgebra Básica')">Álgebra Básica</div>
+        <div class="topic" onclick="selectTopic(this,'mat','Potencias y Raíces')">Potencias y Raíces</div>
+        <div class="topic" onclick="selectTopic(this,'mat','Razones y Proporciones')">Razones y Proporciones</div>
+        <div class="topic" onclick="selectTopic(this,'mat','Geometría')">Geometría</div>
+        <div class="topic" onclick="selectTopic(this,'mat','Estadística')">Estadística</div>
+      </div>
+    </div>
+
+    <!-- LENGUA -->
+    <div class="subject subj-len">
+      <div class="subject-header" onclick="toggleSubject(this)">
+        <span class="subject-icon">📖</span>
+        <span class="subject-name">Lengua</span>
+        <span class="subject-arrow">▶</span>
+      </div>
+      <div class="subject-topics">
+        <div class="topic" onclick="selectTopic(this,'len','Comprensión Lectora')">Comprensión Lectora</div>
+        <div class="topic" onclick="selectTopic(this,'len','Gramática')">Gramática</div>
+        <div class="topic" onclick="selectTopic(this,'len','Ortografía')">Ortografía</div>
+        <div class="topic" onclick="selectTopic(this,'len','Literatura')">Literatura</div>
+      </div>
+    </div>
+
+    <!-- CIENCIAS NATURALES -->
+    <div class="subject subj-nat">
+      <div class="subject-header" onclick="toggleSubject(this)">
+        <span class="subject-icon">🔬</span>
+        <span class="subject-name">Cs. Naturales</span>
+        <span class="subject-arrow">▶</span>
+      </div>
+      <div class="subject-topics">
+        <div class="topic" onclick="selectTopic(this,'nat','Materia y Transformaciones')">Materia y Transformaciones</div>
+        <div class="topic" onclick="selectTopic(this,'nat','Seres Vivos')">Seres Vivos</div>
+        <div class="topic" onclick="selectTopic(this,'nat','Sistema Solar')">Sistema Solar</div>
+        <div class="topic" onclick="selectTopic(this,'nat','Tierra y Universo')">Tierra y Universo</div>
+        <div class="topic" onclick="selectTopic(this,'nat','Cuerpo Humano')">Cuerpo Humano</div>
+        <div class="topic" onclick="selectTopic(this,'nat','Energía y Fuerzas')">Energía y Fuerzas</div>
+      </div>
+    </div>
+
+    <!-- CIENCIAS SOCIALES -->
+    <div class="subject subj-soc">
+      <div class="subject-header" onclick="toggleSubject(this)">
+        <span class="subject-icon">🌎</span>
+        <span class="subject-name">Cs. Sociales</span>
+        <span class="subject-arrow">▶</span>
+      </div>
+      <div class="subject-topics">
+        <div class="topic" onclick="selectTopic(this,'soc','Historia Argentina')">Historia Argentina</div>
+        <div class="topic" onclick="selectTopic(this,'soc','Geografía Argentina')">Geografía Argentina</div>
+        <div class="topic" onclick="selectTopic(this,'soc','Ciudadanía')">Ciudadanía</div>
+        <div class="topic" onclick="selectTopic(this,'soc','Geografía Mundial')">🌍 Geografía Mundial</div>
+        <div class="topic" onclick="selectTopic(this,'soc','Santa Fe Provincia')">📍 Santa Fe</div>
+        <div class="topic" onclick="selectTopic(this,'soc','Mapas y Localización')">🗺️ Mapas y Localización</div>
+      </div>
+    </div>
+
+    <!-- MAPAS INTERACTIVOS -->
+    <div class="subject subj-soc">
+      <div class="subject-header" onclick="toggleSubject(this)">
+        <span class="subject-icon">🗺️</span>
+        <span class="subject-name">Mapas Interactivos</span>
+        <span class="subject-arrow">▶</span>
+      </div>
+      <div class="subject-topics">
+        <div class="topic" onclick="generarMapa(this,'argentina_provincias')">🇦🇷 Argentina · Provincias</div>
+        <div class="topic" onclick="generarMapa(this,'argentina_regiones')">🇦🇷 Argentina · Regiones</div>
+        <div class="topic" onclick="generarMapa(this,'argentina_blank')">🇦🇷 Argentina · Mudo</div>
+        <div class="topic" onclick="generarMapa(this,'santafe_provincia')">📍 Santa Fe · Provincia</div>
+        <div class="topic" onclick="generarMapa(this,'santafe_departamentos')">📍 Santa Fe · Departamentos</div>
+        <div class="topic" onclick="generarMapa(this,'santafe_topografico')">📍 Santa Fe · Relieve</div>
+        <div class="topic" onclick="generarMapa(this,'planisferio')">🌍 Planisferio Mundial</div>
+        <div class="topic" onclick="generarMapa(this,'planisferio_paises')">🌎 Planisferio · Países</div>
+        <div class="topic" onclick="generarMapa(this,'america')">🌎 América</div>
+        <div class="topic" onclick="generarMapa(this,'europa')">🇪🇺 Europa</div>
+        <div class="topic" onclick="generarMapa(this,'asia')">🌏 Asia</div>
+        <div class="topic" onclick="generarMapa(this,'africa')">🌍 África</div>
+        <div class="topic" onclick="generarMapa(this,'oceania')">🌏 Oceanía</div>
+      </div>
+    </div>
+
+  </aside>
+
+  <!-- ══════════════════════════════════════
+       PANEL CENTRAL — Configuración
+  ══════════════════════════════════════ -->
+  <main class="panel-center">
+
+    <div class="section-label">Tema seleccionado</div>
+    <div class="breadcrumb">
+      <span class="bc-mat">🔢 Matemática</span>
+      <span class="bc-sep">›</span>
+      <span class="bc-topic">Números y Operaciones</span>
+      <span class="bc-sep">›</span>
+      <span class="bc-topic">Fracciones</span>
+    </div>
+
+    <!-- TABS principales -->
+    <div class="tabs">
+      <button class="tab active" data-tab="quiz"    onclick="switchTab('quiz')">⚡ Autoevaluación</button>
+      <button class="tab"        data-tab="leccion" onclick="switchTab('leccion')">📚 Lección</button>
+    </div>
+
+    <!-- ====== TAB: AUTOEVALUACIÓN ====== -->
+    <div class="tab-pane active" id="pane-quiz">
+
+    <div class="section-label">Tipo de ejercicio</div>
+    <div class="type-grid">
+      <div class="type-card selected" onclick="selectType(this)">
+        <div class="icon">🎯</div>
+        <div class="label">Opción Múltiple</div>
+        <div class="sub">4 opciones · 1 correcta</div>
+      </div>
+      <div class="type-card" onclick="selectType(this)">
+        <div class="icon">✍️</div>
+        <div class="label">Completar</div>
+        <div class="sub">Llenar el espacio</div>
+      </div>
+      <div class="type-card" onclick="selectType(this)">
+        <div class="icon">🔗</div>
+        <div class="label">Unir columnas</div>
+        <div class="sub">Arrastrar y soltar</div>
+      </div>
+      <div class="type-card" onclick="selectType(this)">
+        <div class="icon">🔀</div>
+        <div class="label">Ordenar</div>
+        <div class="sub">Secuencias lógicas</div>
+      </div>
+      <div class="type-card" onclick="selectType(this)">
+        <div class="icon">✅</div>
+        <div class="label">V / F</div>
+        <div class="sub">Verdadero o Falso</div>
+      </div>
+      <div class="type-card" onclick="selectType(this)">
+        <div class="icon">🎲</div>
+        <div class="label">Mixto</div>
+        <div class="sub">Combina tipos</div>
+      </div>
+    </div>
+
+    <div class="section-label">Configuración</div>
+    <div class="controls-grid">
+      <div class="control-box">
+        <label>Cantidad de preguntas</label>
+        <div class="control-value" id="q-val">10</div>
+        <input type="range" min="5" max="30" value="10"
+          oninput="document.getElementById('q-val').textContent=this.value">
+      </div>
+      <div class="control-box">
+        <label>Vidas del jugador</label>
+        <div class="control-value" id="lives-val" style="color:var(--red)">❤️ 3</div>
+        <input type="range" min="1" max="5" value="3"
+          oninput="document.getElementById('lives-val').textContent='❤️ '+this.value"
+          style="--thumb-color:var(--red)">
+      </div>
+      <div class="control-box">
+        <label>Dificultad</label>
+        <div class="diff-buttons" style="margin-top:8px">
+          <button class="diff-btn active-easy"   onclick="setDiff(this,'easy')">Fácil</button>
+          <button class="diff-btn"               onclick="setDiff(this,'medium')">Normal</button>
+          <button class="diff-btn"               onclick="setDiff(this,'hard')">Difícil</button>
+        </div>
+      </div>
+      <div class="control-box">
+        <label>Tiempo por pregunta (seg)</label>
+        <div class="control-value" id="time-val" style="color:var(--yellow)">⏱ 30s</div>
+        <input type="range" min="10" max="120" step="5" value="30"
+          oninput="document.getElementById('time-val').textContent='⏱ '+this.value+'s'">
+      </div>
+    </div>
+
+    <div class="section-label">Elementos de gamificación</div>
+    <div class="toggle-list">
+      <div class="toggle-item">
+        <div class="toggle-info">
+          <span class="toggle-emoji">⭐</span>
+          <div class="toggle-text">Economía de estrellas
+            <small>Ganar estrellas al responder correctamente</small>
+          </div>
+        </div>
+        <div class="toggle on" onclick="this.classList.toggle('on')"></div>
+      </div>
+      <div class="toggle-item">
+        <div class="toggle-info">
+          <span class="toggle-emoji">🤖</span>
+          <div class="toggle-text">Mascota reactiva
+            <small>Robot que reacciona a respuestas correctas/incorrectas</small>
+          </div>
+        </div>
+        <div class="toggle on" onclick="this.classList.toggle('on')"></div>
+      </div>
+      <div class="toggle-item">
+        <div class="toggle-info">
+          <span class="toggle-emoji">🔊</span>
+          <div class="toggle-text">Efectos de sonido
+            <small>Web Audio API — sin archivos externos</small>
+          </div>
+        </div>
+        <div class="toggle on" onclick="this.classList.toggle('on')"></div>
+      </div>
+      <div class="toggle-item">
+        <div class="toggle-info">
+          <span class="toggle-emoji">🏆</span>
+          <div class="toggle-text">Pantalla de resultados
+            <small>Ranking, puntaje y medalla final</small>
+          </div>
+        </div>
+        <div class="toggle on" onclick="this.classList.toggle('on')"></div>
+      </div>
+      <div class="toggle-item">
+        <div class="toggle-info">
+          <span class="toggle-emoji">💾</span>
+          <div class="toggle-text">Guardar progreso
+            <small>localStorage — persiste entre sesiones</small>
+          </div>
+        </div>
+        <div class="toggle" onclick="this.classList.toggle('on')"></div>
+      </div>
+      <div class="toggle-item">
+        <div class="toggle-info">
+          <span class="toggle-emoji">🗣️</span>
+          <div class="toggle-text">Lectura en voz alta
+            <small>Web Speech API — lee las preguntas</small>
+          </div>
+        </div>
+        <div class="toggle" onclick="this.classList.toggle('on')"></div>
+      </div>
+    </div>
+
+    <div class="section-label">Nombre del archivo</div>
+    <div class="filename-box">
+      <span>📄</span>
+      <input class="filename-input" type="text" value="mat_fracciones_facil.html">
+      <span style="color:var(--dim)">.html</span>
+    </div>
+
+    <button class="btn-generate" onclick="animateGenerate(this)">
+      ⚡ GENERAR AUTOEVALUACIÓN
+    </button>
+
+    </div><!-- /pane-quiz -->
+
+    <!-- ====== TAB: LECCIÓN ====== -->
+    <div class="tab-pane" id="pane-leccion">
+
+      <div class="section-label">Formato de la lección</div>
+      <div class="fmt-grid">
+        <div class="fmt-card selected" data-fmt="slides" onclick="selectFmt(this)">
+          <div class="fmt-icon">🎞️</div>
+          <div>
+            <div class="fmt-title">Slides Interactivos</div>
+            <div class="fmt-desc">Presentación navegable con flechas, una idea por pantalla</div>
+          </div>
+        </div>
+        <div class="fmt-card" data-fmt="resumen" onclick="selectFmt(this)">
+          <div class="fmt-icon">📝</div>
+          <div>
+            <div class="fmt-title">Resumen Visual</div>
+            <div class="fmt-desc">Una página con los conceptos clave en tarjetas</div>
+          </div>
+        </div>
+        <div class="fmt-card" data-fmt="infografia" onclick="selectFmt(this)">
+          <div class="fmt-icon">📊</div>
+          <div>
+            <div class="fmt-title">Infografía</div>
+            <div class="fmt-desc">SVG ilustrado: diagramas, comparaciones, cronologías</div>
+          </div>
+        </div>
+        <div class="fmt-card" data-fmt="animacion" onclick="selectFmt(this)">
+          <div class="fmt-icon">✨</div>
+          <div>
+            <div class="fmt-title">Animación</div>
+            <div class="fmt-desc">Concepto explicado paso a paso con CSS animado</div>
+          </div>
+        </div>
+        <div class="fmt-card" data-fmt="flashcards" onclick="selectFmt(this)">
+          <div class="fmt-icon">🃏</div>
+          <div>
+            <div class="fmt-title">Flashcards 3D</div>
+            <div class="fmt-desc">Tarjetas con flip 3D, modo estudio activo (ya sé / repasar)</div>
+          </div>
+        </div>
+        <div class="fmt-card" data-fmt="memorice" onclick="selectFmt(this)">
+          <div class="fmt-icon">🧠</div>
+          <div>
+            <div class="fmt-title">Memorice</div>
+            <div class="fmt-desc">Memory match: emparejá conceptos con sus ejemplos</div>
+          </div>
+        </div>
+        <div class="fmt-card" data-fmt="leccion-completa" onclick="selectFmt(this)" style="border:2px solid var(--cyan);grid-column:1/-1">
+          <div class="fmt-icon">🚀</div>
+          <div>
+            <div class="fmt-title">⭐ Lección Completa</div>
+            <div class="fmt-desc">Todo-en-uno: lección interactiva con visualizaciones SVG + palabras clave con IA + TTS + evaluación gamificada desbloqueada al completar la lección</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section-label">Inteligencia Artificial Local</div>
+      <div class="ai-panel">
+        <div class="ai-status">
+          <div class="ai-title">
+            <span class="ai-dot" id="ai-dot"></span>
+            <span id="ai-status-text">🔍 Detectando Ollama…</span>
+          </div>
+          <div class="toggle" id="ai-toggle" onclick="toggleAI(this)"></div>
+        </div>
+        <div class="ai-info" id="ai-info">
+          <strong>¿Qué es esto?</strong> Si tenés <code>ollama</code> corriendo en <code>localhost:11434</code>, la lección se enriquece con explicaciones generadas por IA local (gratis, sin internet, privado). Si no, se usa contenido del cuadernillo MEN ya incluido.
+        </div>
+        <div class="ai-models" id="ai-models">
+          <label style="font-size:.7rem;color:var(--dim);display:block;margin-bottom:4px">Modelo a usar:</label>
+          <select id="ai-model-sel"></select>
+        </div>
+        <div style="margin-top:10px">
+          <label style="font-size:.7rem;color:var(--dim);display:block;margin-bottom:4px">🌐 IP de Ollama en el HTML del niño:</label>
+          <input id="l-ollama-ip" type="text" value="localhost:11434" placeholder="ej: 192.168.1.15:11434"
+            style="width:100%;padding:7px 10px;border:1px solid var(--border);border-radius:6px;background:var(--bg2);color:var(--text);font-family:'JetBrains Mono',monospace;font-size:.82rem">
+          <small style="color:var(--dim);font-size:.68rem">Cambiá esto si el niño usa otra PC en la misma red WiFi</small>
+        </div>
+      </div>
+
+      <div class="section-label">Opciones de presentación</div>
+      <div class="toggle-list">
+        <div class="toggle-item">
+          <div class="toggle-info">
+            <span class="toggle-emoji">🔊</span>
+            <div class="toggle-text">Lectura en voz alta
+              <small>Botón para escuchar cada sección</small>
+            </div>
+          </div>
+          <div class="toggle" id="l-tts" onclick="this.classList.toggle('on')"></div>
+        </div>
+        <div class="toggle-item">
+          <div class="toggle-info">
+            <span class="toggle-emoji">🎨</span>
+            <div class="toggle-text">Animaciones suaves
+              <small>Transiciones y efectos visuales</small>
+            </div>
+          </div>
+          <div class="toggle on" id="l-anim" onclick="this.classList.toggle('on')"></div>
+        </div>
+        <div class="toggle-item">
+          <div class="toggle-info">
+            <span class="toggle-emoji">✅</span>
+            <div class="toggle-text">Verificación de comprensión
+              <small>Pregunta rápida al final de cada sección</small>
+            </div>
+          </div>
+          <div class="toggle on" id="l-check" onclick="this.classList.toggle('on')"></div>
+        </div>
+      </div>
+
+      <div class="section-label">Nombre del archivo</div>
+      <div class="filename-box">
+        <span>📄</span>
+        <input class="filename-input-leccion" type="text" value="leccion_fracciones.html">
+        <span style="color:var(--dim)">.html</span>
+      </div>
+
+      <button class="btn-generate" style="background:linear-gradient(135deg,var(--magenta) 0%, #6F1442 100%);box-shadow:0 4px 14px rgba(176,38,106,0.35)" onclick="generarLeccion(this)">
+        📚 GENERAR LECCIÓN
+      </button>
+
+    </div><!-- /pane-leccion -->
+
+  </main>
+
+  <!-- ══════════════════════════════════════
+       PANEL DERECHO — Preview + Historial
+  ══════════════════════════════════════ -->
+  <aside class="panel-right">
+    <div class="panel-title">Preview del App</div>
+
+    <div class="app-preview">
+      <div class="preview-header">
+        <div class="dot dot-r"></div>
+        <div class="dot dot-y"></div>
+        <div class="dot dot-g"></div>
+        <span class="preview-url">mat_fracciones_facil.html</span>
+      </div>
+      <div class="preview-content">
+        <div class="preview-title">🔢 FRACCIONES</div>
+        <div class="preview-q">
+          <div class="q-text">¿Cuánto es ½ + ¼ ?</div>
+          <div class="preview-option">a) 2/4</div>
+          <div class="preview-option correct">b) 3/4 ✓</div>
+          <div class="preview-option">c) 1/2</div>
+          <div class="preview-option">d) 1/6</div>
+        </div>
+        <div class="preview-hud">
+          <span class="hud-lives">❤️❤️❤️</span>
+          <span class="hud-stars">⭐ 40 pts</span>
+          <span class="hud-progress">4/10</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel-title" style="margin-top:8px">🏆 Tu Progreso</div>
+    <div id="gamifPanel" class="gamif-panel"></div>
+
+    <div class="panel-title" style="margin-top:8px">Generados Anteriores</div>
+    <div id="history-container"></div>
+
+  </aside>
+</div>
+
+
+<script src="js/data-preguntas.js"></script>
+<script src="js/data-lecciones.js"></script>
+<script src="js/data-extra.js"></script>
+<script src="js/data-mapas.js"></script>
+<script src="js/template-base.js"></script>
+<script src="js/template-quiz.js"></script>
+<script src="js/template-slides.js"></script>
+<script src="js/template-resumen.js"></script>
+<script src="js/template-infografia.js"></script>
+<script src="js/template-animacion.js"></script>
+<script src="js/template-flashcards.js"></script>
+<script src="js/template-memorice.js"></script>
+<script src="js/template-leccion-completa.js"></script>
+<script src="js/template-mapa.js"></script>
+<script src="js/gamificacion.js"></script>
+<script src="js/ollama.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

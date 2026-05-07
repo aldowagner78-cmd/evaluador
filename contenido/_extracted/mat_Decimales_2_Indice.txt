@@ -1,0 +1,180 @@
+                    Mamut Matemáticas Decimales 2
+
+                                                    Índice
+                                                                                                    pagina
+              Introducción ................................................................           4
+              Repaso: décimos y centésimos ..................................                         7
+              Más decimales: milésimos ..............................................                10
+              Comparar decimales .......................................................             15
+              Redondeo ..........................................................................    17
+              Sumar y restar decimales ................................................              19
+              Multiplicar decimales por números enteros ................                             23
+              Multiplicar decimales en columnas ...............................                      27
+              Multiplicar decimales por decimales .............................                      29
+              Más multiplicación de decimales ...................................                    33
+              El algoritmo de multiplicación .......................................                 36
+              Dividir decimales—matemáticas mental ......................                            37
+              El algoritmo de división con decimales .........................                       42
+              Más algoritmo de división con decimales .....................                          46
+              Multiplicar y dividir por potencias de diez ..................                         49
+              Dividir decimales por decimales 1 .................................                    54
+              Dividir decimales por decimales 2 .................................                    57
+              Decimales en unidades de medición y más ...................                            61
+              Redondeo y estimación ...................................................              65
+              El sistema métrico ...........................................................         67
+              Convertir entre unidades imperiales
+              de medición ......................................................................     70
+              Acertijos de reglas numéricas ...................................                      74
+              Resolver problemas ........................................................            75
+              Repaso ............................................................................    79
+
+              Respuestas ......................................................................      84
+
+
+              Más de Mamut Matemáticas .....................................                         108
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                      3
+                                       Introducción
+ Mamut Matemáticas Decimales 2 es un libro que cubre valor posicional y las cuatro operaciones con
+ decimales. Es más adecuado para el 5° y 6° grado.
+ El libro comienza con un repaso breve de conceptos que el estudiante ya ha aprendido (en Mamut
+ Matemáticas Decimales 1): valor posicional con décimos y centésimos, y suma y resta de decimales que
+ tienen décimos y centésimos.
+ El resto del libro enseña las cuatro operaciones con números que tienen hasta tres decimales, y
+ especialmente concentra en la multiplicación y división de decimales. Comenzamos con el aprendizaje de
+ valor posicional, comparaciones, y redondeo de decimales (décimos, centésimos y milésimos. Después
+ siguen suma y resta, y luego varios temas relacionados con multiplicación y división.
+ He tratado de recalcar cálculos mentales basados en el entendimiento conceptual de decimales y por
+ eso, muchas veces el texto incluye consejos o “truquillos” con la meta de ayudar con los cálculos
+ mentales. También, el libro contiene lecciones sobre el algoritmo de multiplicación y el algoritmo de
+ división con decimales. Problemas que tienen una imagen pequeña de una calculadora se pueden resolver
+ con la ayuda de la calculadora.. Por los demás problemas, no se debe permitir el uso de la calculadora.
+ Las últimas lecciones cubren conversiones entre unidades imperiales de medición, acertijos de reglas
+ numéricas y resolver problemas. Se incluyen aquí, ya que los problemas implican el uso de números
+ decimales, y también porque se saca el material para este libro del cuarto capítulo del Mamut
+ Matemáticas Grado 5-A Currículo Completo, lo cual incluye las lecciones sobre resolver problemas.
+ Después de estudiar este libro, el estudiante debería entender cómo efectuar todas de las cuatro
+ operaciones con decimales. Sin embargo, tenga presente que este libro no practica estas operaciones con
+ decimales que tienen más de 3 decimales. Estudiantes del 6° grado o mayores deberían practicar la
+ aritmética también utilizando números con más de tres decimales. Pero para el 5° grado, pienso que el
+ material en este libro es suficiente.
+ Usted puede hacer más hojas de ejercicios en esta página:
+ www.homeschoolmath.net/worksheets/grade_5.php
+ Baje a la sección de “Decimals”.
+ ¡Espero que este libro le resulte de gran ayuda en su enseñanza de las matemáticas!
+ Maria Miller, la autora
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                             4
+ Recursos útiles en Internet
+
+ Utilice estos recursos gratuitos online para complementar el trabajo en el “cuadernillo” como usted lo
+ considere conveniente.
+
+ Decimal arithmetic (Aritmética de decimales)
+ Mis videos que explican todos los temas de la aritmética de decimales más importantes: suma, resta,
+ multiplicación, división, comparación y redondeo de decimales y resolver problemas. Bueno para 5º, 6º y
+ 7º grado.
+ http://www.youtube.com/user/MamutMatematicas
+
+ Place Value Strategy (Estrategia de valor posicional)
+ Ordene 3 o 4 dígitos que se dan para hacer el mayor número posible.
+ www.decimalsquares.com/dsGames/games/placevalue.html
+
+ Decimal Darts (Dardos de decimales)
+ Trate de explotar los globos con dardos estimando a qué altura están los globos.
+ www.decimalsquares.com/dsGames/games/darts.html
+
+ Estimate (Estimar)
+ Estime a qué decimal señala la flecha en la recta de números. El juego tiene las palabras “Evaluation
+ version” (Versión para evaluación) en la pantalla, pero se puede jugarlo.
+ www.interactiveresources.co.uk/mathspack1/estimate/estimate.html
+
+ Decimal Challenge (Desafío de decimales)
+ Adivine el número decimal entre 0 y 10. Cada vez, la computadora le dice si su adivinanza era demasiado
+ alto o demasiado bajo.
+ www.interactivestuff.org/sums4fun/decchall.html
+
+ Beat the Clock (Ganar al reloj)
+ Escriba en la computadora el decimal sombreado en el cuadrado en este juego cronometrado.
+ www.decimalsquares.com/dsGames/games/beatclock.html
+
+ Scales (Balanza)
+ Mueva la aguja así que corresponde con el número decimal dado. Refresque la página de su navegador
+ para conseguir otro problema para resolver.
+ www.interactivestuff.org/sums4fun/scales.html
+
+ Switch (Cambiazo)
+ Ordene los números decimales del menor al mayor, cambiándolos dos por dos. Refresque la página de su
+ navegador para conseguir otro problema para resolver.
+ www.interactivestuff.org/sums4fun/switch.html
+
+ Smaller and Smaller Maze (Laberinto más y más pequeño)
+ Practique ordenar números decimales y encuentre un camino a través del laberinto.
+ http://www.counton.org/magnet/kaleidoscope/smaller/index.html
+
+ Decimal and Whole Number Jeopardy (“Jeopardy” de decimales y números enteros)
+ Repase valores posiciónales y la comparación y redondeo de decimales. También, practique patrones de
+ números.
+ www.quia.com/cb/8142.html
+
+Hoja de muestra de
+www.MamutMatematicas.com                             5
+ Decimals in Space (Decimales en el espacio)
+ Un juego con asteroides donde el estudiante primero contesta a una pregunta sobre el decimal menor, y
+ después puede disparar asteroides, ganando puntos basado en los números escritos en ellos.
+ themathgames.com/arithmetic-games/place-value/decimal-place-value-math-game.php
+
+ Sock (Calcetín)
+ Empuje los bloques verdes en los agujeros para formar el número que sea la meta.
+ www.interactivestuff.org/sums4fun/sock.html
+
+ Decimal Squares BlackJack (Veintiuna con cuadrados de decimales)
+ Tome cartas con decimales con el botón “Hit me”, tratando de conseguir una suma tan cerca del 2 como
+ posible, sin superarlo.
+ www.decimalsquares.com/dsGames/games/blackjack.html
+
+ A Decimal Puzzle (Un acertijo de decimales)
+ Haga todos los círculos a sumar al 3.
+ nlvm.usu.edu/en/nav/frames_asid_187_g_2_t_1.htmlsopen=instructions&from=category_g_2_t_1.htm
+
+ FunBrain Decimal Power Football (FunBrain fútbol poderoso de decimales)
+ Juegos sencillos para la suma, resta, multiplicación, y división de decimales, incluyendo problemas que
+ faltan el factor/divisor. Resuelva un problema, y el jugador de fútbol mueve en el campo.
+ http://www.funbrain.com/cgi-bin/getskill.cgi?A1=choices&A2=fb&A3=6&A4=0&A7=0
+
+ Exploring Division of Decimals (Explorando la división de decimales)
+ Utilice un cuadrado de decimales para explorar los productos de dos números que tienen uno sólo dígito
+ decimal. Se muestra el producto como un área.
+ www.hbschool.com/activity/elab2004/gr6/1.html
+
+ Decimal Speedway (Pista de carreras de decimales)
+ Practique multiplicación de decimales en este juego divertido de carreras de coches.
+ www.decimalsquares.com/dsGames/games/speedway.html
+
+ Hojas de ejercicios gratuitas para el orden de las operaciones
+ Haga hojas de ejercicios personalizadas que se pueden imprimir para el orden de las operaciones. Escoja
+ entre cinco operaciones y paréntesis. Puedes escoger la gama de números que se utiliza, la cantidad de
+ problemas y más.
+ http://www.mamutmatematicas.com/ejercicios/decimales.php
+
+ My Dear Aunt Sally (Mi querida tía Sally)
+ Un juego divertido que puede jugar online gratuitamente, o comprar como una aplicación. Escoja
+ números enteros, fracciones, decimales, o números racionales, y luego escoja cuál de las cinco
+ operaciones quiere utilizar. En el juego, necesita colocar los números que se dan en dos expresiones así
+ que las operaciones hagan que las dos expresiones tengan el mismo valor.
+ http://www.mydearauntsally.com
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                              6
+

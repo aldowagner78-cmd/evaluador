@@ -1,0 +1,58 @@
+                              Repaso: simplificar fracciones
+ 1. Simplifica en pasos múltiples — ¡o en uno sólo paso! Completa las partes que faltan.
+
+                    a.                        ÷ 10       ÷4                   b.                             ÷5
+                                                                     Ya que 75 y 105 terminan
+   Podrías simplificar en uno sólo        40                         con 5, son divisibles por 5.
+                                             =       =                                                   75
+   paso si divides por el FCM            120                         Podrías simplificar en uno             =           =
+   (Factor Común Mayor) de 40                                                                           105
+                                                                     sólo paso si divides por el
+   y 120, lo cual es ____.                    ÷ 10       ÷4
+                                                                     FCM de 105 y 75, lo cual
+                                                                      es ______.                             ÷5
+
+
+ 2. Ya se han factorizado el numerador y el denominador. Tu tarea es simplificar.
+
+
+             36     4×9                           98          2 × 49                       132   4 × 3 × 11
+   a.           =          =               b.        =               =                c.       =            =
+             88     4 × 22                       126          2 × 63                        42     6×7
+
+
+
+         30 × 12                                 7 × 22                                    8 × 10
+   d.            =                         e.           =                             f.
+         2×3×4                                   11 × 3                                    16 × 20
+
+
+ 3. NO se pueden simplificar algunas de las siguientes fracciones. Simplifica las que puedes.
+         9               14              14               14                      8              8                  8
+  a.                b.              c.               d.                     e.             f.                 g.
+        20               27              28               29                     22             15                 18
+
+  h. ¿Por qué no podías simplificar algunas? Explica.
+
+
+
+ 4. Simplifica las siguientes fracciones a los términos menores.
+
+         27                          9                                9                               24
+   a.       =                  b.      =                        c.      =                        d.      =
+         60                         27                               36                               32
+
+
+          60                        14                                44                              27
+   e.        =                 f.      =                        g.       =                       h.      =
+         200                        49                               110                              90
+
+
+        42                          50                               56                               24
+   i.      =                   j.      =                        k.      =                        l.      =
+        50                          70                               64                               64
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                       71
+

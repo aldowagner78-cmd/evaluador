@@ -1,0 +1,63 @@
+7/5/26, 8:10 a.m.                                           Hoja de ejercicios 1
+
+
+                               Hoja de ejercicios de MCD/mcm 1
+  Halla el míximo comun multiplo de los siguientes números.
+
+    1a.    30, 6                                            1b.    7, 17
+
+
+
+    2a.    23, 8                                            2b.    7, 10
+
+
+
+
+    3a.    12, 27                                           3b.    8, 27
+
+
+
+    4a.    3, 4                                             4b.    5, 19
+
+
+
+
+    5a.    26, 9                                            5b.    17, 8
+
+
+
+    6a.    24, 25                                           6b.    5, 18
+
+
+
+    7a.    18, 29                                           7b.    9, 2
+
+
+
+    8a.    3, 29                                            8b.    26, 6
+
+
+
+
+    9a.    30, 16                                           9b.    12, 5
+
+
+
+    10a.   16, 25                                           10b.   10, 6
+
+
+
+
+                                                       Clave
+
+https://www.mamutmatematicas.com/ejercicios/tabla-mcd-mcm.php?col=2&row=10&gcfmin=1&gcfmax=50&lcm=1&lcmmin=2&lc…   1/2
+7/5/26, 8:10 a.m.                                                                             Hoja de ejercicios 1
+    Autorización de copias: Se permite realizar un número ilimitado de copias de esta hoja de ejercicios para proporcionar material de trabajo a los estudiantes para sus tareas de
+                                     matemáticas. No se permite su distribución en sitios web, libros o similares sin la autorización de la autora.
+                                         Copyright 2006-2026 Taina Maria Miller / Ejercicios de Matematicas en MamutMatematicas.com
+
+
+
+
+https://www.mamutmatematicas.com/ejercicios/tabla-mcd-mcm.php?col=2&row=10&gcfmin=1&gcfmax=50&lcm=1&lcmmin=2&lc…                                                                      2/2
+

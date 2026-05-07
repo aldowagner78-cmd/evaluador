@@ -1,0 +1,5099 @@
+Cuaderno para alumnas y alumnos. 6to grado/1er trimestre
+
+Esta obra ha sido adaptada para el uso exclusivo de personas con
+discapacidad visual, en el marco del proyecto "Libros escolares
+accesibles el primer día de clases", con el apoyo de Fundación ONCE
+para América Latina (FOAL).
+
+Revisión y adaptación: Fernando Villalba
+
+Asociación Civil Tiflonexos Biblioteca Tiflolibros
+
+Av. Belgrano 1670 (1096) Piso 6, Ciudad de Buenos Aires
+
+Tel: 6009-3134/3066
+
+www.tiflonexos.org
+
+Reencuentros
+
+Cuaderno para alumnas y alumnos
+
+Educación primaria
+
+6to grado / 1er trimestre
+
+
+
+Argentina unida
+
+Ministerio de Educación Argentina
+
+
+
+Índice
+
+Cuaderno para alumnas y alumnos. 6to grado/1er trimestre	1
+
+LENGUA / PRÁCTICAS DEL LENGUAJE	6
+
+Recorrido 1: El arte de decir	7
+
+Recorrido 2: El arte de retratar	22
+
+Recorrido 3: El arte de contar	33
+
+MATEMÁTICA	47
+
+Recorrido 1: Propiedades de las operaciones	48
+
+Recorrido 2: Las propiedades y los cálculos. Los algoritmos y las
+propiedades	54
+
+Recorrido 3: Triángulos y cuadrados	60
+
+CIENCIAS SOCIALES	65
+
+Recorrido 1: ¿La Argentina fue siempre igual?	67
+
+CIENCIAS NATURALES	85
+
+Recorrido 1: Un mundo de partículas	86
+
+Recorrido 2: Las transformaciones físicas	91
+
+Recorrido 3: Soluciones, un método de separación	96
+
+Recorrido 4: Las transformaciones químicas	99
+
+Recorrido 5: Las reacciones químicas en los seres vivos	103
+
+
+
+
+
+Ministerio de Educación de la Nación
+
+Cuaderno para alumnas y alumnos. 6º grado / 1a ed. Ciudad Autónoma de
+Buenos Aires: Ministerio de Educación de la Nación, 2021.
+
+Libro digital, PDF (Reencuentros)
+
+Archivo Digital: descarga y online ISBN 978-950-00-1420-5
+
+1. Educación Primaria. I. Título. CDD 372.02
+
+
+
+Esta obra está bajo una Licencia Creative Commons Atribución 4.0
+Internacional.
+
+Ministerio de Educación de la Nación Pizzurno 935, Ciudad Autónoma de
+Buenos Aires (C1020ACA)
+
+República Argentina
+
+
+
+Coordinación Pedagógica General: Verónica Piovani.
+
+Dirección Pedagógica Serie Reencuentros 2021: Cristina Íbalo.
+Coordinación Pedagógica: María Gabriela Madeo y Noelia Lynch.
+Desarrollo de contenidos y elaboración de secuencias de enseñanza:
+David Aljanati, Laura Lacreu, Graciela Marchese, Julio Cabrera (Ciencias
+Naturales); Mara Bannon, Adriana Casamajor, María del Pilar Gaspar,
+Laiza Otañi, Violeta Mazer (Lengua/Prácticas del Lenguaje); Natalia
+Borghini, Paula Ghione, Julieta Jakubowicz, Sofía Seras (Ciencias
+Sociales); Adriana Díaz, Victoria Güerci, Gladys Tedesco, Alejandro
+Rossetti (Matemática) Maria Gabriela Madeo (Inclusión Digital);
+Héctor Kassem (aportes pedagógicos). Producción editorial: Alicia
+Serrano (coordinación general), Gonzalo Blanco (coordinación
+editorial), Paula Salvatierra (diseño de maqueta), Paola Iturrioz
+(edición), Mario Pesci (diseño gráfico) y Javier Rodríguez
+(documentación gráfica).
+
+Queridas y queridos estudiantes y docentes
+
+Después de un año en el que todas y todos vivimos una situación
+inédita e inesperada en el mundo, el año 2021 nos coloca frente a
+nuevos desafíos. Por un lado, continuar cuidándonos colectivamente en
+cada comunidad y, al mismo tiempo, comenzar paulatinamente a retomar la
+enseñanza y los aprendizajes en el espacio escolar. En esta oportunidad
+tendremos que aprender nuevas formas presenciales y no presenciales, lo
+que llamamos modalidad combinada.
+
+2020 nos dejó múltiples aprendizajes, experiencias y reflexiones sobre
+nuestra vida cotidiana; seguramente sus hogares cambiaron rutinas para
+reorganizar la vida familiar. Y la escuela asumió el enorme desafío de
+acomodarse rápidamente al impacto de estos cambios, y allí, docentes,
+directivos y supervisores tomaron el compromiso y la responsabilidad de
+sostener el vínculo pedagógico que asegurara las trayectorias
+escolares de las chicas y los chicos ante la suspensión de la
+presencialidad. La tarea no fue sencilla, pero la creatividad y el
+esfuerzo compartido entre la escuela y las familias, sostén fundamental
+en el acompañamiento de los aprendizajes, fueron el pilar que
+posibilitó seguir educando.
+
+Para que el regreso a las aulas sea seguro, verán modificados algunos
+aspectos de la vida escolar, probablemente no irán todos los días o
+toda la jornada, en algunos casos no asistirá el grupo completo en
+forma simultánea, entre otros aspectos que contempla la alternancia y
+que supondrán otras formas de organización de la enseñanza y de la
+vida escolar en su conjunto.
+
+Este escenario demanda un trabajo de equipo en cada escuela para pensar
+la organización de los espacios, del tiempo, de la enseñanza y es
+también una oportunidad para generar y fortalecer las estrategias
+necesarias para enseñar en una escuela diversa y heterogénea que
+asegure la justicia educativa para cada una y cada uno de nuestras y
+nuestros estudiantes.
+
+En la Argentina, el Estado implementó y continúa trabajando en
+acciones concretas para mitigar el impacto de la crisis epidemiológica
+y asume el indelegable compromiso de asegurar el derecho a la
+educación. Este año, el Ministerio de Educación, así como las y los
+responsables de las políticas educativas de todas las jurisdicciones,
+en el marco de los consensos del Consejo Federal de Educación, refuerza
+los acuerdos para acompañar a las escuelas en el sostenimiento del
+vínculo pedagógico, y la recuperación y fortalecimiento de las
+trayectorias. Es en este sentido que asumimos la responsabilidad de
+fortalecer la enseñanza de los contenidos priorizados en 2020,
+considerar y seguir promoviendo la unidad pedagógica de modo que se
+refuercen y aseguren los aprendizajes, recuperando lo enseñado y lo que
+necesita reponerse. Con este punto de partida, el Ministerio de
+Educación de la Nación ha desarrollado la serie de cuadernos
+Reencuentros para seguir acompañándolos en una escuela que será
+distinta de la que conocemos. Con la alegría de volver a encontrarnos,
+les presentamos los cuadernos para los primeros meses del ciclo escolar
+2021.
+
+Con estas propuestas, enmarcadas en una política cuyo objetivo es
+garantizar el derecho y la igualdad educativa, esperamos colaborar en el
+desarrollo de más y nuevas estrategias de enseñanza y propuestas
+pedagógicas que contemplen los distintos escenarios en los que
+deberemos seguir enseñando y aprendiendo.
+
+Nicolás Trotta
+
+Ministro de Educación de la Nación
+
+Presentación
+
+Estimadas chicas y estimados chicos de Primaria y familias: Esperamos
+que las vacaciones hayan renovado las energías  y las ganas de seguir
+aprendiendo. Sabemos que 2020 fue un año muy particular en el que
+extrañaron la escuela, los momentos compartidos con las compañeras y
+los compañeros, los recreos y el aprendizaje construido con las
+maestras y los maestros. También sabemos que, a través de diferentes
+canales, estuvieron acompañadas y acompañados y junto con sus familias
+pudieron encontrar nuevos modos de organizarse y de estudiar.
+
+Este año nos vamos a reencontrar en la escuela, y será muy diferente,
+algunos días asistirán a clase y otros continuarán estudiando en
+casa. Cada escuela informará a las familias cómo será la
+organización y cuándo tendrán que asistir de acuerdo a los
+agrupamientos, pero lo más importante es estar en contacto con las y
+los docentes hasta que podamos volver completamente. Y, sobre todo,
+seguir cuidándonos entre todas y todos para que podamos superar
+colectivamente este contexto tan especial.
+
+Para acompañarlas y acompañarlos en este volver al aula, les hacemos
+llegar a todas las escuelas primarias los cuadernos de la serie
+Reencuentros para los primeros tres meses de clases, que se suman a las
+actividades que cada maestra o maestro les propone. En estos cuadernos
+se encontrarán con temas de las diferentes áreas: Lengua/Prácticas
+del Lenguaje, Matemática, Ciencias Naturales y Ciencias Sociales. Allí
+podrán leer cuentos y poemas, zambullirse en grandes cuestiones del
+mundo de las ciencias, sortear desafíos matemáticos. Verán que hay
+muchas actividades para que resuelvan, a veces solas y solos, a veces
+con ayuda, a veces colectivamente. Recuerden que, como siempre, es mejor
+ir avanzando un poquito cada día, volver a lo que ya hicieron,
+preguntar todo lo que necesiten y compartir lo que fueron pensando.
+
+Les deseamos un muy buen año. ¡A seguir cuidándonos y a seguir
+aprendiendo!
+
+LENGUA / PRÁCTICAS DEL LENGUAJE
+
+Página 6
+
+
+
+En primera persona
+
+“¡Aquí estoy! Pienso estas cosas”, “A veces soy así y a veces
+de esta otra manera”, “Te cuento lo que me pasó”. A lo largo de
+todo el recorrido les proponemos leer y escribir a partir de estas
+frases o ideas, para conocer y conocerse.
+
+La propuesta está organizada en tres recorridos. En el primero, “El
+arte de decir”, van a leer textos poéticos sobre diversos lugares
+para conversar sobre lo que cada una y cada uno interpreta y siente a
+partir de los poemas. Y, también, para animarse a decir y contar sobre
+sus lugares en verso.
+
+En el segundo recorrido, “El arte de retratar”, observarán y
+leerán retratos y autorretratos en prosa y en verso y, entre todas y
+todos, construirán su propia galería de autorretratos con palabras e
+imágenes.
+
+Finalmente, en el tercero, “El arte de contar”, van a zambullirse en
+varias anécdotas para escribir las propias y armar una antología entre
+todas y todos.
+
+
+
+Recorrido 1: El arte de decir
+
+Les proponemos comenzar el año leyendo poesías. Hay quienes piensan
+que la poesía es difícil, que solo habla de amor o que la rima es
+obligatoria en este género. Pero esto no es así. Asómense a los
+poemas de este recorrido. Verán que hay poesías para todos los gustos.
+
+¿Cuáles serán sus preferidos?
+
+
+
+Decir las ciudades
+
+Una ciudad, cualquier ciudad, tiene un nombre, gente que la recorre,
+calles, edificios y algo de ajetreo. A veces las y los poetas miran las
+ciudades y las dicen, y al decirlas también nos hablan de ellas o ellos
+mismos y nos invitan a contemplarlas desde sus miradas y, por qué no, a
+encontrar nuestras palabras.
+
+
+
+Cuadrados y ángulos
+
+Casas enfiladas, casas enfiladas,
+
+casas enfiladas.
+
+Cuadrados, cuadrados, cuadrados.
+
+Casas enfiladas.
+
+Las gentes ya tienen el alma cuadrada,
+
+Ideas en fila
+
+y ángulo en la espalda.
+
+Yo misma he vertido ayer una lágrima,
+
+Dios mío, cuadrada.
+
+Alfonsina Storni. Poeta argentina (1892-1938).
+
+AA.VV.: “Cuadrados y ángulos”, en Poesía argentina del siglo XX,
+Buenos Aires, Colihue, 1994.
+
+
+
+Sobre el poema
+
+En todo poema hay una voz que habla; se la llama yo lírico o yo 
+poético. ¿Cómo imaginan a la  persona que habla en este poema?,
+¿dónde la imaginan?
+
+En los primeros versos de la poesía se reiteran una y otra vez ciertas
+palabras. Léanlas en voz alta, imaginen y conversen: ¿por qué el yo
+lírico repite y repite los mismos términos?, ¿será que quiere
+enfatizar una idea, porque está recorriendo la ciudad, o por alguna
+otra razón?
+
+Página 7
+
+
+
+Las formas de la ciudad generan transformaciones en las personas que
+viven allí. Busquen en el poema las frases que muestran los cambios que
+afectan a las demás personas y al yo lírico. Pueden transcribirlas en
+sus carpetas.
+
+
+
+Una imagen para el poema
+
+Miren las siguientes obras y conversen: ¿cuál elegirían para el poema
+“Cuadrados y ángulos”?, ¿por qué?
+
+Citen la obra seleccionada y debajo, a manera de epígrafe, copien un
+verso del poema.
+
+
+
+Nota del corrector: el cuaderno original presenta dos pinturas. La
+primera es de María Rocchi y se titula” La jaula”, sin fecha. En
+ella se ve una ciudad, con sus habitantes asomándose por las ventanas.
+La segunda es de Marino Santa María y se titula “Signos primarios”,
+de 1995. En ella hay formas geométricas de círculos, triángulos y
+rectángulos. De fondo hay una textura que simula pelos. Fin de la nota.
+
+
+
+Las calles de la ciudad
+
+Las calles
+
+Las calles de Buenos Aires
+
+ya son mi entraña.
+
+No las ávidas calles
+
+incómodas de turba y ajetreo,
+
+sino las calles desganadas del barrio
+
+casi invisibles de habituales,
+
+enternecidas de penumbra y de ocaso.
+
+Jorge Luis Borges. Escritor argentino (1899-1986).
+
+“Las calles” (fragmento), en Fervor de Buenos Aires, Buenos Aires,
+Emecé, 2007.
+
+
+
+Sobre el poema
+
+En este poema se habla de dos tipos de calles. Por un lado, están las
+“ávidas calles/ incómodas de turba y ajetreo”. ¿Por qué estarán
+incómodas?, ¿de qué estarán ávidas esas calles; es decir, qué es
+lo que querrán o necesitarán?
+
+Por otro lado, están las otras calles, las del barrio, que son
+diferentes. Busquen en el poema cómo se las caracteriza y copien los
+versos en sus carpetas.
+
+Página 8
+
+
+
+Relean el poema. En los dos primeros versos se afirma: “Las calles de
+Buenos Aires/ ya son mi entraña”, ¿qué quiere decir que ciertas
+calles “ya son su entraña”?, ¿que son parte de él o que el yo
+lírico se siente parte de esas calles?, ¿cuáles son esas calles que
+prefiere?, ¿cómo se dieron cuenta?
+
+
+
+Una imagen para el poema
+
+Conversen: ¿cuál de estas dos obras elegirían para el poema “Las
+calles”?, ¿por qué?
+
+En sus carpetas, citen la imagen elegida y copien un verso que refleje
+por qué la seleccionaron.
+
+
+
+Nota del corrector: el cuaderno original presenta dos pinturas. La
+primera tiene colores apagados y muestra la vista de una ciudad desde
+una ventana. En el paisaje se ven un puente y casas. La segunda muestra
+una ciudad desde las calles. En ella se ve un edificio, una casa grande,
+gente caminando y árboles.
+
+Fuente: Ministerio de Educación / Pinacoteca.
+
+Fin de la nota.
+
+¿Y ustedes?
+
+El yo lírico siente algo especial sobre “las calles desganadas del
+barrio/ casi invisibles de habituales”. ¿Y ustedes, qué sienten
+sobre algún lugar de su barrio?
+
+Conversen entre ustedes para intercambiar ideas. Luego, en sus carpetas,
+vuelvan a escribir la frase y continúen:
+
+Cuando pienso en mi barrio…
+
+Página 9
+
+
+
+Setenta balcones y ninguna flor
+
+Setenta balcones hay en esta casa, setenta balcones y ninguna flor…
+
+¿A sus habitantes, Señor, qué les pasa?
+
+¿Odian el perfume, odian el color?
+
+
+
+La piedra desnuda de tristeza agobia
+
+¡dan una tristeza los negros balcones!
+
+¿No hay en esta casa una niña novia?
+
+¿No hay algún poeta lleno de ilusiones?
+
+
+
+¿Ninguno desea ver tras los cristales
+
+una diminuta copia de jardín?
+
+¿En la piedra blanca trepar los rosales,
+
+en los hierros negros abrirse un jazmín?
+
+
+
+Si no aman las plantas no amarán el ave,
+
+no sabrán de música, de rimas, de amor.
+
+Nunca se oirá un beso, jamás se oirá
+
+un clave...
+
+¡Setenta balcones y ninguna flor!
+
+Baldomero Fernández Moreno. Poeta argentino (1886-1950).
+
+“Setenta balcones y ninguna flor”, en Obra poética, Buenos Aires,
+Huemul, 1969.
+
+
+
+Sobre el poema
+
+El poema comienza: “Setenta balcones hay en esta casa”. ¿Qué tipo
+de casa estará mirando el que habla en el poema? Dibújenla y luego
+compartan con las compañeras y los compañeros las ilustraciones que
+realizaron. ¿En qué se parecen sus dibujos? ¿Y en qué se
+diferencian?
+
+¿Qué opinan?, ¿en este poema se habla de lo que se ve o de lo que
+falta?, ¿o de ambas cuestiones?, ¿por qué?
+
+
+
+Jugar el mismo juego
+
+Recorran una calle de sus barrios, observando detenidamente lo que hay y
+pensando en algo que le falta. Luego copien la frase siguiente en sus
+carpetas y continúen la oración; la idea es jugar el mismo juego que
+se juega en este poema:
+
+(Espacio para completar) hay en (espacio para completar),
+
+(espacio para completar) y ningún/a (espacio para completar)
+
+
+
+Sobre los poemas
+
+Cuando abrimos un libro de poesías, lo primero que se observa es que
+los renglones no llegan hasta el margen derecho de la página, sino que
+terminan antes. Y que, curiosamente, los espacios en blanco llaman la
+atención. Como sucede con la música, en donde los silencios también
+se escuchan, los blancos de las páginas tienen significados.
+
+Y con las poesías, esos espacios nos advierten que tenemos que leer de
+una manera diferente, buscando cosas distintas de las que buscamos
+cuando leemos un cuento o una entrada de enciclopedia, por ejemplo.
+
+También hay poemas que no se escriben en verso: se los llama prosa
+poética o poesía en prosa. Entonces:
+
+Si tiene versos es una poesía.
+
+Si no tiene versos, también podemos hablar de poesía (en prosa), pero
+no lo sabemos a primera vista.
+
+Página 10
+
+
+
+Vamos por partes
+
+Es importante no confundir los conceptos de verso y poesía.
+
+La poesía es todo el texto. A las poesías también se les dice poemas.
+
+Los versos son cada uno de los renglones de las poesías.
+
+Los versos se agrupan en estrofas. El final de una estrofa se señala
+con un renglón en blanco.
+
+
+
+Te quiero (fragmento)
+
+Tus manos son mi caricia
+
+mis acordes cotidianos
+
+te quiero porque tus manos
+
+trabajan por la justicia.
+
+
+
+Si te quiero es porque sos
+
+mi amor mi cómplice y todo
+
+y en la calle codo a codo
+
+somos mucho más que dos.
+
+
+
+Tus ojos son mi conjuro
+
+contra la mala jornada
+
+te quiero por tu mirada
+
+que mira y siembra futuro.
+
+Nota del corrector: el cuaderno original presenta un esquema que muestra
+la estructura de un poema o poesía. Se escriben en versos uno bajo el
+otro, y ese grupo de versos se llama estrofa. Al conjunto de estrofas se
+les nombra “poema o poesía”. Fin de la nota.
+
+De los tres poemas que leyeron hasta ahora, ¿cuál está separado en
+estrofas?, ¿y en cuál de los poemas hay rima? Pueden escribir las
+respuestas en sus carpetas.
+
+¿Qué opinan?, ¿la rima y la separación en estrofas son recursos
+obligatorios para escribir poemas?, ¿cómo se dieron cuenta?
+
+
+
+Entre los tres, uno
+
+Elijan uno de los tres poemas de las páginas anteriores, el que más
+les guste. Léanlo y reléanlo varias veces en voz alta hasta que les
+guste cómo les sale la lectura.
+
+Conversen con las compañeras y los compañeros que hayan elegido el
+mismo poema. Vuelvan a leerlo de manera completa. Luego decidan qué
+versos leerá cada una y cada uno. ¡Practiquen hasta que quede como les
+guste a todas y todos! Pueden leer la poesía a otras personas de la
+escuela y de la familia, o grabar un audio y compartirlo con más gente.
+
+
+
+Decir la naturaleza
+
+Ya sabemos que de la mano de las y los poetas miramos el mundo de otra
+forma. Asómense a estos poemas y fragmentos de poemas para ver con
+otros ojos las cosas de todos los días y para decirlo, también, con
+otras palabras.
+
+
+
+Sol de Monterrey
+
+No cabe duda: de niño,
+
+a mí me seguía el sol.
+
+Andaba detrás de mí
+
+como perrito faldero;
+
+despeinado y dulce,
+
+claro y amarillo:
+
+ese sol con sueño
+
+que sigue a los niños.
+
+
+
+Saltaba de patio en patio,
+
+se revolcaba en mi alcoba.
+
+Aún creo que algunas veces
+
+lo espantaban con la escoba.
+
+Y a la mañana siguiente,
+
+ya estaba otra vez conmigo,
+
+despeinado y dulce,
+
+claro y amarillo:
+
+ese sol con sueño
+
+que sigue a los niños.
+
+Alfonso Reyes. Poeta mexicano (1880-1959).
+
+“Sol de Monterrey” en Sol de Monterrey, Fondo Editorial de Nuevo
+León, Secretaría de Educación México, 2010.
+
+Página 11
+
+
+
+El ritmo y la rima en la poesía
+
+Este es un poema muy bello para leer en voz alta. Invita a ir lentamente
+en algunas partes y acelerar en otras, a jugar con una especie de
+vaivén en el ritmo. Esto sucede porque hay algunos versos más largos
+(que pueden leerse más lentamente) y otros más cortos (en donde
+posiblemente se acelere la lectura) ¡Leer en voz alta es como lanzarse
+a hacer piruetas con la voz y las palabras siguiendo el sendero de los
+versos!
+
+Practiquen y lean el poema varias veces para, luego, compartir la
+lectura con sus compañeras y compañeros o con alguien de la familia.
+Escúchense entre ustedes: ¿qué hay de parecido y de diferente en las
+lecturas realizadas?, ¿leen a la misma velocidad?, ¿hacen pausas en
+los mismo lugares?; ¿la entonación es similar?
+
+Además de diferentes ritmos, lo que produce el efecto de vaivén
+también se vincula con la rima. Con ojos y oídos de investigadoras e
+investigadores poéticos, busquen los versos que riman entre sí. Antes,
+lean la siguiente información:
+
+La rima consiste en la igualdad o la semejanza de los sonidos de las
+palabras a partir de la última vocal acentuada. Hay dos tipos de rima:
+consonante y asonante. Por ejemplo:
+
+ALCOBA y ESCOBA tienen rima consonante porque coinciden todos los
+sonidos a partir de la ultima vocal acentuada (la O).
+
+AMARILLO y NIÑOS: tienen rima asonante porque solo coinciden las
+vocales a partir de la última vocal acentuada (la I).
+
+Cuando las palabras finales de dos versos riman, decimos también que
+riman los versos. Y si no riman, estamos frente a lo que se llama verso
+libre.
+
+
+
+¡A ponerse a prueba! Hasta aquí leyeron solo dos estrofas del poema
+“Sol de Monterrey”. A continuación figura otra: ¿se animan a
+separarla en versos? Lean y relean, luego copien en sus carpetas para
+mostrar cómo la segmentaron.
+
+Todo el cielo era de añil; toda la casa, de oro.
+
+¡Cuánto sol se me metía por los ojos! Mar adentro de la frente, a
+donde quiera que voy, aunque haya nubes cerradas, ¡oh cuánto me pesa
+el sol! ¡Oh cuánto me duele, adentro, esa cisterna de sol que viaja
+conmigo!
+
+Compartan las decisiones que tomaron: ¿por qué segmentaron la estrofa
+de esa forma? A partir de lo conversado pueden cambiar de idea, claro
+está, y realizar una nueva versión.
+
+
+
+Jugar el mismo juego
+
+Piensen en el sol de cuando eran más pequeñas y pequeños. ¿Les
+gustaba que les entrara por los ojos y sentir su calor?, ¿recuerdan
+algún momento o lugar en especial por donde se colaba la luz?,
+¿miraban las motitas de polvo volando en un rayo de sol?, ¿o esperaban
+que dejara de llover y saliera el sol para hacer algo afuera de la casa?
+
+Luego, escriban en sus carpetas completando el título y un verso. Y si
+se animan, avancen un poco más.
+
+
+
+Sol de (espacio para completar)
+
+No cabe dudas, de niña / de niño.
+
+(espacio para completar)
+
+Página 12
+
+
+
+Paisaje
+
+La tarde equivocada
+
+se vistió de frío
+
+Detrás de los cristales,
+
+turbios, todos los niños,
+
+ven convertirse en pájaros un árbol amarillo.
+
+La tarde está tendida
+
+a lo largo del río
+
+Y un rubor de manzana
+
+tiembla en los tejadillos.
+
+Federico García Lorca. Poeta español (1898 - 1936).
+
+“Paisaje” en Obras completas, México, Aguilar, 1966.
+
+
+
+Sobre el poema
+
+Conversen: ¿Por qué les parece que “la tarde está equivocada”?,
+¿qué es lo que todos esperarían de esta tarde?, ¿cómo puede ser que
+un árbol amarillo se convierta en pájaros?, ¿y por qué los cristales
+de las casas estarán turbios?, ¿qué pasa con los vidrios cuando
+adentro está calentito y afuera hace mucho frío?
+
+Elijan un verso que les genere alguna pregunta. Léanlo a sus
+compañeras y compañeros y comenten las dudas. Entre todas y todos
+intenten llegar a alguna respuesta.
+
+
+
+Jugar el mismo juego
+
+En los dos primeros versos hay una personificación. Lean qué es lo que
+esto significa:
+
+La personificación es un recurso literario que consiste en atribuir
+acciones o cualidades humanas a cosas inanimadas (una piedra),
+intangibles (una idea, un momento) o a seres irracionales (un animal,
+una planta).
+
+A continuación figuran muchos adjetivos calificativos. Elijan los que
+podrían servir para personificar a una tarde o a otro momento del día:
+veraniega - avergonzada - segura - soleada - curiosa - valiente -
+dubitativa - cautelosa - tímida - brillante.
+
+Piensen en una tarde, una mañana u otro momento del día que recuerden
+especialmente. Luego, completen, jugando el mismo juego que se juega en
+el poema.
+
+La (espacio para completar) (espacio para completar)
+
+(espacio para completar)
+
+
+
+Una ronda poética para seguirla
+
+A continuación, encontrarán fragmentos de diversos poemas. Pueden
+buscar otros más, si desean.
+
+
+
+Lean las poesías, conversen sobre los diferentes sentidos que
+encuentran, busquen imágenes para acompañarlas (o realicen una
+ilustración). Y, si se animan, pueden escribir un nuevo poema tomando
+prestado los temas, las formas en que están escritos o bien una
+combinación de palabras que les guste especialmente.
+
+La voz a ti debida
+
+Y súbita, de pronto
+
+porque sí, la alegría.
+
+Sola, porque ella quiso
+
+vino. Tan vertical,
+
+tan gracia inesperada,
+
+tan dádiva caída,
+
+que no puedo creer
+
+que sea para mí.
+
+Pedro Salinas: “La voz a ti debida” (fragmento), en La voz a ti
+debida, Buenos Aires, Losada,1949.
+
+Página 13
+
+
+
+Oda a la cebolla
+
+Luminosa redonda,
+
+pétalo a pétalo
+
+se formó tu hermosura,
+
+escamas de cristal te acrecentaron
+
+y en el secreto de la tierra oscura
+
+se redondeó tu vientre de rocío.
+
+Pablo Neruda: “Oda a la cebolla” (fragmento), en Odas elementales,
+Buenos Aires, Losada, 1954.
+
+
+
+Humo
+
+El humo
+
+de las chimeneas
+
+se va de viaje
+
+por eso
+
+se pone
+
+su mejor traje.
+
+Elsa Bornemann: “Humo” (fragmento), en María de los Ángeles
+Serrano, Voces de infancia. Poesía argentina para los chicos, Buenos
+Aires, Colihue, 2007.
+
+
+
+Entre todos, uno
+
+Como cierre de este primer recorrido vuelvan a leer todos los poemas que
+figuran en las páginas anteriores, los que escribieron ustedes y sus
+compañeras y compañeros, y busquen otros, en libros o en Internet.
+Elijan uno (extenso o breve, sencillo o un poco difícil, como
+prefieran). Practiquen leerlo varias veces hasta encontrar esa forma de
+hacerlo que más les guste. Luego, compartan el poema en una ronda en la
+escuela o graben su lectura en audio o como videopoema para conformar
+una antología. A continuación, encontrarán ideas para la creación de
+videopoemas.
+
+Página 14
+
+
+
+TECLADOS Y PANTALLAS
+
+En un videopoema se integran palabras escritas, imágenes, música,
+voces y sonidos. Cuando se trabaja con producciones audiovisuales es
+importante conocer algunos de los elementos de ese lenguaje. En el caso
+de los videopoemas, por ejemplo, hay que tener en cuenta el uso de los
+colores, las luces y las sombras, y los planos que definen la proximidad
+de la cámara con aquello que se quiere mostrar.
+
+El videopoema que van a ver y escuchar retoma el conocido “Sonatina”
+del poeta nicaragüense Rubén Darío (1867-1916). Busquen el poema en
+Internet: verán que es muy fácil encontrarlo. Léanlo varias veces,
+intentando imaginar el mundo creado.
+
+Visualicen el videopoema de “Sonatina” de Rubén Darío producido
+por Canal Encuentro. Hagan clic en la imagen:
+
+
+
+Nota del corrector: el cuaderno original presenta una imagen del canal
+Encuentro, donde aparece una nena mirando hacia abajo. A continuación
+se menciona el link en texto lineal.
+
+http://encuentro.gob.ar/programas/serie/8025/315?temporada=1
+
+Fin de la nota.
+
+Y reflexionen sobre lo que cuentan las imágenes y las palabras:
+
+a) ¿Qué historia cuenta el videopoema?, ¿les resultó similar a la
+que habían imaginado cuando leyeron la poesía? Seguramente, en algunos
+aspectos hubo similitudes y en otros, no. Hay que tener en cuenta que
+los videopoemas creados a partir de poesías ya escritas retoman algunas
+cuestiones del poema original a la vez que introducen otras nuevas. Y,
+de esa manera, narran los episodios de manera diferente.
+
+b) ¿Cómo se narra el hecho de que la princesa está en una fiesta con
+amigos?, ¿les parece que si la cámara estuviera muy cerca se podrían
+ver los otros personajes?
+
+c) ¿Cómo saben quién es la princesa?, ¿qué otros atributos tiene de
+los asignados tradicionalmente a una princesa?
+
+
+
+Nota del corrector: el cuaderno original presenta dos escenas del
+videopoema acompañadas por los siguientes pies de imagen.
+
+1. Los planos lejanos muestran el lugar donde se realiza la acción. En
+un cumpleaños, los nenes juegan corriendo disfrazados.
+
+2. Los planos medianos muestran la acción, a los personajes y sus
+características. Una niña con alas de peluche en la espalda sopla la
+vela.
+
+Fin de la nota.
+
+Página 15
+
+
+
+d) ¿Cómo saben, a través de las imágenes, que la princesa está
+triste?, ¿les parece que si la cámara estuviera más lejos se podría
+ver con tanta claridad la expresión de su rostro?
+
+
+
+Nota del corrector: el cuaderno original presenta una escena del
+videopoema que muestra a la princesa, una nena con mirada triste. Pie de
+imagen: Los planos cercanos muestran los sentimientos de los personajes
+y los detalles significativos. Fin de la nota.
+
+e) ¿Qué colores predominan cuando se muestra a “la princesa que
+está triste”?, ¿qué colores hay en el resto de los ambientes?
+
+
+
+Nota del corrector: el cuaderno original presenta una escena del
+videopoema que muestra a la princesa hamacándose lentamente, con la
+mirada gacha en gesto triste. Está rodeada por sombras. Pie de imagen:
+Las sombras dan cuenta de la tristeza de la princesa y los colores
+brillantes se utilizan para contrastar lo que le pasa a la protagonista
+con la alegría de la fiesta. Fin de la nota.
+
+
+
+Manos a la obra
+
+¡Ahora sí! Elijan un poema para armar un videopoema propio. Recuerden
+que pueden contar cosas que no están escritas en el poema original,
+porque están realizando una nueva creación, la de ustedes.
+
+Pueden filmar con un celular o la cámara de una computadora y luego
+editarlo con algún programa de edición de videos. En la instancia de
+postproducción pueden sumarle música. ¡No se olviden de incluir los
+créditos, es decir los nombres y las funciones de todas y todos los que
+participaron!
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía de
+tres compañeros de escuela usando una computadora escolar. Fin de la
+nota.
+
+Página 16
+
+
+
+Recorrido 2: El arte de retratar
+
+En este segundo recorrido van a zambullirse en retratos y autoretratos
+con imágenes y palabras. Van a mirar y analizar cuadros y fotografías,
+y a leer textos en prosa y en verso. Hacia el final, van a componer su
+propio autorretrato con palabras y alguna imagen.
+
+A lo largo de estas páginas van a conocer muchos trucos para enfrentar
+ese desafío. Empecemos…
+
+
+
+El retrato en las artes plásticas
+
+Las siguientes pinturas y fotografías son retratos.
+
+Obsérvenlos y lean los datos de cada obra. Algunas tienen título,
+otras no. Inventen títulos para las obras que no lo tienen:
+escríbanlos en sus carpetas.
+
+
+
+
+
+Nota del corrector: el cuaderno original presenta pinturas y
+fotografías de personas.
+
+1. Nene de jardín de infantes abrazado a la pierna de su madre. Sin
+título. Fuente: Libro Presente. Jardín de infantes Nº 21. Ciudad de
+Nequén, Neuquén.
+
+2. Una joven vestida con guardapolvo de artista. Tras ella hay
+esculturas de yeso y herramientas. Sin título. Fuente: Escuela de
+Bellas Artes de la Universidad Nacional de Tucumán. San Miguel de
+Tucumán, Tucumán.
+
+3. Título: La niña del balón, 1937 Temple s/madera.
+
+4. Niño con pijama montado sobre un caballo balancín. Título: Hacia
+el futuro, 1997. Aguafuerte, aguatinta, barniz blando.
+
+5. Mujer con vestido y pañuelo en la cabeza calzándose las alpargatas.
+Título: Estudio, sin fecha. Acuarela s/papel.
+
+6. Nene con guardapolvo y una curita en la frente. Sin título. Fuente:
+Libro Presente. Escuela rural Fray Mamerto Esquiú. Olpos, La Rioja.
+
+Fin de la nota.
+
+Página 17
+
+
+
+Sobre el retrato
+
+El término “retrato” se usa en la pintura, la escultura y la
+fotografía para referirse a una obra artística en la que se representa
+a una persona.
+
+Si bien solemos pensar que esa representación solo muestra la
+apariencia externa, lo cierto es que los artistas deciden tomar o
+enfatizar ciertos rasgos del modelo que representan: el estatus social,
+la personalidad, los intereses o conocimientos, e incluso los estados de
+ánimo. El rostro suele ocupar un lugar importante junto con otros
+aspectos del cuerpo, y quienes miramos vamos imaginando diferentes
+cuestiones. Pero no imaginamos solo su figura. A veces se presentan
+elementos sugerentes; por ejemplo, las características del entorno
+pueden hacernos pensar en dónde vive o a qué se dedica; los objetos,
+animales o plantas nos llevan a pensar en cierta familiaridad del
+retratado con la naturaleza, con una actividad, o con ciertos intereses
+o gustos. La vestimenta y los colores también son relevantes.
+
+Es importante recordar que tanto en la pintura como en la fotografía
+hay alguien que mira desde cierto lugar, y que de alguna manera expresa
+también sus propios sentimientos o ideas acerca del retratado, o quizá
+lo que le han pedido que transmita sobre él o ella ya que muchas veces
+los retratistas hacen sus obras por encargo. Lo mismo sucede con los
+autorretratos.
+
+
+
+Observar, imaginar, escribir
+
+Observen todos los detalles de cada pintura y fotografía.
+
+¿Qué sugieren los gestos del rostro y la postura?, ¿y el entorno en
+que se encuentra y los objetos o personas que lo acompañan?
+
+Seleccionen dos de los siguientes adjetivos para calificar la emoción
+que ustedes imaginan a partir de cada uno de los retratos. En la lista,
+algunos adjetivos se presentan en género femenino y los otros en
+masculino: pueden cambiar el género gramatical si lo necesitan.
+
+temerosoSorprendidaAburridaCuriosaSatisfechoDudosaEnojadaConcentradoConv
+encidaCansadoTristeEnérgicaHorrorizadofuriosacontentoburlonaapuradoCapr
+ichosa
+
+Para cada obra, copien la oración siguiente y completen en sus
+carpetas. Pueden usar los adjetivos de la actividad anterior u otros.
+¡Lo que no vale es repetirlos!
+
+En este cuadro, el retratado / la retratada se siente (espacio para
+completar), porque (espacio para completar)
+
+Pongan en común las oraciones. Y presten mucha atención a lo que
+dijeron las otras compañeras y los otros compañeros: van a formar
+grupos de no más de tres integrantes con quienes hayan coincidido en
+una obra para resolver la consigna.
+
+Imaginen que la retratada o el retratado hace una pregunta y exclama
+algo. ¿Qué diría? Escriban varias alternativas, con esta condición:
+lo que dice comienza con un pronombre exclamativo o interrogativo como
+los siguientes:
+
+QuéQuiénDóndeCómoCuándoPor qué
+
+Para tener en cuenta
+
+Los pronombres interrogativos y exclamativos se escriben siempre con
+tilde.
+
+Los signos de exclamación (¡!) y de interrogación (¿?) se colocan al
+comienzo y al final de las oraciones exclamativas e interrogativas. En
+otras lenguas, como el inglés o el francés, solo se colocan al final.
+
+Página 18
+
+
+
+Autorretrato de palabras
+
+Los términos “retrato” y “autorretrato” no solo se emplean en
+las artes plásticas, sino también para hablar de algunos textos
+escritos u orales. Como imaginarán, se trata de textos que describen a
+una persona. A veces están incluidos en otro texto (por ejemplo, en
+entrevistas, memorias, novelas o cuentos). Muchos son en prosa, pero los
+poetas también a veces se eligen como tema de sus poemas y hablan de
+sí mismos.
+
+El siguiente autorretrato lo escribió Miguel de Cervantes Saavedra,
+autor de Don Quijote de la Mancha, hace más de 400 años, por eso
+notarán que aparecen algunas expresiones que hoy ya no usamos. Su
+autorretrato figura en el prólogo de otra de sus obras, las Novelas
+ejemplares.
+
+
+
+Lean con atención y comparen con la imagen.
+
+Éste que veis aquí, de rostro aguileño, de cabello castaño, frente
+lisa y desembarazada, de alegres ojos y de nariz corva, aunque bien
+proporcionada; las barbas de plata, que no ha veinte años que fueron de
+oro, los bigotes grandes, la boca pequeña, los dientes ni menudos ni
+crecidos, porque no tiene sino seis, y ésos mal acondicionados y peor
+puestos, porque no tienen correspondencia los unos con los otros; el
+cuerpo entre dos estremos, ni grande, ni pequeño, la color viva, antes
+blanca que morena; algo cargado de espaldas, y no muy ligero de pies;
+este digo que es el rostro del autor de La Galatea y de Don Quijote de
+la Mancha. [...]. Llámase comúnmente Miguel de Cervantes Saavedra.
+
+Disponible en Biblioteca Cervantes Virtual
+
+http://www.cervantesvirtual.com/obra-visor/novelas-ejemplares--0/html/ff
+32b242-82b1-11df-acc7-002185ce6064_5.html
+
+
+
+Nota del corrector: el cuaderno original presenta un retrato antiguo en
+pintura de Miguel de Cervantes. Fin de la nota.
+
+Página 19
+
+
+
+Al leer el autorretrato de Cervantes, ¿les dieron ganas de haber
+conocido personalmente a este escritor?, ¿por qué? Escriban sus ideas
+y compártanlas con otras u otros.
+
+¡Este fragmento tiene una sola oración! Una parte está destinada a
+describir el aspecto físico. ¿Cuáles de las siguientes partes del
+cuerpo se mencionan en el texto? Cópienlas en la carpeta.
+
+PiesRostroManosBrazosOjosFrenteCabelloBarbaAbdomenHombrosCuelloRodillasL
+abiosNarizOrejasMejillasPechoEspaldaBocaDientesBigotecodospiernasMentón
+
+Consignen un número para indicar el orden en que menciona cada parte
+del cuerpo. Por ejemplo, el rostro corresponde al número 1. Imaginen
+que Cervantes se estaba mirando al espejo mientras escribía su retrato.
+¿Se miró desde arriba hacia abajo o desde los pies hasta la cabeza?
+
+Para caracterizar las partes que elige incluir en su retrato, el autor
+recurre a varios adjetivos. Algunos se utilizan en las conversaciones
+cotidianas, por ejemplo: castaño, lisa, alegre. Otros son menos
+comunes. Elijan en cada caso la palabra o expresión sinónima. Para
+hacerlo, pueden mirar y remirar la imagen, y también acudir al
+diccionario.
+
+Rostro aguileñoRostro alargado y delgadoRostro redondo y regordete
+
+Frente desembarazadaFrente chiquitaFrente despejada
+
+Dientes menudosDientes enormesDientes pequeños
+
+En el texto Cervantes dice ser “algo cargado de espaldas”. ¿Qué
+otras formas de las siguientes sirven también para caracterizar la
+postura de una persona?, ¿y la voz?, ¿y la mirada? En sus carpetas,
+organicen las palabras en diferentes listas.
+
+CabizbajaEstiradaRobustoRoncaGraveCantarinaAtléticoErguidoProfundaEncor
+vadaElocuentoExpresivaapagadaAfónicaMelodiosaEnigmáticofuertepensativo
+
+En lugar de “barba blanca”, Cervantes escribe: “barbas de
+plata”. Piensen y repiensen otras construcciones preposicionales que
+podrían servir para reemplazar cada color: amarillo, rojo, celeste,
+negro, verde. Si se les ocurren otras construcciones para otros colores,
+agréguenlas también.
+
+El texto que leyeron es un autorretrato. Pero el autor se refiere a sí
+mismo usando la tercera persona. Reescriban el inicio de este fragmento
+en primera persona; es decir, empleando el “yo”.
+
+Cervantes se concentra en describir su aspecto físico. Pero lo hace de
+manera tal que imaginamos algo más de él, que no está dicho. Elijan
+tres adjetivos de los siguientes para caracterizar su forma de ser:
+
+serio arrogante astuto irónico burlón inteligente vanidoso complicado
+sencillo humilde fantasioso mentecato.
+
+Página 20
+
+
+
+Compartan sus opiniones sobre los rasgos de personalidad que
+seleccionaron en la actividad anterior. Si dos eligieron antónimos,
+conversen y reflexionen acerca de las razones de la elección; es decir,
+en qué aspectos del autorretrato se basaron para llegar a conclusiones
+opuestas.
+
+
+
+Para inspirarse
+
+En los retratos o autorretratos no solo se describe el aspecto físico
+de una persona, sino también su carácter, gustos y disgustos,
+hábitos, entre otras cuestiones.
+
+Las y los invitamos a leer las siguientes preguntas, inspiradas en un
+cuestionario al que se llamó “Cuestionario Proust”, porque un
+famoso escritor francés apellidado así era muy aficionado a
+contestarlo. Se trata de un conjunto de veinte cuestiones que pueden ser
+útiles para planificar un retrato o un autorretrato. Y por qué no,
+para jugar y hacerlas a otras y otros.
+
+1.	Mi mejor virtud es11. El año que viene2.	Las mejores cualidades de
+una persona adulta son12. Mi lugar favorito es3.	Lo que más me gusta de
+mis amigas y amigos es13. Me gusta escuchar4.	Me gusta jugar a…, y
+antes…14. Mi palabra favorita es5.	La mejor forma de ocupar el tiempo
+es15. Me gusta que me digan6.	Si fuera un animal sería16. Extraño7.
+Cuando llueve17. Me quedo callada o callado cuando8.	Me gustaría
+parecerme a18. Siempre me sorprende9.	No quisiera19. Admiro a10.
+Quisiera saber20. Cuando me despierto escucho
+
+Completen en sus carpetas por lo menos diez de estas cuestiones sobre
+ustedes. Compartan las que gusten con otras y otros.
+
+
+
+Retratos y autorretratos en verso
+
+Las y los poetas también escriben retratos y autorretratos. Lean los
+siguientes fragmentos y reflexionen sobre los interrogantes que se
+plantean para cada uno:
+
+Autorretrato
+
+Por mi parte, soy o creo ser duro de nariz,
+
+mínimo de ojos, escaso de pelos
+
+en la cabeza, creciente de abdomen,
+
+largo de piernas, ancho de suelas,
+
+amarillo de tez, generoso de amores,
+
+imposible de cálculos,
+
+confuso de palabras,
+
+tierno de manos, lento de andar,
+
+inoxidable de corazón,
+
+aficionado a las estrellas, mareas,
+
+maremotos, administrador de escarabajos, caminante de arenas [...]
+
+Pablo Neruda (fragmento) https://neruda.uchile.cl/entrevista/1.htmEl
+enorme Pulgarcito
+
+Aquel Pulgarcito a quien, en un viaje
+
+casi se lo comen sin sacarle el traje
+
+ya no es tan chiquito ni tan distraído:
+
+es alto, imponente, valiente y fornido
+
+
+
+De manos tan grandes que juega a los dados
+
+con cinco adoquines, terribles, pesados,
+
+su pecho es tan ancho como Bariloche
+
+y en cada zapato le caben diez coches
+
+[...]
+
+
+
+Guillermo Saavedra: “El enorme Pulgarcito” (fragmento), en
+Cenicienta no escarmienta, Buenos Aires, Alfaguara, 2003.En este
+fragmento hay frases en que las palabras se presentan de un modo muy
+particular, como en “duro de nariz” o “confuso de palabras”.
+
+Escriban una frase organizada de esa manera para hablar de ustedes.Si no
+lo recuerdan: Pulgarcito es el protagonista de un cuento clásico. Es
+tan pequeño como un dedo pulgar. Guillermo Saavedra, en su poema, lo
+hace crecer.
+
+En la segunda estrofa, se emplea dos veces la expresión “tan... ”,
+seguida de un adjetivo. Reléanlas e inventen otra para sumarle a este
+poema sobre el enorme Pulgarcito.
+
+Página 21
+
+
+
+Romance del señor titiritero
+
+
+
+¡Pero qué elegancia lleva
+
+el señor titiritero!
+
+Una casaca de pana,
+
+pantalón marinero,
+
+botines de suela doble
+
+y un gorro color de cielo.
+
+
+
+¡Ah! Mírenlo cuando habla
+
+y tiende la mano al pecho
+
+y le hace sombra en la frente
+
+un puñado de cabellos.
+
+Javier Villafañe: “Romance del señor titiritero” (fragmento), en
+El gallo Pinto, Buenos Aires, Colihue, 2009.Modestamente
+
+[...] De todos modos
+
+no soy perfecta:
+
+apenas buena,
+
+bella y esbelta
+
+
+
+tierna, simpática,
+
+pura inocencia
+
+si algo me sobra
+
+es inteligencia.
+
+
+
+A lo que juegue
+
+gano por puntos
+
+y puedo sola con mis asuntos.
+
+
+
+Todo me sale a
+
+pedir de boca
+
+mi suerte es mucha
+
+aunque sea poca. [...]
+
+Silvia Schujer: “Modestamente” (fragmento), en Sueltapalabras,
+Buenos Aires, Sudamericana, 2003.Los versos 3 a 6 de la primera estrofa
+enumeran la vestimenta del titiritero. Esas prendas son elegantes,
+acordes al comienzo que dice “qué elegancia / lleva”.
+
+¿Cómo serían los versos 3 a 6 si el poema comenzara con el antónimo
+de “elegancia”, por ejemplo, con “desaliño” o
+“desprolijidad”?Una persona modesta, ¿cómo es?, ¿por qué este
+poema llevará como título “Modestamente”?
+
+Escriban dos versos en que hablen de ustedes con total fanfarronería.
+
+¿Cuáles de estos poemas son autorretratos?, ¿y cuáles son retratos?,
+¿cómo se dieron cuenta? Pueden escribir las respuestas en sus
+carpetas.
+
+Elijan el que más les haya gustado, para leérselo luego a otras y
+otros que no lo conozcan. Practiquen varias veces, ensayando diferentes
+ritmos y tonos de voz, hasta que se sientan satisfechas y satisfechos
+con la lectura.
+
+
+
+A escribir un autorretrato
+
+Llegó el gran momento: van a escribir su autorretrato. Antes de
+empezar, planifiquen el texto: lean cada una de las preguntas y
+aclaraciones siguientes, y vayan tomando nota de sus decisiones.
+
+¿Quién va a leer este retrato? Imaginar posibles lectoras y lectores
+nos ayuda a pensar qué queremos develar y qué no.
+
+¿En qué persona lo van a escribir? Pueden optar hacerlo en primera o
+en tercera persona.
+
+¿Van a escribir en prosa o en verso? Si deciden hacerlo en verso,
+recuerden que no tienen que usar rima necesariamente: muchas poesías se
+escriben en verso libre.
+
+¿Qué aspectos van a describir? Ningún autorretrato es completo.
+Pueden elegir solo algunas cuestiones para hablar sobre ustedes.
+Recuerden que en las artes plásticas, las y los artistas eligen algunos
+aspectos y no otros; y lo mismo hacen las escritoras y los escritores.
+Algunos autorretratos pueden poner énfasis solo en algunos aspectos
+físicos y otros prácticamente se refieren a la manera de ser. Relean
+los textos y las actividades anteriores para decidir, entonces, en qué
+cuestiones se quieren concentrar para escribir sobre ustedes.
+
+¿En qué orden se presentarán esos aspectos? Una vez anotados los
+temas sobre los que van a escribir, incluyan números para decidir y
+recordar el orden.
+
+Página 22
+
+
+
+¡Y ahora sí, a escribir!
+
+Recuerden que no se escribe de un “tirón”, de una vez y para
+siempre. Vayan escribiendo y releyendo durante al menos dos días, para
+ir encontrando las ideas y las palabras que más les gusten.
+
+
+
+La edición: revisar, reformular y embellecer el texto
+
+La maestra o el maestro, una vez leído el texto, las y los ayudará a
+revisar hasta llegar a la mejor versión final. Si gustan, pueden
+acompañar el texto con un dibujo de ustedes mismos o una fotografía.
+También pueden elegir una imagen que los represente de alguna manera, y
+que no se trate de su propia figura.
+
+
+
+Compartir el escrito
+
+Si gustan, compartan su obra con otras u otros. También pueden decidir
+guardarlo para ustedes y leerlo dentro de un tiempo. ¡Todas y todos
+cambiamos, así que seguro que cuando lo lean más adelante se van a
+sorprender de lo que escribieron ahora!
+
+
+
+Nota del corrector: el cuaderno original presenta una pintura realista
+que se titula “Una niña escribiendo”, 1870. Fin de la nota.
+
+Página 23
+
+
+
+Recorrido 3: El arte de contar
+
+Cuando hablamos con otras y otros, cada tanto aparecen las palabras
+mágicas que invitan a escuchar:
+
+¡No sabés lo que me pasó!
+
+¿Te conté del día en que….?
+
+Eso me hace recordar lo que viví el verano pasado. Te cuento….
+
+Y ahí nos preparamos para una historia, larga o cortita, graciosa o no
+tanto, pero siempre especial para quien la cuenta y quien la escucha. Ya
+se conocieron cuando compartieron opiniones sobre los poemas y cuando se
+presentaron a través de un autorretrato. Llegó el momento de conocerse
+a través de historias.
+
+
+
+Anécdotas
+
+Las y los invitamos a leer algunas historias que parecen cuentos, pero
+que sucedieron de “verdad” (o al menos, eso dicen quienes las
+cuentan). Las y los protagonistas son grandes y chicos a los que un día
+les pasó algo especial. O a lo mejor estas historias se vuelven
+especiales porque alguien las quiso contar.
+
+
+
+Una travesura en el recuerdo
+
+El escritor Roald Dahl publicó un libro con relatos de su infancia,
+historias de su vida. El título del libro es Boy, que significa
+“niño” o “chico”, en inglés.
+
+A continuación, figura un fragmento extenso de uno de los capítulos de
+Boy. El título es bastante llamativo. ¿Piensan que existirá o no
+existirá el tabaco de cabra? Luego de intercambiar sus opiniones, lean
+el texto.
+
+
+
+Nota del corrector: el cuaderno original presenta la imagen de la
+portada del libro “Boy” de Roald Dahl. Tiene una ilustración en la
+que el protagonista, un nene, hace una travesura. Coloca una rata en un
+frasco de dulces. Fin de la nota.
+
+Tabaco de cabra
+
+Tenía yo unos nueve años cuando mi hermanastra se prometió para
+casarse. El elegido era un joven médico inglés, y aquel verano nos
+acompañó a Noruega. El amor flotaba en el aire como polvo de luna, y
+los dos enamorados, por alguna razón que los más pequeños no
+entendíamos, no parecían muy deseosos de nuestra compañía. Salían
+solos en la barca. Trepaban por las rocas solos. Y hasta desayunaban los
+dos a solas. Eso a nosotros nos dolía. En nuestra familia siempre lo
+habíamos hecho todo juntos y no entendíamos por qué la hermanastra
+había de decidir, de buenas a primeras, cambiar las cosas, por muy
+prometida en matrimonio que estuviera. Tendíamos a culpar al novio de
+haber venido a perturbar nuestra vida de familia, y era inevitable que
+más tarde o más temprano lo pagara.
+
+El novio era un inveterado fumador de pipa. Jamás se sacaba de la boca
+aquella pipa detestable y apestosa, salvo cuando comía o se bañaba.
+Incluso empezábamos a preguntarnos si besaría a su prometida con la
+pipa entre los labios. Sujetaba la boquilla con el empaque más viril
+del mundo entre sus recios dientes blancos y la retenía así mientras
+conversaba. Esto nos freía la sangre. Sin duda sería más correcto
+quitarse la pipa de la boca y hablar como es debido.
+
+Cierto día fuimos todos en nuestra pequeña lancha motora a una isla
+donde no habíamos estado nunca, y por una vez la hermanastra y su viril
+prometido decidieron acompañarnos. Optamos por esta isla y no por otra
+porque habíanse visto en ella algunas cabras. Andaban por allí
+encaramándose a las peñas y se nos ocurrió que sería divertido
+hacerles una visita. [...] nos sentamos por allí, sobre las lisas
+rocas, a disfrutar del hermoso sol en traje de baño. El viril prometido
+se puso a llenar la pipa. Le estuve observando en la operación de
+atacar muy cuidadosamente la cazoleta con el tabaco que sacaba de una
+bolsita de hule amarilla.
+
+Página 24
+
+
+
+Había terminado de hacer esto y se disponía a encenderla cuando la
+hermanastra le llamó para que fuese al agua con ella. De manera que
+dejó la pipa en el suelo y acudió a la llamada. Yo miraba obsesionado
+la pipa que había quedado allí abandonada sobre la roca. A dos palmos
+de ella divisé un montoncito de cagarrutas de cabra secas, todas tan
+redonditas y renegridas como pequeñas aceitunas, y en ese mismo
+instante comenzó a despuntar en mi mente una interesante idea. Recogí
+la pipa y, con unos golpecitos, la vacié totalmente de tabaco. Luego
+tomé las cagarrutas y las desmenucé con los dedos. Con mucho cuidadito
+vertí en la cazoleta de la pipa estos excrementos desmenuzados,
+atacándolos con el pulgar exactamente como había visto hacer siempre a
+nuestro viril enamorado. Concluida esta operación, puse encima una fina
+capa de tabaco auténtico. La familia entera me había estado
+observando. Nadie decía una palabra, pero yo podía percibir muy bien
+un aire de general aprobación. Volví a dejar la pipa en su sitio y nos
+quedamos todos esperando el retorno de la víctima. La familia en pleno
+estaba unida ahora en esto, incluso mi madre. [...]
+
+Volvió al fin el viril prometido, chorreando agua del mar, fornido,
+saludable, bronceado, sacando ostentosamente el pecho.
+
+—¡Qué baño! —anunció al mundo—. ¡Espléndida, el agua! ¡Algo
+grandioso!
+
+Comenzó a secarse vigorosamente con la toalla, haciendo que se le
+marcaran bien los bíceps, y a continuación se sentó en la roca y
+tomó la pipa.
+
+Nueve pares de ojos le observaban atentos. Todo el mundo contenía la
+risa para no estropear la broma. Temblábamos con el nerviosismo de la
+inminencia, y buena parte de la expectación debíase al hecho de que
+ninguno de nosotros sabía exactamente lo que iba a pasar.
+
+El viril prometido se colocó la pipa entre los recios dientes blancos y
+encendió una cerilla. Puso la llama sobre la cazoleta y dio una fuerte
+chupada. Se prendió el tabaco, y la cabeza del galán quedó envuelta
+en nubecillas de humo azul.
+
+—¡Ajá…! —exclamó, echando humo por las narices—. No hay nada
+como una buena pipa después de un baño reconfortante.
+
+Nosotros esperábamos en silencio. A duras penas podíamos aguantar, y
+la hermanita de siete años no resistió, al fin, la tentación:
+
+—¿Qué clase de tabaco echas en ese chisme? —preguntó con
+impecable inocencia.
+
+—Navy Cut —contestó él—. Player’s Navy Cut. Es el mejor que
+hay. Estos noruegos fuman toda clase de tabacos aromatizados; una
+verdadera porquería que no fumaría yo por nada del mundo.
+
+—No sabía que hubiera gustos distintos —prosiguió la hermanilla.
+
+—Pues claro que los hay —dijo el viril prometido—. Para el buen
+fumador de pipa, que sabe identificarlos, todos los tabacos son
+diferentes. Navy Cut es puro y sin adulteraciones. Es lo que fuman los
+hombres.
+
+El hombre parecía divagar y empleaba expresiones largas, como “que
+sabe identificarlos” y “sin adulteraciones”, que no estábamos muy
+seguros de lo que querían decir.
+
+La hermanastra, recién salida del baño y envuelta en un albornoz, vino
+a sentarse junto a su viril enamorado. Y entonces empezaron los dos a
+dirigirse aquellas miraditas bobas y sonrisitas acarameladas que nos
+ponían malos a todos. Estaban harto ocupados el uno con el otro para
+percibir la tremenda tensión que reinaba en nuestro grupo. [...]
+Entonces, de repente, el viril prometido lanzó un grito penetrante y
+saltó por los aires lo menos un metro. La pipa voló de su boca y se
+alejó rebotando sobre las peñas. Un segundo grito fue tan agudo y
+estentóreo que todas las gaviotas de la isla levantaron el vuelo
+asustadas. Tenía el rostro contraído, desencajado, como una persona
+que sufre cruel tormento, y se había quedado blanco como la nieve.
+Comenzó a farfullar, y a atragantarse, y a devolver, y a gargajear, y a
+comportarse en todo como un individuo víctima de una perturbación
+orgánica grave. Se hallaba completamente sin habla.
+
+Mientras tanto, todos nosotros le mirábamos alucinados. [...]
+
+Roald Dahl: “Tabaco de cabra” (fragmento), en Boy. Relatos de la
+infancia. Madrid, Alfaguara, 1993.
+
+Página 25
+
+
+
+La historia
+
+Toda historia contada tiene algo de película. Una película que armamos
+en nuestra mente y decoramos con lo que alguna vez vimos, escuchamos,
+sentimos.
+
+Vuelvan a leer el relato para imaginar en detalle las distintas escenas.
+Es recomendable hacerlo lentamente, para darse tiempo a “hacerse la
+película”. Intercambien opiniones acerca de qué hay en común en
+esas películas de cada una y cada uno, a partir de estos interrogantes:
+
+a) ¿Qué actores o actrices no deberían faltar para que la historia
+fuera una película?
+
+b) ¿Cómo se imaginan el lugar? Seguramente lo pensaron de formas
+diferentes, pero hay algunas cuestiones que no podrían faltar,
+¿cuáles serían?
+
+c) Para filmarla, ¿qué objetos resultarían imprescindibles?
+
+
+
+El narrador cuenta que la familia era muy unida hasta que un día todo
+cambió: llegó un “intruso”, el novio de la hermanastra, y nada
+volvió a ser como antes (tal vez estaba un poco celoso, ¿no?). Una de
+las cosas que más le molestaba de este joven era su hábito de fumar
+pipa. En el relato “Tabaco de cabra”, el niño realiza una travesura
+que tiene una víctima: “el inveterado fumador de pipa”.
+
+¿Se animan a ordenar estos hechos tal cual ocurrieron? Pueden indicarlo
+con un número o copiar en la carpeta en el orden que corresponde.
+
+• el niño vacía la pipa y la llena con excremento de cabras
+
+• el novio prepara la pipa
+
+• elogia el buen tabaco
+
+• el novio regresa del agua
+
+• empieza a fumar nuevamente
+
+• se va a nadar con la hermanastra
+
+• el novio lanza un grito y comienza a descomponerse
+
+
+
+El texto que leyeron no incluye el final de esta anécdota: ¿cómo
+terminará?, ¿alguien le contará al novio lo que efectivamente había
+en la pipa?, ¿quién?, ¿qué le dirá? Intercambien ideas sobre lo que
+piensan y luego completen la síntesis de lo conversado en la carpeta:
+
+Nos preguntamos cómo podría terminar la historia “Tabaco de
+cabra”.
+
+Algunas y algunos dijeron que
+
+… Otras y otros opinaron que…
+
+Yo pienso que…
+
+Les proponemos que escriban una explicación para este joven. Imaginen
+que alguien de la familia decide contarle qué había en la pipa.
+Decidan quién será esa persona (la hermanita, el niño que hace la
+travesura, la madre, el padre) y luego escriban qué dijo. Pueden
+comenzar así:
+
+—No te preocupes, no fumaste nada venenoso —aclaró… En realidad,
+la pipa...
+
+
+
+Algunas palabras
+
+El texto que leyeron se publicó en inglés y luego se tradujo a la
+variante del español que se habla en España fundamentalmente. Por eso
+habrán visto que aparecen algunas palabras que no suelen usarse en
+nuestro país.
+
+Relean los siguientes fragmentos y resuelvan los interrogantes que
+figuran debajo de cada uno:
+
+a) A dos palmos de ella divisé un montoncito de cagarrutas de cabra
+secas, todas tan redonditas y renegridas como pequeñas aceitunas [...]
+Luego tomé las cagarrutas y las desmenucé con los dedos. Con mucho
+cuidadito vertí en la cazoleta de la pipa estos excrementos
+desmenuzados…
+
+Página 26
+
+
+
+¿Qué son las “cagarrutas”? Fíjense que tienen una ayuda en el
+texto, el niño dice: “tomé las cagarrutas y las desmenucé”;
+además hay un sinónimo en el texto.
+
+b) La hermanastra, recién salida del baño y envuelta en un albornoz,
+vino a sentarse junto a su viril enamorado.
+
+¿Qué es un “albornoz”? Elijan la opción que les parezca más
+adecuada:
+
+una bata o salida de baño,
+
+un buzo o pullóver,
+
+una campera o saco.
+
+c) —¿Qué clase de tabaco echas en ese chisme? —preguntó con
+impecable inocencia.
+
+En el diccionario aparecen estos dos significados de la palabra
+“chisme”. ¿Con qué sentido se usa en el texto?
+
+1. Rumor o noticia, verdadera o falsa, que circula.
+
+2. Baratija o trasto pequeño.
+
+
+
+Imágenes y epígrafes
+
+En este libro, las historias de la infancia están acompañadas por
+imágenes (fotos y dibujos). El relato “Tabaco de cabra” incluye una
+foto de todos los integrantes de la familia sentados en el césped con
+el siguiente epígrafe: “El viril prometido y la hermanastra mayor (al
+fondo)” y también hay dos dibujos de la caja de tabaco Navy Cut.
+
+¿Qué otra imagen incluirían para acompañar esta historia?, ¿una
+foto o un dibujo?, ¿con algún epígrafe? Dibujen y escriban el
+epígrafe en sus carpetas.
+
+
+
+El diálogo
+
+Cuando el prometido vuelve del agua, mantiene un diálogo con la hermana
+menor. Relean el siguiente fragmento:
+
+—¿Qué clase de tabaco echas en ese chisme? —preguntó con
+impecable inocencia.
+
+—Navy Cut —contestó él—. Player’s Navy Cut. Es el mejor que
+hay. Estos noruegos fuman toda clase de tabacos aromatizados; una
+verdadera porquería que no fumaría yo por nada del mundo.
+
+—No sabía que hubiera gustos distintos —prosiguió la hermanilla.
+
+—Pues claro que los hay —dijo el viril prometido—. Para el buen
+fumador de pipa, que sabe identificarlos, todos los tabacos son
+diferentes.
+
+
+
+El diálogo se reconoce por la presencia de la raya de diálogo, que
+introduce las palabras dichas por los personajes. Además, también se
+incluyen verbos que indican quién habló y, a veces, cómo lo hizo.
+
+
+
+Observen dónde aparecen los verbos que introducen las palabras de los
+personajes. ¿Por qué en algunos casos los verbos están encerrados
+entre rayas de diálogos y en otros, solo aparece una raya antes del
+verbo?
+
+Copien en sus carpetas los cuatro verbos utilizados en el diálogo
+anterior. Luego, elijan del listado con qué verbos se los puede
+reemplazar.
+
+exclamar expresar agregar consultar proponer plantear consultar
+mencionar rogar negar cuestionar gritar ordenar solicitar informar
+murmurar responder afirmar susurrar reclamar continuar
+
+Completen en sus carpetas esta sistematización de lo aprendido, para
+tenerla a mano a la hora de escribir diálogos.
+
+Página 27
+
+
+
+Para introducir la palabra de un personaje, debemos usar la…
+
+Las rayas de diálogo se colocan antes de…
+
+Si un personaje habla, pero el narrador expone algo en el medio de lo
+que dice el personaje, entonces hay que…
+
+Nunca, pero nunca, las rayas de diálogo se colocan…
+
+
+
+Más anécdotas
+
+Les proponemos leer estas anécdotas más breves, escritas por chicas y
+chicos de nuestro país.
+
+Terror en el camino
+
+En diciembre de 1987, mi papá viajaba todas las semanas entre la ciudad
+de Catamarca y Andalgalá en un micro. En esa época estaban asfaltando
+la ruta, algunos tramos no se podían transitar y otros sí.
+
+Un viernes, mi papá volvía para Andalgalá. El micro donde viajaba
+tomó el camino de la cuesta de La Cébila, que es un lugar montañoso.
+A eso de las diez de la noche, mientras iban por ese camino, se desató
+una tormenta muy fuerte, había rayos y se escuchaban los truenos. De
+pronto, empezó a caer granizo. Como se veía muy poco para seguir
+andando, el colectivero decidió detenerse, hasta que se detuviera un
+poco la tormenta. Pasó un rato y empezó a amainar, así que el chofer
+encendió el motor y continuó el camino. Hicieron algunos kilómetros y
+se encontraron con el río que cruza el camino. Por suerte tenía poca
+agua, así que decidieron cruzar, pero con tan mala suerte que una rama
+grande se enganchó debajo del colectivo y tuvieron que detenerse. Pero
+la tormenta seguía y el río empezó a crecer más y más.
+
+Como no sabían lo que podía pasar, los conductores les dijeron a los
+pasajeros que era mejor bajarse y subir a una loma cercana. Pero
+solamente cinco, entre ellos mi papá, decidieron hacerlo. Los demás no
+querían mojarse. Mi papá y los demás les gritaban desde la loma que
+bajaran, que era peligroso, pero los que estaban adentro no querían
+bajar, o a lo mejor no podían. Los que estaban en la loma se agarraban
+de un árbol y de unas piedras, y empezaron a ver que el agua del río
+crecía más rápido y el colectivo se movía. En unos minutos, la
+corriente era tan fuerte que arrastró el colectivo con las personas que
+estaban adentro.
+
+Cada vez que pasamos por la cuesta de la Cébila, mi papá recuerda lo
+que pasó esa noche.
+
+Eduardo (Andalgalá, Catamarca)
+
+
+
+Volvemos sobre la anécdota
+
+Esta anécdota la escribió Eduardo. ¿Y quién la protagonizó?
+
+Vuelvan a leer el relato para “armarse la película” con todos los
+detalles, como hicieron con “Tabaco de cabra”. Intercambien para ver
+qué hay en común en esas películas de cada una y cada uno, a partir
+de estos interrogantes:
+
+a) ¿Qué actores o actrices no deberían faltar si fuera una película?
+
+b) ¿Cómo se imaginaron el lugar? Seguramente, de maneras diferentes.
+¿Qué cuestiones no podrían faltar?
+
+c) Para filmarla, ¿qué objetos serían imprescindibles?
+
+
+
+Cuando llueve, los ríos crecen. Qué opinan, ¿dónde crecerán más
+rápido, en una zona montañosa o llana?, ¿por qué?
+
+¿Ustedes qué piensan?: ¿esta historia terminó bien o terminó mal?
+Intercambien entre todos y todas. Luego, anoten la síntesis de lo
+conversado.
+
+Hoy nos preguntamos si la anécdota terminó bien o mal:
+
+Algunas y algunos dijeron que terminó bien, porque…
+
+Otras y otros opinaron que terminó mal, porque…
+
+Yo pienso que…
+
+Página 28
+
+
+
+El encierro casual
+
+Unos años atrás, cuando Magalí tenía cinco años, su mamá decidió
+ir a visitar a su hermana Doris que vivía en el barrio Jardín Florido.
+Era una tarde calurosa. Magalí, su mamá y su hermanita Cecilia
+salieron caminando rumbo a la casa de su tía.
+
+Cuando llegaron, estaban cansadas y sedientas. La tía las recibió y
+les invitó agua fresca. También les dio sillas para que se sentaran.
+
+Después de descansar un poco Magalí fue a jugar con su primo Álvaro.
+Los dos pensaron un rato, y decidieron jugar a la escondida, pero les
+resultaba un poco aburrido jugar solos. Entonces fueron a buscar a
+Martina, que es vecina de Álvaro.
+
+Magalí, Álvaro y Martina fueron a la casa de Álvaro y empezaron a
+jugar. Él quería ser el primero en contar, así que las dos niñas
+empezaron a buscar dónde esconderse.
+
+¡Y tuvieron una idea! Fueron a la casa de la abuela, que vivía atrás,
+y tenía un sótano. La abuela estaba en el patio tomando mate, y las
+miró mientras ellas corrían para el fondo, rumbo al sótano. Abrieron
+la puerta, entraron y la cerraron. ¡Pero recién cuando cerraron la
+puerta se dieron cuenta de que el picaporte estaba roto y había quedado
+del lado de afuera! Por más que intentaban, no podían abrirla. No
+sabían qué hacer, y comenzaron a gritar:
+
+—¡Mamá! ¡Abuela! ¡Abran la puerta!!
+
+Nadie las escuchaba. Las dos estaban con miedo, porque allí estaba
+oscuro. Patearon y golpearon, gritaron y patearon, golpearon y
+gritaron.. Pero nada…. Nadie las oía.
+
+Al rato, el marido de la tía le preguntó a la mamá de Magalí dónde
+estaban las niñas. Ella se preocupó, y fue a preguntarle a la abuela
+si las había visto.
+
+—Las vi irse para el fondo.
+
+La mamá de Magalí con Cecilia en brazos, la tía Doris y su marido, y
+la abuela las llamaban a los gritos. De pronto escucharon las voces de
+las nenas que venían del sótano.
+
+¡Qué de abrazos! ¡Y qué de risas!
+
+Los grandes siguieron mateando y las nenas siguieron jugando. Pero eso
+sí, lejos del sótano. ¿Y Álvaro, dónde estaba Álvaro?
+
+Silvina Magalí Giménez (Tres Isletas, Chaco)
+
+
+
+Volvemos sobre la anécdota
+
+De nuevo, imaginarán la anécdota como si fuera una película. Relean,
+conversen y escriban:
+
+d) ¿Qué actores o actrices no deberían faltar para que esta historia
+fuera una película?
+
+e) ¿Cómo se imaginaron el lugar? Seguramente lo imaginaron de formas
+diferentes, pero hay algunas cuestiones que no podrían faltar,
+¿cuáles son?
+
+f) Para filmarla, ¿qué objetos serían imprescindibles?
+
+En el relato, solo hay dos intervenciones con raya de diálogo. ¿A
+quién o quiénes “escuchamos” en cada uno”? Vuelvan a leer la
+historia para identificar otro momento en que los personajes hablan.
+Imaginen lo que dicen y, si es posible, dramatícenlo en grupos.
+
+Al final del texto figura el nombre completo de la autora. ¿Por qué
+les parece que decidió nombrarse “Magalí” al escribirla? Si
+Magalí vivió esta historia, ¿por qué razón habrá decidido contarla
+en tercera persona, y no en primera persona (yo)? Intercambien y luego
+elaboren una síntesis de lo conversado.
+
+La autora decidió escribirlo en tercera persona porque:
+
+Algunas y algunos dijeron que decidió esto porque /para
+
+Otras y otros afirmaron que…
+
+Yo opino que…
+
+Página 29
+
+
+
+Un encuentro memorable
+
+Miren la foto. ¿Reconocen a alguien conocido, conocidísimo? Lean la
+historia de esta foto, contada por el fotógrafo, padre de Ernán:
+
+Ernán nació en Argentina, pero en el año 1976, cuando tenía 5 meses,
+su familia se exilió en México: su papá y su mamá estaban en peligro
+en nuestro país. Así que Ernán y su hermano Martín eran argentinos,
+pero también se sentían un poco mexicanos.
+
+Corría el año 1986. En México se jugaba el Mundial de fútbol. ¡Y en
+nuestra selección estaban sus grandes ídolos, esos de los que había
+oído escuchar desde la tierra donde vivía!
+
+Su papá tuvo una idea: ir al lugar donde entrenaba nuestra selección.
+Cuando llegaron, había mucha gente. Así que, pasito a paso, Ernán se
+fue acercando a alguien que admiraba mucho: ¡Diego Armando Maradona
+estaba allí, hablando con los periodistas!
+
+—Hola, Diego. Yo soy argentino. ¿Puedes firmarme la camiseta?
+
+—¿Sos argentino? ¿Y por qué hablás así?
+
+Con un poquito de vergüenza, Ernán le dijo que hacía mucho que su
+familia vivía en México y él había aprendido a hablar allí.
+
+—Ah, ¿pero de quién sos hincha?
+
+—De ti.
+
+Diego Maradona se rió y le dijo que fuera con él. Conversaron,
+patearon unas pelotas y le firmó la camiseta.
+
+¿Y la foto? La foto la sacó Gerardo, su papá. Y Ernán, que ya es un
+hombre, la guarda en un estante en su casa de Buenos Aires. Porque la
+foto, la camiseta, Ernán, su hermano Martín y su papá, un día
+volvieron a nuestro país. Pero esa ya es otra historia.
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía de
+Ernán y Diego Maradona sentados uno al lado del otro. El nene lo mira
+sonriente. Fin de la nota.
+
+¿Les hubiera gustado que les pasara lo mismo que a Ernán? Conversen
+entre ustedes acerca de ese posible encuentro.
+
+¿Les gustaría conocer a alguna celebridad?, ¿a quién? Imaginen en
+qué lugar podría suceder ese encuentro y escriban un breve diálogo
+entre ustedes y esa persona.
+
+Página 30
+
+
+
+En primera persona: una anécdota personal
+
+¿Alguna vez les pasó algo similar a lo que leyeron? Por ejemplo,
+esconderse o esconder algo, jugar en silencio cuando piensan que los
+adultos duermen la siesta, ponerse los zapatos de un mayor, ir con otros
+por un lugar desconocido o subir a un árbol, conocer a una
+celebridad…
+
+Les proponemos que se sumerjan en sus recuerdos y elijan una anécdota
+de la infancia para contarla por escrito a su maestra o maestro y a sus
+compañeras y compañeros.
+
+
+
+Entre muchas historias, una
+
+Compartan sus historias. Tengan en cuenta que en todas las anécdotas se
+responden, de alguna manera, las siguientes preguntas:
+
+• ¿Cuándo ocurrió? (cuántos años tenían, en qué grado estaban,
+o en qué momento del año)
+
+• ¿Dónde sucedió? (en la escuela, en su casa, en la plaza, en un
+comercio…)
+
+• ¿Quiénes participaron o con quiénes estaban?
+
+• ¿Qué pasó? ¿Qué hicieron ustedes?
+
+Puede suceder que al escuchar las anécdotas de sus compañeras y
+compañeros, hayan recordado una nueva, o que hayan vivido juntas o
+juntos ese momento. Definan qué historia va a escribir cada una y cada
+uno, y tómense un ratito para recordar más detalles (como armando en
+su mente esa película que ahora van a escribir).
+
+
+
+Algunas indicaciones más para tener en cuenta:
+
+Escriban su historia en primera persona (“yo”);
+
+no olviden que el relato debe responder a las preguntas anteriores;
+
+si incluyen diálogos, revisen que comiencen con raya de diálogo;
+además, usen distintos verbos para introducir las voces de quienes
+hablan.
+
+
+
+Escriban con mucho cuidado la primera oración. El comienzo de todos los
+textos puede resultar difícil. Estas son algunas expresiones que pueden
+emplear para comenzar su relato: “Un día…”, “Cuando tenía…
+años”, “Recuerdo que…”, “Algo que nunca olvidaré fue…”,
+“Cuando estaba en… grado”.
+
+
+
+Y ahora sí, ¡a escribir!
+
+Mientras escriben, lean, relean, revisen; cambien todo lo que les
+parezca necesario. Cuando hayan terminado, lean la versión completa. No
+olviden que también pueden incluir imágenes (fotos o dibujos) para
+acompañar el texto.
+
+Compartan la anécdota con otras y otros. Seguramente será el puntapié
+para que les cuenten sus propias historias. ¡Qué más lindo que una
+ronda de recuerdos para conocer y conocerse!
+
+Página 31
+
+
+
+MATEMÁTICA
+
+Página 32
+
+
+
+Recorrer un nuevo año
+
+Para comenzar, en esta breve introducción les presentamos la
+organización de los problemas de Matemática que van a trabajar. A lo
+largo del primer recorrido van a encontrar varios problemas que les
+permitirán reflexionar acerca de las propiedades de las operaciones. En
+particular, se analizarán las operaciones de adición y
+multiplicación; las propiedades asociativa y conmutativa para la
+adición; y las propiedades conmutativa, asociativa, distributiva para
+la suma y la propiedad distributiva de la multiplicación con respecto a
+la resta.
+
+En el segundo recorrido encontrarán diversos problemas que les
+permitirán reconocer cuándo dos figuras son congruentes entre sí. En
+particular, reconocerán triángulos congruentes y su relación con las
+propiedades de las diagonales de algunos cuadriláteros.
+
+
+
+Recorrido 1: Propiedades de las operaciones
+
+¡Resolvemos problemas!
+
+1. Se planifica hacer un mural rectangular con azulejos cuadrangulares.
+El mural va a tener 15 filas de azulejos de alto y 24 columnas de ancho.
+¿Cuántos azulejos conformarían el mural?
+
+
+
+Nota del corrector: el cuaderno original presenta una imagen del mural
+de 15 filas y 24 columnas. Fin de la nota.
+
+2. Pablo y Flavia analizaron el problema.
+
+Respondan en sus carpetas: ¿con quién están de acuerdo? ¿Con Pablo o
+con Flavia? ¿Por qué?
+
+Página 33
+
+
+
+Diagrama de Pablo
+
+
+
+Nota del corrector: el cuaderno original presenta el esquema del
+diagrama. Pablo dice: “Yo hago 24 veces 15 azulejos porque hay 24
+columnas de 15 azulejos cada una, entonces calculo 24 × 15 =”. Fin de
+la nota.
+
+
+
+Diagrama de Flavia
+
+
+
+Nota del corrector: el cuaderno original presenta el esquema del
+diagrama. Flavia dice “Yo hago 15 veces 24 azulejos porque hay 15
+filas de 24 azulejos cada una, entonces calculo 15 × 24”. Fin de la
+nota.
+
+3. ¿Cuál de estos dos productos es mayor: 15 × 24 o 24 × 15? ¿Por
+qué? ¿Conocen una propiedad de la multiplicación que permita
+establecer esta igualdad: 15 × 24 = 42 × 15? ¿Cuál? ¿Cómo se la
+explicarían a una compañera o a un compañero? Respondan estos
+interrogantes en sus carpetas.
+
+4. Si el mural se hace con 24 filas y 15 columnas de azulejos
+rectangulares, ¿se utilizarán más azulejos que los cuadrangulares?,
+¿menos azulejos que los cuadrangulares? o ¿la misma cantidad de
+azulejos rectangulares que cuadrangulares? ¿Por qué?
+
+5. Un artista plástico está haciendo un tríptico (una obra de arte
+conformada por tres partes de igual tamaño). Cada parte es un
+rectángulo de 24 filas y 15 columnas de cerámicos cuadrangulares.
+¿Cuántos cerámicos conforman el mural?
+
+6. Paula y Lucas discuten acerca del problema. Cada uno de ellos dibujó
+el tríptico para pensar el problema, pero cuando compararon sus apuntes
+se sorprendieron: hicieron dibujos distintos.
+
+Página 34
+
+
+
+Este es el dibujo de Paula:
+
+
+
+Y este es el dibujo de Lucas:
+
+
+
+a) Ambos escribieron un cálculo, pero no colocaron su nombre.
+
+¿Cuál será el cálculo de Paula y cuál, el de Lucas?
+
+Cálculo A: (3 × 15) × 24
+
+Cálculo B: (3 × 24) × 15
+
+b) Completen el siguiente cuadro. Pueden elaborar uno similar en sus
+carpetas y completar con los datos solicitados.
+
+CálculoEstudianteCorrecto/IncorrectoArgumento(3 × 15) × 24(3 × 24)
+× 15
+
+7. Indiquen cuál de las siguientes afirmaciones resulta verdadera y
+expliquen por qué.
+
+a) (3 x 24) x 15 > (3 x 15) x 24
+
+b) (3 x 24) x 15 < (3 x 15) x 24
+
+c) (3 x 24) x 15 = (3 x 15) x 24
+
+
+
+8. Si el mural en vez de contener 3 partes tuviera 5, y cada una de esas
+partes tuviera 19 filas y 34 columnas: cuál sería un cálculo posible
+que les permitiera averiguar cuántos cerámicos se necesitan en total.
+¿Es el único cálculo posible?
+
+
+
+9. Relacionen con flechas los cálculos que pueden vincularse con una
+igualdad. Pueden copiar todos los cálculos en sus carpetas y luego
+resolver.
+
+23 × 15 × 12
+
+55 × 43 × 115
+
+(24 × 7) × 8
+
+(14 × 56) × 100
+
+(19 × 117) × 4
+
+14 × (56 × 100)
+
+(23 × 15) × 12
+
+23 × (15 × 12)
+
+24 × (7 × 8)
+
+19 × (117 × 4)
+
+
+
+Página 35
+
+
+
+10. ¿Con cuál de las siguientes propiedades se pueden armar las
+igualdades de la actividad anterior? Copien en sus carpetas la respuesta
+correcta.
+
+• Propiedad asociativa.
+
+• Propiedad distributiva de la multiplicación con respecto a la suma.
+
+• Propiedad distributiva de la multiplicación con respecto a la
+resta.
+
+• Propiedad conmutativa.
+
+11. En una de las paredes de la escuela se va a hacer un mural
+rectangular de 8 filas y 22 columnas con cerámicos cuadrados.
+¿Cuántos cerámicos se van a utilizar?
+
+
+
+12. De qué manera le explicarían a una compañera o a un compañero
+cómo se puede calcular el total de cuadraditos en un rectángulo si se
+conocen el total de columnas y el total de filas. Redacten la respuesta
+en sus carpetas.
+
+
+
+Revisando el diseño del mural, la profesora de plástica decide que van
+a ser necesarias 7 filas más. ¿Cuántos cerámicos tendrá, entonces,
+el mural?
+
+
+
+Hernán, Lucas y Flavia discuten acerca de los cálculos que hay que
+hacer para saber el total de cerámicos que se necesitan.
+
+Cálculos de Flavia: (8 + 7) × 22
+
+Cálculos de Lucas: 8 × 22 + 7 × 22
+
+Cálculos de Hernán: 22 × 8 + 7
+
+a) Intercambien ideas con las compañeras y los compañeros acerca de
+cómo pensaron los cálculos. ¿A quién creen que corresponde cada
+argumento?
+
+ArgumentoEstudianteCálculoAl cálculo del mural interior hay que
+sumarle 7 porque se agregan siete filas.El nuevo mural rectangular va a
+seguir 22 columnas pero las filas será la suma de las 8 originales más
+las siete que se agregan.El nuevo rectángulo se pueden pensar como la
+suma de otros dos: uno, el original, de 22 columnas y 8 filas y el otro,
+el que se agrega, de 22 columnas y 7 filas.
+
+b) ¿Están de acuerdo con los tres procedimientos? ¿Con cuál o
+cuáles? ¿Por qué? ¿Están en desacuerdo con algún argumento? ¿Con
+el de quién? ¿Por qué? Respondan estos interrogantes en sus carpetas.
+
+
+
+15. Mica dice que hay dos de los cálculos son iguales pero expresados
+de distintas maneras. ¿A qué cálculos se referirá Mica? ¿Cómo
+deben ser esos cálculos entre sí?
+
+
+
+16. Hernán y Lucas comparan las notas que tomaron en la clase. Hernán
+le menciona a Lucas que cuando Mica explicó que los dos cálculos eran
+equivalentes habló de una propiedad que él no llegó a anotar. ¿Cuál
+habrá sido la propiedad que mencionó Mica?
+
+
+
+17. Lucas le responde que él alcanzó a anotar pero que, como Mica
+hablaba muy rápido y bajito, no está seguro de lo que escribió.
+
+Esto anotó Lucas:
+
+Propiedad distributiva de la multiplicación con respecto a la resta.
+
+
+
+¿Son correctas las anotaciones de Lucas? ¿Por qué?
+
+Página 36
+
+
+
+18. Mica y Lucas están haciendo un resumen que quieren compartir con
+Flavia. Armaron el siguiente cuadro para estudiar para la prueba:
+
+Tipo de problemaResoluciónEjemploCuando un problema informa las filas y
+las columnas de un rectángulo y pregunta por la cantidad de celdas.Se
+deben multiplicar las filas por las columnas.Si el rectángulo tiene 3
+filas y 5 columnas, tiene 15 celdas porque 3 × 5 = 15. Por eso, a estos
+rectángulos se los llama rectángulos de 3 × 5.Cuando a un problema
+rectangular se le agrega una cantidad  de  columnas  y se pregunta por
+el total de celdas.1. Se pueden calcular las celdas del rectángulo
+original, después las celdas del rectángulo que se agrega y, por
+último, se suman las celdas de los dos rectángulos.
+
+2. Se puede hacer el cálculo considerando un nuevo rectángulo más
+grande que el original, que mantenga la misma cantidad de columnas y que
+las filas sean el producto de la suma de las filas originales más las
+agregadas. Primero se debe sumar y después multiplicar; por eso, la
+suma se escribe entre paréntesis.1. Si se tiene un rectángulo de 3 ×
+5 y se le agregan 2 filas: se suman las 15 celdas del rectángulo de 3
+× 5 con las 10 celdas del rectángulo de 2 × 5.
+
+
+
+2. Se suman las 3 filas más las 2 filas agregadas y su resultado de 5
+filas se multiplica por las 5 columnas.
+
+
+
+Respondan en sus carpetas: ¿están de acuerdo con lo que escribieron
+Mica y Lucas?
+
+¿Consideran que hay algo que no es necesario anotar? ¿Agregarían
+alguna información que no anotaron?
+
+
+
+19. Ahora, un nuevo desafío. Si a un rectángulo de 8 filas y 17
+columnas se le agregan 3 filas. ¿Con cuál de los siguientes cálculos
+se puede resolver el problema?
+
+a) 8 + 3 × 17
+
+b) 8 × 17 + 3 × 17
+
+c) (8 + 3) × 17
+
+d) 8 + (3 × 17)
+
+
+
+20. Mica dice que no son cuatro los cálculos propuestos. Ella sostiene
+que son sólo dos porque algunos de ellos se los puede igualar a otros.
+¿Coinciden con Mica?
+
+¿Qué cálculos igualarían? ¿Por qué?
+
+Página 37
+
+
+
+Recorrido 2: Las propiedades y los cálculos. Los algoritmos y las
+propiedades
+
+21. Un arquitecto está diseñando el embaldosado de un patio
+rectangular con 25 filas y 34 columnas de baldosas cuadradas. ¿Cuántas
+baldosas serán necesarias? Expliquen cómo hicieron el cálculo.
+
+22. El arquitecto decide hacer un cantero rectangular que va a ocupar 25
+filas y 12 columnas de cerámicos. ¿Cuál es la cantidad de baldosas
+que se necesitan para el patio?
+
+23. Para resolver el problema anterior, Lucas y Laura razonaron del
+siguiente modo. ¿Con quién están de acuerdo? ¿Por qué?
+
+Lucas: Como el patio se acorta en 12 columnas, queda un patio
+rectangular de 25 filas por 34 - 12 columnas.
+
+Laura: Voy a utilizar el cálculo del problema 21: a la cantidad de
+baldosas del patio de 25 filas y 34 columnas hay que retirarle las
+baldosas que ocupan un rectángulo de 25 filas y 12 columnas.
+
+24. Estas son las notas que Laura y Lucas escribieron en sus carpetas.
+Hay dibujos del problema y cálculos. ¿Cuál será el dibujo de Lucas y
+cuál el de Laura? ¿Y cuál es el cálculo de Lucas y cuál, el de
+Laura?
+
+
+
+Nota del corrector: el cuaderno original presenta los dibujos hechos por
+Laura y Lucas.
+
+El dibujo 1 es un rectángulo grande. Dentro está escrito 25×34, que
+son las filas y columnas totales. Este rectángulo está divido por otro
+más pequeño, de 25×12.
+
+El dibujo 2 tiene un cuadrado de 34-12 de ancho y 25 de alto. Al lado
+hay un rectángulo de 12 de ancho y la misma altura que el cuadrado. Las
+dos figuras juntas representan el patio entero, de 34 de ancho y 25 de
+alto.
+
+Fin de la nota.
+
+Cálculo A
+
+25 × (34 - 12)
+
+Cálculo B
+
+25 × 34 - 25 × 12
+
+Luego, elaboren en sus carpetas un cuadro como el siguiente y completen:
+
+EstudianteDibujoCálculoLucasLaura
+
+Página 38
+
+
+
+25. Indiquen cuál o cuáles son las afirmaciones verdaderas. Expliquen
+por qué consideran que esa postura es la correcta.
+
+AFIRMACIÓNVerdaderaFalsaArgumento25 × (34 - 12) > 25 × 34 - 25 ×
+1225 × (34 - 12) = 25 × 34 - 25 × 1225 × (34 - 12) < 25 × 34 - 25
+× 12
+
+26. Indiquen cuál o cuáles son las afirmaciones verdaderas. Expliquen
+por qué consideran que esa postura es la correcta.
+
+AFIRMACIÓNVerdaderaFalsaArgumentoMultiplicar un número por una resta
+es menor que el producto del número por el minuendo menos el número
+por el sustraendo.Multiplicar un número por una resta es igual que el
+producto del número por el minuendo menos el número por el
+sustraendo.Multiplicar un número por una resta es mayor que el producto
+del número por el minuendo menos el número por el sustraendo.
+
+27. ¿Cómo le explicarían a una compañera o a un compañero la
+propiedad distributiva de la multiplicación con respecto a la
+sustracción? Redacten la respuesta en sus carpetas.
+
+28. Resuelvan el siguiente cálculo:
+
+315 + 234 =
+
+29. Pablo realiza el cálculo que hicieron en la actividad anterior del
+siguiente modo:
+
+
+
+Nota del corrector: el cuaderno original presenta un cálculo con un
+orden visual específico. Se recomienda representarlo con recursos
+concretos, tangibles y representativos para que las niñas y los niños
+accedan al contenido en igualdad de condiciones. Fin de la nota.
+
+Y Liliana realizó los siguientes cálculos:
+
+315 = 300 + 10 + 5
+
+234 = 200 + 30 + 4
+
+315 + 234 = 300 + 10 + 5 + 200 + 30 + 4
+
+315 + 234 = 300 + 200 + 10 + 30 + 5 + 4
+
+315 + 234 = (300 + 200) + (10 + 30) + (5 + 4)
+
+315 + 234 = 500 + 40 + 9
+
+315 + 234 = 549
+
+¿Con cuál de los procedimientos están de acuerdo? ¿Por qué?
+
+
+
+30. Liliana en sus cálculos utilizó las siguientes propiedades:
+
+• Propiedad asociativa de la adición.
+
+• Propiedad conmutativa de la adición.
+
+Página 39
+
+
+
+a) Indiquen para cada paso qué propiedad utilizó Liliana.
+
+PasoPropiedad315 = 300 + 10 + 5234 = 200 + 30 + 4315 + 234 = 300 + 10 +
+5 + 200 + 30 + 4315 + 234 = 300 + 200 + 10 + 30 + 5 + 4315 + 234 = (300
++ 200) + (10 + 30) + (5 + 4)315 + 234 = 500 + 40 + 9315 + 234 = 549
+
+b) Luego, expliquen si los pasos destacados están presentes en el
+procedimiento de Pablo. Señalen cuándo se aplican.
+
+31. Resuelvan el siguiente cálculo:
+
+315 × 24 =
+
+32. Juan lo resolvió del siguiente modo:
+
+
+
+Nota del corrector: el cuaderno original presenta un cálculo con un
+orden visual específico. Se recomienda representarlo con recursos
+concretos, tangibles y representativos para que las niñas y los niños
+accedan al contenido en igualdad de condiciones. Fin de la nota.
+
+¿Están de acuerdo con la forma en que lo resolvió Juan? ¿Por qué?
+
+33. Mica resolvió el cálculo de la actividad anterior de este modo:
+315 x 24 = 315 x (20 + 4)
+
+315 × 24 = 315 × 20 + 315 × 4
+
+315 × 24 = 6300 + 1260
+
+315 × 24 = 7560
+
+¿Algunas de estas propiedades fueron utilizadas en los pasos que
+siguió Mica? Relacionen los pasos con las propiedades que les
+corresponden en el cuadro.
+
+Listado de propiedades:
+
+• Propiedad distributiva de la multiplicación con respecto a la
+adición.
+
+• Propiedad asociativa de la adición.
+
+• Propiedad conmutativa de la adición.
+
+• Propiedad conmutativa de la multiplicación.
+
+• Propiedad distributiva de la multiplicación con respecto a la
+sustracción.
+
+• Propiedad asociativa de la multiplicación.
+
+PasoPropiedad315 × 24 = 315 × (20 + 4)315 × 24 = 315 × 20 + 315 ×
+4315 × 24 = 6300 + 1260315 × 24 = 7560
+
+Los pasos resaltados en la tabla, ¿están presentes en el procedimiento
+de Mica? Señalen en qué pasos.
+
+Página 40
+
+
+
+El cálculo mental y las propiedades
+
+34. Resolver el siguiente cálculo:
+
+1200 × 58 =
+
+35. Laura realizó los siguientes cálculos:
+
+Cálculo 1:
+
+12000 × 6 = 7200
+
+Cálculo 2:
+
+7200 × 10 = 72000
+
+Cálculo 3:
+
+1200 × 2 = 2400
+
+Cálculo 4:
+
+72000 - 2000 = 70000
+
+Cálculo 5:
+
+70000 - 400 = 69600
+
+
+
+Nota del corrector: el cuaderno original presenta una ilustración donde
+aparece Laura y otros jóvenes. Laura hace los cálculos mentalmente.
+Fin de la nota.
+
+¿Los cálculos que realizó recurrieron a alguna o algunas de estas
+propiedades? ¿A cuál o cuáles?
+
+• Propiedad distributiva de la multiplicación con respecto a la
+adición.
+
+• Propiedad asociativa de la adición.
+
+• Propiedad conmutativa de la adición.
+
+• Propiedad conmutativa de la multiplicación.
+
+• Propiedad distributiva de la multiplicación con respecto a la
+sustracción.
+
+• Propiedad asociativa de la multiplicación.
+
+Página 41
+
+
+
+Recorrido 3: Triángulos y cuadrados
+
+36. Copien la siguiente figura. Pueden usar regla graduada, escuadra,
+compás y transportador. Luego mencionen los instrumentos que utilizaron
+para realizar la copia y expliquen cómo los usaron.
+
+
+
+Nota del corrector: el cuaderno original presenta un cuadrado cuyos
+vértices se denominan A, B, C, E. También tiene trazadas las dos
+diagonales. Fin de la nota.
+
+37. ¿Qué figura es la que copiaron en la actividad anterior?
+
+38. Paula dice que la figura de la actividad 36 es un cuadrado con sus
+diagonales dibujadas. Lucas dice que son dos triángulos rectángulos.
+Verónica opina que son dos triángulos isósceles. Matías asegura que
+son cuatro triángulos isósceles y María, que son cuatro triángulos
+rectángulos.
+
+¿Con cuál de ellos están de acuerdo? ¿Por qué?
+
+39. Para defender su postura Lucas dice que con dos triángulos como
+estos se puede armar el cuadrado. ¿Es verdadera la afirmación de
+Lucas? ¿Por qué?
+
+
+
+Nota del corrector: el cuaderno original presenta un cuadrado con las
+diagonales trazadas y dos triángulos. Se recomienda representar las
+figuras con recursos concretos, tangibles y representativos para que las
+niñas y los niños accedan al contenido en igualdad de condiciones. Fin
+de la nota.
+
+40. Verónica sostiene que con los dos triángulos isósceles se forma
+el cuadrado; por eso dijo que la figura era un par de triángulos
+isósceles. ¿Están de acuerdo con la postura de Verónica? ¿Por qué?
+
+41. Lucas dice que los triángulos son rectángulos, Verónica opina que
+los triángulos son isósceles. ¿Quién tiene razón? ¿Por qué?
+
+42. ¿Puede un triángulo ser isósceles y también ser rectángulo?
+¿Cómo podrían explicar esto a una compañera o un compañero?
+
+Página 42
+
+
+
+43. ¿Puede un triángulo ser isósceles y también ser obtusángulo?
+Dibujen uno. Pueden usar regla graduada, escuadra, compás y
+transportador. Expliquen qué instrumentos utilizaron y los pasos para
+la construcción.
+
+44. ¿Puede un triángulo ser isósceles y también acutángulo? Dibujen
+uno. Pueden usar regla graduada, escuadra, compás y transportador.
+Expliquen qué instrumentos utilizaron y los pasos para la
+construcción.
+
+45. ¿Puede un triángulo ser isósceles y también escaleno? Dibujen
+uno. Pueden usar regla graduada, escuadra, compás y transportador.
+Expliquen qué instrumentos utilizaron y los pasos para la
+construcción.
+
+46. ¿Puede un triángulo ser rectángulo y también acutángulo?
+Dibujen uno. Pueden usar regla graduada, escuadra, compás y
+transportador. Expliquen qué instrumentos utilizaron y los pasos para
+la construcción.
+
+47. ¿Puede un triángulo ser rectángulo y también obtusángulo?
+Dibujen uno. Pueden usar regla graduada, escuadra, compás y
+transportador. Expliquen qué instrumentos utilizaron y los pasos para
+la construcción.
+
+48. Matías dijo que la figura de la actividad 36 eran 4 triángulos
+isósceles. María dice que son 4 triángulos rectángulos. ¿Quién
+tiene razón? ¿Por qué?
+
+49. ¿Se puede dividir un rectángulo en dos triángulos dibujando una
+de sus diagonales? ¿Cómo son los triángulos entre sí? Dividan el
+cuadrado en dos triángulos con una diagonal.
+
+
+
+Nota del corrector: el cuaderno original presenta la figura de un
+cuadrado. Fin de la nota.
+
+50. Observen las siguientes figuras:
+
+
+
+Nota del corrector: el cuaderno original presenta dos figuras de
+triángulos: ABC y EFD. Fin de la nota.
+
+a) ¿Cómo son los lados del triángulo ABC con respecto a los lados del
+triángulo EFD? ¿Son más largos los del triángulo ABC? ¿Son más
+largos los del triángulo EFD? ¿O los dos tienen la misma longitud?
+
+b) ¿Cómo son los ángulos interiores del triángulo ABC con respecto a
+los del triángulo EFD? ¿Son de la misma amplitud? ¿Los del triángulo
+ABC son mayores que los del triángulo EFD? O, ¿los del triángulo ABC
+son menores que los ángulos interiores del triángulo EFD?
+
+
+
+51. Cuando en un libro de matemática se dice que dos triángulos son
+congruentes entre sí, ¿cómo deben ser las medidas de sus lados? ¿Y
+las amplitudes de sus ángulos?
+
+Página 43
+
+
+
+52. ¿Cómo son entre sí los cuatro triángulos en que queda dividido
+un cuadrado cuando se trazan sus diagonales?
+
+Tracen las diagonales del cuadrado y respondan la pregunta.
+
+
+
+Nota del corrector: el cuaderno original presenta la figura de un
+cuadrado. Fin de la nota.
+
+53. Observen el diagrama:
+
+
+
+Nota del corrector: el cuaderno original presenta un cuadrado cuyos
+vértices se denominan A, B, C, E. También tiene trazadas las dos
+diagonales. Se recomienda representar la figura con recursos concretos,
+tangibles y representativos para que las niñas y los niños accedan al
+contenido en igualdad de condiciones. Fin de la nota.
+
+a) ¿Cómo son los triángulos AOB y EOC? ¿Cómo son entre sí los
+segmentos AO y OC? ¿Y los segmentos EO y OB?
+
+b) ¿Dónde está ubicado el punto O en la diagonal AC? ¿Y en la
+diagonal EB?
+
+54. ¿Cómo son estos cuatro triángulos entre sí?
+
+a) Triángulo AOB, triángulo BOC, triángulo COE y triángulo EOA.
+
+b) ¿Cómo son entre sí los ángulos AOB, el ángulo BOC, el ángulo
+COE y el ángulo EOA?
+
+c) ¿Cuánto suman las medidas de los ángulos AOB más la medida del
+ángulo BOC, más la medida del ángulo COE, más la medida del ángulo
+EOA?
+
+d) ¿Cuál es la medida del ángulo AOB? ¿Y la del BOC? ¿Y la del COE?
+¿Y la del EOA?
+
+55. A partir de las respuestas de las actividades 53 y 54, ¿cómo le
+explicarían a una compañera o a un compañero la forma en que se
+cruzan las diagonales de un cuadrado?
+
+56. Teniendo en cuenta sus respuestas anteriores, las dadas en las
+actividades 54 y 55, si trazan una circunferencia con centro en O que
+pase por el punto A, ¿tendría o no que pasar por los vértices B, C y
+D? Verifíquenlo con un dibujo geométrico.
+
+¿Cómo son las distancias que separan al punto en el que se cruzan las
+diagonales de un cuadrado y cada uno de sus vértices?
+
+
+
+Nota del corrector: el cuaderno original presenta el dibujo de un
+cuadrado cuyos vértices son A B C E con las diagonales trazadas y un
+compás. Fin de la nota.
+
+57. Comparen los triángulos AOB, BOC, COE y EOA. ¿Cómo son los
+triángulos entre sí?
+
+58. Teniendo en cuenta la respuesta a la actividad anterior, ¿cómo son
+las diagonales del rectángulo?
+
+Página 44
+
+
+
+59. Elaboren una lista con las propiedades de las diagonales del
+cuadrado y otra, con las propiedades de las diagonales del rectángulo.
+
+¿Se repiten propiedades? ¿Cuáles? ¿Alguna no se replica? ¿Cuál?
+
+
+
+Ayuda para realizar las listas. Tengan en cuenta las siguientes
+preguntas:
+
+PREGUNTA / PROPIEDADCUADRADORECTÁNGULOSE REPITE SÍ/NO¿Cómo son las
+longitudes de las diagonales?¿En qué punto se cortan las
+diagonales?¿En qué ángulo se cruzan las diagonales?El punto en el que
+se cruzan las diagonales, ¿equidista de los vértices?
+
+60. ¿Para qué sirve estudiar la congruencia de triángulos? ¿Podrían
+dar un ejemplo?
+
+
+
+¿Qué estudiaron en este recorrido?
+
+A lo largo de este recorrido vieron que los problemas de las
+organizaciones rectangulares se resuelven con el producto resultante
+entre la cantidad de filas por la cantidad de columnas. Con los
+problemas de filas y columnas dispuestas rectangularmente analizaron las
+propiedades que cumple la multiplicación de números naturales. Los
+problemas propuestos también permitieron reflexionar acerca de la
+validez de ciertos cálculos mentales y algunos algoritmos que fueron
+justificados a partir de las propiedades de las operaciones.
+
+Finalmente, el reconocimiento de triángulos congruentes les permitió
+reconocer las propiedades que cumplen las diagonales de un cuadrado y de
+un rectángulo.
+
+
+
+TECLADOS Y PANTALLAS
+
+De triángulos y cuadriláteros
+
+1. Miren el video Triángulos de Canal Encuentro, haciendo clic en la
+imagen.
+
+
+
+Nota del corrector: el cuaderno original presenta una imagen del video
+donde aparece un nene en cada vértice del triángulo. A continuación
+se menciona el link en texto lineal. Fin de la nota.
+
+Triángulos Horizontes Matemática - Educ.ar
+
+2. Pongan a prueba sus conocimientos de cuadriláteros con “Adivina
+adivinador de cuadriláteros”, un juego interactivo de opción
+múltiple.
+
+
+
+Nota del corrector: el cuaderno original presenta la imagen de
+presentación del juego. A continuación se menciona el link en texto
+lineal. Fin de la nota.
+
+Plan Federal Juana Manso
+
+Página 45
+
+
+
+CIENCIAS SOCIALES
+
+Página 46
+
+
+
+Inicio: la construcción de la Argentina
+
+Nos reencontramos en este espacio para continuar estudiando sobre las
+realidades sociales pasadas y presentes.
+
+A lo largo de este recorrido trabajarán acerca del proceso histórico
+de construcción y consolidación del Estado Nación. Para la
+comprensión de este proceso se analizarán las grandes transformaciones
+que se sucedieron entre 1870 y 1916 en el actual territorio argentino.
+Partimos de la idea de que la Argentina como país se construyó a lo
+largo de varias décadas y que en esa construcción no faltaron los
+conflictos ni la violencia para imponer el proyecto de algunos grupos
+sociales por sobre otros.
+
+En el recorrido estudiarán las características de la Argentina
+agroexportadora y analizarán cómo el Estado argentino favoreció la
+inserción de nuestro país en el mercado mundial como productor de
+alimentos y materias primas. Esto se llevó a cabo a través de
+políticas que llevaron a la expansión del territorio (avanzando sobre
+los territorios de los pobladores originarios), a la atracción de
+trabajadores (con el impulso de la inmigración) y de inversiones
+extranjeras (para invertir, por ejemplo, en el desarrollo del
+ferrocarril y facilitar así la circulación de productos para la
+exportación). También conocerán cómo era el orden político
+conservador que caracterizó a la Argentina de fines del siglo XIX y
+comienzos del siglo XX. Además, en particular, profundizarán en el
+análisis acerca de cómo impactaron esas transformaciones en diferentes
+regiones del país y sobre los distintos sectores sociales.
+
+Para comenzar a analizar esas transformaciones, pueden observar la
+siguiente imagen y leer el testimonio de un estanciero.
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía en
+blanco y negro donde aparecen trabajadores a caballo, las máquinas y
+una montaña de sacos de algún cultivo. Fin de la nota.
+
+En las colonias agrícolas de Santa Fe y de otras provincias del
+Litoral, las máquinas agrícolas reemplazaron a los viejos métodos de
+cultivo. Al respecto, un estanciero le dijo al periodista Jules Huret,
+en 1911, lo siguiente: “[…]Hace 30 años apenas se conocían las
+máquinas agrícolas en las provincias del interior. Se segaba con hoz y
+se trillaba lanzando las gavillas bajo las patas de una veintena de
+caballos. Y yo, que conocí esos procedimientos antiguos, por todas
+partes solo veo las máquinas agrícolas más perfectas, que nos envían
+los Estados Unidos”.
+
+Huret, Jules (1988): De Buenos Aires al Gran Chaco, volumen I, Buenos
+Aires: Hyspamérica.
+
+
+
+Pueden averiguar qué transformaciones se produjeron a fines del siglo
+XIX y comienzos del XX en la localidad en la que viven. Para llevar a
+cabo esta tarea se sugiere consultar con familiares y/o vecinas y
+vecinos que puedan contarles acerca de la historia del lugar. También
+pueden hacer consultas en la biblioteca del barrio o en la de la
+escuela, o visitar el museo local para recabar más información. No
+olviden tomar notas de esos relatos. Luego, podrán utilizar esa
+información para redactar un breve texto y acompañarlo, si es posible,
+con algunas imágenes.
+
+Página 47
+
+
+
+Recorrido 1: ¿La Argentina fue siempre igual?
+
+Para la formación de un país es clave la configuración del
+territorio.
+
+¿De qué manera el territorio de un país se diferencia del territorio
+de los demás países? ¿Quién o quiénes la determinarán? Reflexionen
+en torno a estas preguntas antes de avanzar con la lectura. Si es
+posible, compartan las hipótesis con las compañeras y los compañeros
+y vean si hay coincidencias.
+
+
+
+Un territorio es un ámbito de la superficie terrestre claramente
+delimitado. Para la definición del territorio de un país es necesario
+establecer los límites. Los territorios, los límites y las fronteras
+son construcciones sociales; es decir, están pensadas y creadas por
+grupos de personas. Además, están estrechamente vinculadas entre sí:
+el límite es una línea que separa dos terrenos y, por lo tanto,
+permite separar dos territorios o países. La frontera es el espacio
+donde se encuentran, físicamente, quienes habitan los territorios
+separados por los límites. Esos límites, en muchos casos, se acordaron
+luego de muchos años de negociaciones entre las partes involucradas, en
+el caso de los países; y de pujas y negociaciones internas entre
+jurisdicciones o provincias de un mismo país.
+
+Argentina comenzó a organizarse como un país independiente y soberano,
+lentamente, recién hacia la segunda mitad del siglo XIX. Desde
+entonces, se fueron sentando las bases para la organización del
+territorio argentino, tal como lo conocemos en la actualidad. Se trató
+de un complejo proceso atravesado por diversos conflictos. La Argentina,
+como estado independiente y soberano, fue configurando su territorio al
+mismo tiempo que sus estados vecinos (Uruguay, Brasil, Paraguay, Bolivia
+y Chile). El establecimiento de los límites entre esos países fue el
+resultado, en algunos casos, de negociaciones diplomáticas y, en otros,
+de conflictos armados, como la Guerra de la Triple Alianza (en la que
+Brasil, Uruguay y Argentina se enfrentaron con Paraguay, entre 1864 y
+1870) y la Guerra del Pacífico (en la que Perú y Bolivia se
+enfrentaron con Chile, entre 1879 y 1884). Asimismo, en el proceso de
+construcción del Estado nacional argentino se produjo una expansión
+sobre territorios de diferentes pueblos originarios.
+
+
+
+Nota del corrector: el cuaderno original presenta dos mapas para
+comparar la expansión de la frontera nacional. Fin de la nota.
+
+La comparación de los mapas permite observar la expansión de la
+frontera del Estado argentino hacia el sur entre 1880 y 1883. La mal
+llamada “Conquista del Desierto” fue un proceso de avance de las
+fronteras del Estado argentino sobre territorios de los pobladores
+originarios. En muy pocos años fueron sometidos miles de pobladores
+originarios y se incorporaron 500.000 kilómetros cuadrados de tierra
+bajo control del Estado nacional.
+
+Página 48
+
+
+
+Respondan en sus carpetas los siguientes interrogantes: ¿la Argentina
+fue siempre tal como es en el presente? ¿Por qué? Les sugerimos leer
+la información trabajada en los párrafos anteriores para ver qué
+actores sociales estuvieron involucrados.
+
+
+
+Trenes y más trenes
+
+En pocos años una extensa red ferroviaria comunicó distintos puntos
+del territorio. La red confluía en la ciudad de Buenos Aires y,
+entonces, favorecía sobre todo a las actividades de exportación
+–venta de productos hacia el exterior– e importación –compra de
+productos del exterior–. Los trenes llevaban materias primas y
+alimentos (como cereales, lana y ganado) desde las provincias al puerto
+y trasladaban desde el puerto hacia las provincias las manufacturas
+(productos elaborados a partir de materias primas) producidas en
+Inglaterra, Francia, Alemania, y algunas también en Buenos Aires.
+
+Observen los siguientes mapas:
+
+
+
+
+
+
+
+Nota del corrector: el cuaderno original presenta tres mapas que
+muestran el desarrollo de la red ferroviaria argentina durante los años
+1870, 1890 y 1910. Se indica que la red ferroviaria de 1870 contaba con
+6 estaciones, en 1890 contaba ya con más de 20 estaciones y en 1910 con
+más de 30. Fin de la nota.
+
+Página 49
+
+
+
+Respondan los siguientes interrogantes en sus carpetas:
+
+¿Qué cambios observan en los tres mapas que muestran la Argentina
+entre 1870 y 1910? ¿Por qué la red ferroviaria habrá crecido tanto en
+tan poco tiempo? ¿Hacia dónde conducían la mayoría de los
+ferrocarriles? ¿Por qué les parece que era así?
+
+
+
+La división internacional del trabajo
+
+Para poder comprender cómo era el modelo económico que caracterizó a
+la Argentina de la época, es necesario explicar el contexto
+internacional. Es decir, cómo era el mundo con el que Argentina tenía
+vínculos comerciales.
+
+Como resultado de las transformaciones que se dieron en la Revolución
+Industrial, que se originó en Gran Bretaña en la década de 1780, la
+economía mundial se modificó profundamente: aumentaron la circulación
+de mercancías, capitales y personas. Hacia mediados del siglo XIX se
+desarrolló una división internacional del trabajo, que se
+caracterizaba por la existencia de economías especializadas en la
+producción de materias primas y alimentos, y otras en la producción de
+manufacturas industriales. Se incrementaron los intercambios comerciales
+entre países con distintos tipos de economías. Esos intercambios
+favorecían fundamentalmente a los países que tenían las economías
+industrializadas, por eso, se habla de intercambio desigual.
+
+
+
+La Argentina agroexportadora
+
+La mayor parte de los países de América Latina se convirtieron en
+economías dependientes. Esto se debe a que se insertaron en el mercado
+mundial como productores de materias primas y alimentos, y dependían de
+la importación de manufacturas y de las inversiones de capitales de los
+países industrializados. En ese contexto internacional, la Argentina
+logró insertarse en el mercado mundial como proveedora de lana, carne
+vacuna, trigo, maíz y lino. El modelo económico que adoptó se conoce
+como modelo agroexportador.
+
+Al especializarse en la producción agropecuaria, la Argentina
+necesitaba importar los productos manufacturados de otros países.
+Necesitaba, entonces, vender sus productos para poder comprar lo que
+aquí no se producía. También importaba capitales; es decir,
+inversiones extranjeras que se utilizaban para desarrollar aún más el
+modelo económico. Un ejemplo es la inversión de empresas británicas
+en el desarrollo de la red de ferrocarriles que servía para transportar
+las materias primas al puerto de Buenos Aires y así poder exportarlas,
+favoreciendo fundamentalmente el desarrollo de la región pampeana que
+tenía las mejores tierras para los productos de exportación.
+
+El modelo agroexportador modernizó al país y lo convirtió en uno de
+los mayores exportadores del mundo. Con ese modelo, un sector de la
+población argentina se benefició: los dueños de la tierras y de las
+producciones que podían exportarse. Se trataba de un grupo reducido de
+personas que tenían mucho poder económico y político: la oligarquía.
+Pero la mayor parte de la sociedad no se benefició: los salarios de las
+trabajadoras y los trabajadores eran muy bajos y las condiciones de vida
+eran muy precarias.
+
+
+
+Tomen notas en sus carpetas sobre: ¿en qué consistía el modelo
+agroexportador? ¿Tendrá relación con el crecimiento de los
+ferrocarriles? ¿Por qué?
+
+Página 50
+
+
+
+Datos curiosos
+
+¿Sabían que existió un ramal llamado “Tren de la muerte”? En
+1871, durante la epidemia de fiebre amarilla en la ciudad de Buenos
+Aires, se incorporó un tramo de ferrocarril para trasladar ataúdes.
+Dicho tramo llegaba hasta un cementerio que estaba ubicado donde hoy se
+encuentra el parque Los Andes. Se lo conocía como el “tren de la
+muerte John Allan”, ya que así era el apellido del primer conductor
+de la locomotora La Porteña. Allan condujo este lúgubre tren y
+falleció víctima de la epidemia a los 36 años.
+
+
+
+El avance del Estado sobre los territorios indígenas
+
+Como se señaló al comienzo de este recorrido, el proceso de
+construcción del Estado nacional implicó el avance territorial y la
+conquista de tierras donde vivían diferentes pueblos originarios desde
+hacía muchísimo tiempo. El Ejército Nacional, con el uso de las
+armas, exterminó a poblaciones enteras y sometió a otras al trabajo
+servil en las producciones para la exportación y en el trabajo
+doméstico.
+
+Ese proceso de avance territorial se produjo en lo que hoy son las
+provincias de La Pampa, parte de Buenos Aires, Córdoba, San Luis y
+Mendoza y en las regiones del Chaco y la Patagonia. El proceso de
+ocupación de la Patagonia, en el sur de nuestro país, es conocido como
+“Conquista del Desierto”. Esa manera de llamar al territorio
+significó un desconocimiento de sus pobladores y la falta de
+reconocimiento de sus tierras.
+
+Para conocer más sobre este proceso, lean los dos siguientes textos,
+escritos por el antropólogo Miguel Ángel Palermo:
+
+Un combate desigual
+
+En 1879, durante la presidencia de Nicolás Avellaneda, el ministro de
+Guerra, General Julio A. Roca, armó una campaña militar para echar
+definitivamente a los indígenas que habitaban La Pampa y la Patagonia.
+La guerra duró unos pocos meses. Los indígenas –debilitados por
+epidemias y sequías– no pudieron vencer a un ejército que ahora
+contaba con mapas de la zona y con hombres bien equipados y armados con
+unos fusiles norteamericanos, muy potentes y de rápida recarga.
+Además, el ferrocarril facilitó la movilización de las tropas, así
+como el traslado de víveres, caballos y armas. El telégrafo permitió
+comunicar con rapidez a los distintos frentes de batalla.
+
+Muchos indígenas consiguieron escaparse a la Cordillera y a Chile.
+
+Muchos otros murieron en combates o fueron fusilados; los restantes
+fueron capturados.
+
+Algunas comunidades fueron instaladas en “reservas” y otras
+separadas y su gente repartida: los hombres como peones de estancia, las
+mujeres y chicos como sirvientes. Otros fueron llevados a Tucumán, a
+juntar caña de azúcar, y también hubo quienes terminaron en la Isla
+Martín García, picando piedras para hacer adoquines para la ciudad de
+Buenos Aires.
+
+Palermo, Miguel Ángel (1991): Los indios de la pampa, Buenos Aires,
+Coquena, Libros del Quirquincho (adaptación).
+
+Página 51
+
+
+
+En 1884 y 1885, el general Benjamín Victorica, ministro de Guerra,
+entró finalmente al Chaco con fuerzas de Ejército y Marina. Aunque
+hubo entreveros con los indios, pronto estos no pudieron hacer nada;
+murieron jefes importantes y sus tierras fueron ocupadas. [...]. Aunque
+muchos rancheríos quedaron independientes, estaban ya en medio de las
+nuevas estancias y colonias de inmigrantes, perdiendo antiguos cazaderos
+y lugares de pesca. Así se vieron cada vez más obligados a emplearse
+durante algunas épocas del año, primero en aserraderos locales y
+zafras azucareras del Noroeste, y después también en las cosechas de
+algodón. [...] El Ejército también se ocupó de organizar el trabajo
+de los indígenas, que generalmente no cobraban en plata sino en vales
+para comprar ropa y comida en algunos almacenes que vendían carísimo;
+no tenían más remedio que aguantar porque los vales no servían en
+otra parte.
+
+Palermo, Miguel Ángel (1993): Los jinetes del Chaco, Buenos Aires,
+Coquena, Libros del Quirquincho (adaptación).
+
+a) A partir de la lectura, tomen notas sobre: ¿Por qué el ejército
+nacional logró vencer en tan poco tiempo a las poblaciones originarias?
+¿Qué elementos tenían a su favor?
+
+¿Qué ocurrió con las familias indígenas? Averigüen qué poblaciones
+indígenas habitan en la actualidad en esos mismos territorios.
+
+b) Luego escriban en sus carpetas una breve conclusión sobre cómo
+afectó a los pueblos originarios la consolidación del Estado y el
+desarrollo del modelo agroexportador. Tengan en cuenta tanto la
+incorporación de tierras como la de trabajadores y trabajadoras en
+condición servil. Si es posible, intercambien el texto con una
+compañera o un compañero para compartir las conclusiones a las que
+llegaron.
+
+c) Para aprender más sobre la consolidación del Estado pueden ver el
+audiovisual “Campaña del Desierto” de Canal Encuentro
+(especialmente de 27:50 a 31:00). Si tienen conexión a Internet, lo
+pueden ver acá (Historia de un país (T1), Campaña del desierto -
+Canal Encuentro). Conversen sobre lo que les haya llamado la atención.
+Luego escriban un texto en el que le cuenten el audiovisual a alguien
+que no lo vio.
+
+
+
+La “Gran inmigración”
+
+El desarrollo del modelo económico agroexportador requería de cada vez
+más hombres y mujeres que trabajaran en los espacios rurales y en las
+ciudades. En muy pocas décadas la población aumentó muchísimo.
+
+Observen el siguiente cuadro y respondan los interrogantes presentados a
+continuación.
+
+
+
+Población de la Argentina y de la ciudad de Buenos Aires
+(1869-1914)AñoArgentinaBuenos
+AiresTotalArgentinosExtranjerosTotalArgentinosExtranjeros18691.737.0761.
+526.746210.330187.12694.96892.15818953.954.9112.948.0731.006.838663.8543
+18.361345.49319147.885.2375.494.0662.391.1711.576.597798.553778.044Fuent
+e: Censos nacionales de población.
+
+El cuadro ofrece información a través de números que permiten hacer
+comparaciones valiosas. Las y los invitamos a leer esos números para
+compararlos y sacar conclusiones.
+
+Página 52
+
+
+
+¡No hay que aprender los números de memoria! sino pensar qué pistas
+dan sobre las transformaciones en la población que tuvieron lugar a
+fines del siglo XIX y comienzos del XX en la Argentina.
+
+¿Cuántas personas habitaban la Argentina en 1869? ¿Y en 1914? ¿De
+esos totales cuántas eran argentinas? ¿Y extranjeras?
+
+¿Cuántas personas habitaban la Ciudad de Buenos Aires en 1869?
+
+¿Y en 1914? ¿De esos totales cuántas eran argentinas? ¿Y
+extranjeras?
+
+¿Por qué creen que la proporción de extranjeras y extranjeros era
+mayor en Buenos Aires?
+
+¿Cómo fue posible que aumentara tanto la población en tan poco
+tiempo?
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía en
+blanco y negro donde se ven carruajes tirados por caballos, un hotel en
+las orillas del mar y barcos. Contiene el siguiente pie de imagen: El
+Hotel de Inmigrantes (ubicado en el actual barrio de Retiro de la Ciudad
+de Buenos Aires), en 1880. Entre 1883 y 1884, el hotel duplicó su
+capacidad de alojamiento de 4000 a 8000 personas, pues arribaban cada
+vez más inmigrantes. Fin de la nota.
+
+Una de las múltiples causas de que arribaran a la Argentina tantas y
+tantos inmigrantes fue la política de atracción que impulsó el Estado
+argentino. Para saber un poco más, lean el siguiente texto:
+
+Una ley favorable a la inmigración
+
+En 1876, durante la presidencia de Nicolás Avellaneda, se promulgó la
+ley 817 de Inmigración y Colonización. Esta norma rigió la política
+inmigratoria de los gobiernos siguientes. La ley alentaba la
+inmigración europea a través de la instalación de oficinas o agencias
+en Europa para estimular la inmigración en la Argentina, el
+otorgamiento gratuito de pasajes, el control de los buques que
+transportaban a los inmigrantes para asegurar la higiene, la seguridad y
+la comodidad de los viajes, el alojamiento a cargo del Estado en el
+Hotel de Inmigrantes durante los primeros días de estadía en el país,
+el transporte sin cargo hasta el destino final.
+
+Luna, Félix (1985): “La gran inmigración 1880-1890“, en Nuestro
+siglo. Historia gráfica de la Argentina contemporánea, Buenos Aires,
+Hyspamérica (adaptación).
+
+
+
+¿Qué estrategias utilizó el Estado argentino para aumentar la
+población del país?
+
+Página 53
+
+
+
+Si bien muchas y muchos inmigrantes se establecieron en las ciudades,
+también lo hicieron, aunque en menor medida, en espacios rurales. La
+escritora Ema Wolf nos cuenta sobre la vida de inmigrantes en un espacio
+rural:
+
+“Apenas recibida su parcela de tierra, y antes de comenzar cualquier
+tarea agrícola, el colono suizo debía cavar un pozo de 12 metros de
+profundidad para obtener agua clara y potable. Luego se imponía
+construir el corral (Koral) donde, según costumbre de estas pampas se
+guardaba el ganado de noche. Con el tiempo recién emprendía la
+construcción de la casa definitiva que reemplazaría el diminuto rancho
+de adobe [...] que ellos mismos fabricaban con tierra de algún pantano
+vecino; la amasaban con los pies o bajo las patas de caballos, la
+ponían en moldes y secaban los bloques al sol […] Como la leña era
+un lujo escaso, los abrigaba sólo para la cocina [...].”
+
+Wolf, Ema (1991): La gran inmigración, Buenos Aires, Sudamericana.
+
+Conversen entre ustedes y escriban un breve texto con la información
+extraída del fragmento que leyeron sobre la inmigración: ¿qué dice
+sobre la vida de los inmigrantes al llegar a espacios rurales de la
+Argentina? ¿Les parece que tiene vinculación con el modelo
+agroexportador? ¿Por qué?
+
+
+
+El orden conservador
+
+El orden conservador fue el régimen político oligárquico que
+funcionó en la Argentina entre 1880 y 1916. En dicho orden, el manejo
+del poder político estaba en manos del Partido Autonomista Nacional
+(PAN), formado por alianzas entre los sectores más poderosos de las
+distintas provincias, que se basaban en lealtades particulares. La
+participación política en los actos electorales estaba muy
+restringida. Por lo general, la sucesión presidencial estaba controlada
+por el presidente saliente que designaba a un candidato. Las elecciones
+eran realizadas en forma fraudulenta, a partir de la manipulación de
+los padrones –que son los listados de las personas autorizadas a
+votar– y de la presión sobre los votantes, ya que el voto era
+público y voluntario.
+
+
+
+Nota del corrector: el cuaderno original presenta la imagen de una tapa
+de la revista Caras y Caretas. Esta edición dice “Las elecciones en
+la provincia” y debajo aparece una ilustración de dos hombrees con
+sombrero, pañuelo y zapatos. Ocurre el siguiente dialogo:
+
+El muñidor. -¿Votaste por el candidato que te dije?
+
+El votante. -Sí, señor, veintitrés veces.
+
+Fuente: Manuel Mayol Rubio “Las elecciones en la provincia”.
+Caricatura de portada, del semanario Caras y Caretas, 25 de abril de
+1903, Nº 238, Año VI.
+
+Fin de la nota.
+
+¿Qué se representa en la imagen? ¿Qué quiere decir el diálogo que
+se encuentra bajo la caricatura? ¿Qué les parece que busca expresar el
+autor/ilustrador? Tomen notas en sus carpetas.
+
+
+
+En el recorrido estuvieron estudiando el proceso de las aceleradas
+transformaciones que sufrió la Argentina en la segunda mitad del siglo
+XIX. Se abordaron las características de la Argentina agroexportadora y
+cómo el Estado argentino favoreció la inserción de nuestro país en
+el mercado mundial como productor de alimentos y materias primas.
+
+Página 54
+
+
+
+También leyeron acerca de cómo era el orden político conservador que
+caracterizó a la Argentina de fines del siglo XIX y comienzos del siglo
+XX. A continuación, profundizarán en el análisis sobre cómo
+impactaron esas transformaciones en diferentes regiones del país y
+sobre los distintos sectores sociales.
+
+
+
+Desarrollo regional desigual
+
+El impacto del modelo agroexportador generó un desarrollo regional
+desigual. Es decir, no todas las regiones del país desarrollaron sus
+economías de la misma manera. Las regiones del Litoral y Centro del
+país –que tienen las tierras más fértiles– se vieron favorecidas
+y concentraron la mayor cantidad de las actividades agropecuarias, así
+como la mayor parte de la infraestructura y de la población. Observen
+el siguiente cuadro:
+
+Distribución de la población, de las actividades agropecuarias y de la
+infraestructura por regiones hacia 1912 (% del total nacional).
+
+RegiónExtensiónPoblaciónAgriculturaGanaderíaFF.
+CC.Norte25,716,54,613,116Andina17,69,54,14,99,5Litoral/Centro27,772,590,
+570,173Patagonia28,91,20,712,71,5
+
+Fuente: Historia visual de la Argentina, capítulo 79, Buenos Aires,
+Clarín, pág. 1053.
+
+¿Qué información brinda el cuadro? ¿Qué regiones concentraban el
+desarrollo de la producción agrícola-ganadera? ¿Por qué puede
+hablarse de un “desarrollo regional desigual“? Respondan las
+preguntas en sus carpetas.
+
+
+
+El impacto sobre la producción artesanal local
+
+Los productos industriales que los barcos traían desde el exterior y
+que los ferrocarriles hacían llegar a distintos puntos del país
+arruinaron a muchos talleres artesanales de Catamarca, La Rioja y
+Santiago del Estero. Mucha gente se quedó sin trabajo y tuvo que migrar
+hacia Tucumán, Buenos Aires, Rosario o Mendoza. En sus provincias, las
+posibilidades de trabajo quedaron, por lo general, limitadas a los
+empleos que pudiera brindar el gobierno provincial.
+
+
+
+La prosperidad de algunas actividades regionales
+
+Algunas actividades regionales prosperaron. Sobre todo, el azúcar en el
+Noroeste y la del vino en la zona de Cuyo, especialmente en Mendoza.
+Ambos tipos de productos eran vendidos en Buenos Aires y otras ciudades
+y pueblos de la zona pampeana.
+
+La prosperidad de una actividad no implicaba la mejora de las
+condiciones de vida de sus trabajadores. Por ejemplo, el trabajador del
+ingenio azucarero sufría una gran explotación: recibía bajísimos
+salarios por extensas jornadas de trabajo. Además, su salario era
+pagado en “vales” que solo podía gastar en la proveeduría del
+mismo ingenio, donde la comida y otros bienes se vendían a precios muy
+elevados. Por el contrario, los dueños de los ingenios amasaban grandes
+fortunas.
+
+
+
+¿Qué nos aportan los textos sobre la existencia de un “desarrollo
+regional desigual“? ¿Qué significa que la prosperidad de una
+actividad no implicaba la mejora de las condiciones de vida de sus
+trabajadores? Pueden desarrollar estas ideas en sus carpetas.
+
+Página 55
+
+
+
+La organización de las trabajadoras y los trabajadores
+
+En los centros urbanos hacia fines del siglo XIX, las condiciones de
+vida de las familias de trabajadoras y trabajadores eran muy precarias.
+Los salarios eran bajos y las jornadas de trabajo muy extensas. Además,
+muchas familias vivían en espacios pequeños, en habitaciones, y
+debían compartir el baño y la cocina con otras familias. Las
+condiciones de explotación que sufrían las trabajadoras y los
+trabajadores llevaron a que se organizaran para luchar por mejores
+condiciones laborales. Entre la última década del siglo XIX y las
+primeras décadas del siglo XX tuvieron lugar numerosas huelgas y
+protestas en nuestro país.
+
+En la organización de las trabajadoras y los trabajadores fueron muy
+importantes el movimiento anarquista y el Partido Socialista. Ambas
+fuerzas cuestionaban el sistema capitalista, en el que los patrones
+(dueños de las fábricas, de los talleres, de las herramientas y de las
+máquinas), explotaban a los obreros que trabajaban para quedarse con
+las ganancias. Ambas fuerzas se diferenciaban, fundamentalmente, en que
+los socialistas pensaban que podían lograrse mejoras en las condiciones
+de trabajo y de vida a través de la acción de los legisladores y de
+las leyes, mientras que para los anarquistas el cambio podría darse
+solamente a partir de una huelga general que cambiara el sistema
+económico y político.
+
+¿Qué están haciendo las personas que se observan en la imagen? Tomen
+notas en sus carpetas.
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía en
+blanco y negro acompañada por el siguiente pie de imagen
+“Manifestación anarquista en Buenos Aires duramente reprimida por la
+policía. Ocurrió el 1 de mayo de 1909. Fueron asesinadas cinco
+personas y hubo cientos de heridas y heridos”. Fin de la nota.
+
+
+
+El grito de Alcorta
+
+Las expresiones de descontento por la desigualdad que provocaba la
+concentración de los beneficios en pocas manos fueron en aumento hacia
+fines del siglo XIX y principios del siglo XX. Hubo protestas en los
+centros urbanos y también en zonas rurales.
+
+El 25 de junio de 1912 en la localidad de Alcorta, provincia de Santa
+Fe, hubo una protesta de los trabajadores de la tierra, junto con
+comerciantes y chacareros (dueños de pequeñas chacras). Reclamaban a
+los terratenientes (dueños de grandes extensiones de tierra) por
+salarios justos, la rebaja de los arrendamientos (los precios de los
+alquileres de las tierras) y mejores condiciones laborales. Se conoce a
+ese movimiento de lucha como “El grito de Alcorta”.
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía en
+blanco y negro acompañada por el siguiente pie de imagen “El grito de
+Alcorta, 1912”. Allí una multitud de trabajadores se manifiestan
+frente a un edificio. Fin de la nota.
+
+
+
+¿Qué observan en la imagen? ¿Cómo están vestidas las personas?
+¿Por qué se reunieron? ¿Qué reclamaban? Tomen notas en sus carpetas.
+
+Página 56
+
+
+
+La oposición al orden conservador
+
+Hacia fines del siglo XIX la sociedad sufrió grandes transformaciones a
+partir de la llegada de una gran cantidad de inmigrantes. Se
+profundizaron los problemas sociales, como la pobreza, el hacinamiento y
+las malas condiciones laborales. La insatisfacción de amplios sectores
+de la sociedad no se basaba solamente en los reclamos laborales, sino
+que también se relacionaba con la crítica al PAN (Partido Autonomista
+Nacional) –que se había asociado a actos de corrupción– y con la
+demanda de una mayor participación política.
+
+En la última década del siglo XIX se organizaron diversas fuerzas
+opositoras, como el movimiento anarquista y el Partido Socialista (PS),
+surgidos del movimiento obrero, y la Unión Cívica (luego Unión
+Cívica Radical), que tenía muchos miembros que formaban parte de los
+grupos de poder pero cuestionaban al PAN. Los movimientos opositores
+llevaron adelante distintas estrategias para luchar contra el poder de
+la época. Anarquistas y socialistas realizaban reuniones,
+movilizaciones en las calles y huelgas, exigiendo la transformación del
+sistema económico que explotaba a las trabajadoras y los trabajadores.
+El PS, a diferencia de los anarquistas, también presentaba candidatos
+propios en las elecciones para disputarle poder al PAN a través del
+sufragio. Por su parte, la Unión Cívica realizaba reuniones y
+levantamientos armados para terminar con el gobierno del PAN, al que
+acusaba de corrupto y fraudulento.
+
+El descontento social, la presión del movimiento obrero organizado y
+los levantamientos radicales pusieron en crisis al orden conservador,
+que tomó medidas muy represivas y buscó generar más consensos para
+sostenerse en el poder. Hacia principios del siglo XX se intensificaron
+los conflictos dentro del PAN y algunos de sus miembros impulsaron
+proyectos de reforma electoral. La pérdida de legitimidad del régimen
+político oligárquico llevó a que sus propios representantes buscaran
+transformarlo, a partir de una ampliación de la participación
+política que apuntaba a canalizar las demandas sociales por caminos
+institucionales, alejándolas de las estrategias de acción directa,
+como la huelga, impulsadas por las organizaciones obreras.
+
+¿Quiénes eran las fuerzas opositoras al orden conservador y qué las
+diferenciaba?
+
+
+
+Si tienen Internet y quieren conocer más sobre cómo era la Argentina
+conservadora, pueden observar el capítulo 3 de la serie Historia de un
+país, “1890-1916. La república conservadora”, producida por Canal
+Encuentro.
+
+http://encuentro.gob.ar/programas/serie/8001/8?temporada=1
+
+
+
+La Ley Sáenz Peña
+
+La ley 8.871 sancionada en febrero de 1912 fue impulsada por el
+presidente Roque Sáenz Peña (1910-1914). La llamada “Ley Sáenz
+Peña” estableció que el voto, además de ser “universal” (desde
+hacía varias décadas podían votar todos los varones mayores), debía
+ser secreto y obligatorio. El carácter secreto del sufragio tendía a
+evitar el fraude electoral, que era una práctica muy extendida en la
+vida política argentina, mientras que el carácter obligatorio del
+sufragio apuntaba a aumentar el número de votantes comprometiendo a la
+ciudadanía a participar de las elecciones de sus representantes. Así,
+tenían derecho y obligación de votar todos los varones mayores de 18
+años nativos (nacidos en el territorio argentino) o naturalizados (que
+hubieran adoptado la ciudadanía argentina).
+
+La Ley Sáenz Peña también estableció que el padrón electoral se
+elaboraría a partir del padrón militar, lo que apuntaba a hacer más
+transparente el registro de los votantes. Asimismo, la reforma electoral
+aseguró la participación legal de la oposición, en la medida en que
+se estableció el sistema de lista incompleta, a través del cual se
+otorgaban las dos terceras partes de los cargos para las cámaras
+legislativas a la fuerza política con más votos, pero se otorgaba la
+tercera parte restante de los cargos a la segunda fuerza, permitiendo la
+representación de las minorías.
+
+Página 57
+
+
+
+Si bien la reforma electoral dio lugar a un proceso de democratización
+de la vida política argentina, este proceso resultó incompleto. A
+pesar de que el sufragio era “universal”, una gran cantidad de
+personas no tenía derecho a votar. Quedaban excluidas las mujeres, y
+también los extranjeros, los dementes, los sordomudos, los presos, los
+mendigos, los eclesiásticos, los militares y los policías.
+
+Más allá de sus limitaciones, la Ley Sáenz Peña transformó la vida
+política de la época y permitió a la Unión Cívica Radical llegar al
+poder a través de las urnas en 1916, dando inicio a un período de
+presidencias radicales que llegó a su fin en 1930.
+
+a) ¿Qué se lee en los carteles de la fotografía? ¿Qué expresiones
+tienen las personas retratadas? ¿Por qué les parece que no hay
+mujeres?
+
+b) A partir de lo trabajado escriban un texto sobre cómo era la
+Argentina de fines del siglo XIX y comienzos del XX: ¿qué cambió y
+qué no con la Ley Sáenz Peña? Intercambien ideas con una compañera o
+un compañero para analizar cómo planificó el texto cada una y cada
+uno para, luego, elaborar el texto propio.
+
+Actividad de síntesis
+
+A partir de todo lo estudiado elaboren un texto breve con el título La
+Argentina de fines del siglo XIX y comienzos del siglo XX.
+
+Para elaborar el texto tengan en cuenta:
+
+• el modelo agroexportador y la inserción de la Argentina en el
+mercado mundial.
+
+• el avance del Estado sobre territorios indígenas.
+
+• el orden conservador.
+
+• el desarrollo regional desigual.
+
+• las condiciones de vida y laborales de las trabajadoras y los
+trabajadores.
+
+• la protesta social y la oposición al orden conservador.
+
+Intercambien textos con alguna compañera o compañero y luego ajusten
+el texto propio si lo consideran necesario.
+
+Pueden ayudarse con la información que brinda la siguiente pintura,
+así como también con las fuentes de información que estudiaron antes.
+Esta es una de las obras más reconocidas de este importante pintor
+argentino. Allí de la Cárcova busca dar cuenta de las condiciones de
+vida de las trabajadoras y trabajadores hacia fines del siglo XIX.
+
+Para analizar la pintura deténganse en el título de la obra, en los
+gestos de las personas representadas, en los objetos, en aquello que
+puede verse a través de las ventanas y en las sensaciones que les
+provoca la observación.
+
+
+
+
+
+Nota del corrector: el cuaderno original presenta dos imágenes.
+
+La primera es una fotografía en blanco y negro de una multitud de
+personas, acompañada por el siguiente pie de imagen: “Fotografía de
+la Junta electoral de Rosario, en las elecciones presidenciales de 1916
+en las que triunfó Hipólito Yrigoyen, el candidato radical”.
+
+La segunda es una pintura que muestra a dos personas mirando por la
+ventana y con la mesa vacía. La acompaña el siguiente pie de imagen
+“Sin pan y sin trabajo (1892-1893), óleo de Ernesto de la
+Cárcova”.
+
+Fin de nota.
+
+Página 58
+
+
+
+TECLADOS Y PANTALLAS
+
+Fotografías que cuentan historias
+
+En este recorrido estuvieron estudiando sobre la Argentina de fines del
+siglo XIX y comienzos del XX. En esa época ya existía la fotografía,
+por lo cual contamos con ese tipo de registro para conocer un poco más
+sobre esa parte de nuestro pasado.
+
+Desde entonces hasta la actualidad la fotografía ha sufrido muchos
+cambios que tuvieron que ver con el desarrollo de la tecnología. Sus
+orígenes datan de 1839, cuando se descubre el procedimiento que permite
+obtener imágenes permanentes a partir de la sensibilidad a la luz que
+presentan ciertos materiales. Las primeras fotografías se llamaban
+daguerrotipos y requerían que la persona retratada permaneciera
+inmóvil durante diez minutos para que la imagen llegara a copiarse.
+
+¿Qué piensan sobre la situación de tener que estar diez minutos
+inmóviles para que les saquen una foto? Seguramente, una eternidad.
+
+Uno de los daguerrotipos más famosos de la historia argentina es el del
+general José de San Martín, que hasta el momento había sido
+retratado, pero solo en pinturas de la época. Esta es una pieza muy
+valiosa porque es la única imagen de este tipo del General que se
+conserva en la actualidad.
+
+El daguerrotipo se realizó en 1848 (dos años antes de su
+fallecimiento), en París donde San Martín vivía en esa época.
+Actualmente se conserva en el Museo Histórico Nacional. Dice su ficha
+técnica que el General, que ya era un hombre de 70 años, “aparece
+sentado, de medio cuerpo sesgado hacia la izquierda, mirando en la misma
+dirección, con el cabello blanco y el bigote cano. Tiene la mano
+derecha sobre el brazo del sillón y la izquierda dentro de la
+abotonadura del levitón”.
+
+
+
+Pie de imagen: Daguerrotipo de José de San Martín.
+
+¿Conocían esta imagen de San Martín? ¿Qué otras imágenes de San
+Martín conocen? ¿Son fotografías? Las y los invitamos a explorar la
+página del Museo Histórico Nacional en el que se conservan, además
+del daguerrotipo, pinturas que retratan a San Martín, como así
+también de distintos objetos que le pertenecieron.
+
+https://museohistoriconacional.cultura.gob.ar
+
+Con el tiempo, para captar las imágenes se empleó la cámara oscura,
+que experimentó constantes mejoras en su diseño y tamaño, así como
+en las lentes ópticas u objetivos utilizados, debido a los aportes de
+diferentes investigadores. Como las imágenes eran en sepia o blanco y
+negro, a lo largo del siglo XIX y principios del XX, algunas
+fotografías se coloreaban a mano, con acuarelas, óleo, anilinas u
+otros pigmentos.
+
+Página 59
+
+
+
+Esta técnica era manual.
+
+¿Les gusta sacar fotografías? ¿Las retocan? ¿De qué manera?
+Reflexionen sobre los cambios en los modos de intervenir las imágenes a
+través del tiempo. Pueden hacer un cuadro que refleje los cambios en el
+tiempo.
+
+Actualmente contamos con cámaras de fotos en los celulares y en las
+computadoras. Estos dispositivos nos permiten no solo obtener imágenes
+a color, sino también retocarlas digitalmente con alguna aplicación.
+En el momento histórico que estamos analizando no se contaba con esos
+desarrollos tecnológicos, sin embargo esa época fue documentada por
+distintos medios: audiovisuales (imágenes en movimiento filmadas por
+algunos de los pocos cineastas que en ese momento contaban con una
+cámara) y fotográficos. Para conocer algunas de estas imágenes vean
+el documental “La gran inmigración” de Canal Encuentro. Para
+realizar esta actividad observen detenidamente hasta el minuto 5.
+Mientras lo miran, tomen notas sobre aquellas imágenes que les llaman
+la atención.
+
+
+
+Nota del corrector: el cuaderno original presenta una escena de Canal
+Encuentro que dice “Historia de un país”. A continuación se
+menciona el link en texto lineal.
+
+http://encuentro.gob.ar/programas/serie/8001/10
+
+Fin de la nota.
+
+Luego de mirar el video, comenten entre ustedes y escriban en la
+carpeta:
+
+¿De qué color son las imágenes? ¿Cómo se relaciona esto con el
+momento histórico en que se tomaron las imágenes? ¿Cómo eran las
+fotografías en esa época?
+
+¿Quiénes aparecen en las imágenes? ¿En qué lugares están?
+
+¿Qué les parece que están haciendo? ¿Qué objetos acompañan a las
+personas?
+
+¿Qué medios de transporte aparecen en el video? ¿Para qué se usaban
+en cada caso?
+
+Estas imágenes cuentan una parte de la historia de nuestro país, nos
+hablan de la vida de muchas personas en busca de un futuro mejor.
+
+Página 60
+
+
+
+Manos a la obra (en grupo)
+
+Les proponemos que armen una galería de fotografías antiguas de
+familiares, de amigas y amigos, y de vecinas y vecinos:
+
+Para esto:
+
+Consulten con sus familias, amigas y amigos, y vecinas y vecinos si
+tienen fotos familiares antiguas. Si disponen de las fotografías,
+indaguen sobre: ¿de qué época son? ¿Cuál es la foto más antigua
+que tienen? ¿Cómo se dieron cuenta?
+
+Sumen las fotografías de Ciencias Sociales de este recorrido y
+reflexionen sobre los colores de las imágenes, las personas que
+aparecen retratadas, el lugar en el que están, aquello que las rodea y
+lo que les parece que están haciendo.
+
+• Digitalicen las fotografías de sus familiares y personas cercanas.
+Pueden hacerlo sacando una fotografía con la cámara de un celular o de
+una computadora.
+
+• Creen una presentación digital con alguna aplicación como Libre
+Office Impress o Power Point.
+
+• Busquen un nombre para la presentación que dé cuenta del tema que
+van a desarrollar.
+
+• Seleccionen una plantilla para usar de fondo y una tipografía.
+
+• Incorporen las imágenes y las referencias indicando todos los datos
+que tengan. El año de la fotografía, el nombre y el parentesco de las
+personas que aparecen en la imagen, el lugar en el que están y lo que
+están haciendo.
+
+Página 61
+
+
+
+CIENCIAS NATURALES
+
+Página 62
+
+
+
+Recorrido 1: Un mundo de partículas
+
+Sabemos por experiencia que el agua puede estar en tres estados:
+sólido, líquido y gaseoso. También que el estado en que se encuentra
+depende de la temperatura y que, cuando se pasa de una temperatura a
+otra, el estado cambia.
+
+Por ejemplo, si sacamos un cubito de hielo del congelador y lo dejamos a
+temperatura ambiente, el agua que estaba en estado sólido se volverá
+líquida. Bastará volver a colocarla en el congelador para que vuelva a
+su estado sólido.
+
+Los estados sólido, líquido o gaseoso de los materiales se denominan
+estados de agregación.
+
+La ciencia explica los diferentes estados de agregación a partir del
+llamado modelo de partículas.
+
+La idea es que todos los materiales existentes, tanto naturales como
+artificiales, están formados por partículas microscópicas unidas
+entre sí. Lo que diferencia a un material de otro es la cantidad y el
+tipo de partículas que lo componen.
+
+Para imaginarlo, se podría decir que funciona como el abecedario: las
+diferentes combinaciones de 27 letras permiten escribir miles de
+palabras diferentes. Es decir que se puede representar la estructura
+“íntima” de un material como un montón de partículas
+microscópicas juntas unas con otras.
+
+Esas partículas pueden estar más o menos juntas entre sí por fuerzas
+de atracción que las mantienen unidas. Entonces, los estados de
+agregación de los materiales se explican por la distancia y la forma en
+que las partículas están ordenadas o desordenadas. Pueden verlo en el
+esquema:
+
+
+
+Nota del corrector: el cuaderno original presenta un gráfico donde
+aparecen los tres estados de la materia. Pie de imagen: Representación
+de los tres estados de agregación más comunes de los materiales. En el
+estado sólido las partículas se mantienen unidas, en el estado
+líquido las partículas están más separadas y en desorden, en el
+gaseoso están más separadas aún y en mayor desorden. Fin de la nota.
+
+
+
+Para pensar y escribir
+
+a) Relean la explicación anterior sobre cómo están formados los
+materiales y luego redacten un texto que explique las razones por las
+cuales el vapor de agua, el agua líquida y el hielo se describen como
+diferentes estados de agregación.
+
+b) Intercambien con sus compañeros y compañeras los textos que
+elaboraron. Acuerden entre ustedes cuál de ellos expresa más
+claramente lo solicitado. Si lo consideran necesario, pueden elaborar un
+texto colectivo que entre todas y todos consideren la mejor versión
+para responder a la consigna anterior.
+
+
+
+La temperatura y los cambios de estado
+
+Como se explicó anteriormente, el estado de agregación de los
+materiales depende de la temperatura y es reversible. Es decir, que
+pueden pasar de un estado al otro y volver al inicial con los cambios de
+temperatura.
+
+Observen los nombres que se le asignan a los procesos de cambio de
+estado:
+
+
+
+Nota del corrector: el cuaderno original presenta un gráfico donde se
+muestran los posibles cambios de estado. El cambio del sólido al
+líquido se llama “fusión”, el del líquido al gaseoso se llama
+“vaporización”. Por otra parte, el cambio del gaseoso al líquido
+se llama “condensación” y del líquido al sólido se llama
+“solidificación”.
+
+Pie de imagen: La temperatura determina el estado de agregación de los
+materiales. Estos pueden pasar de uno a otro (son reversibles) y
+acompañar los cambios de temperatura del material.
+
+Fin de la nota.
+
+Página 63
+
+
+
+Las partículas por su nombre Seguramente ustedes ya tienen una idea de
+la más conocida de las partículas constituyentes de los materiales:
+los átomos. Un átomo está a su vez constituido por subpartículas,
+tales como el núcleo atómico y los electrones que giran a su
+alrededor.
+
+En la naturaleza, los átomos se asocian de diferentes modos. Uno de los
+modos es formando partículas más grandes, constituidas por varios
+átomos del mismo o de diferente tipo. Estas asociaciones se llaman
+moléculas. En la naturaleza existen 98 átomos diferentes, cuyas
+diferentes combinaciones generan millones de moléculas distintas.
+
+Por ejemplo, una molécula de agua está formada por un átomo de
+oxígeno y dos átomos de hidrógeno. Seguramente muchas veces vieron
+que el agua se representa con el símbolo H2O. Esa forma de escribir
+“agua” refiere a su composición química, donde la letra H es el
+símbolo del hidrógeno y la letra O, del oxígeno. El número 2, como
+subíndice al lado del símbolo “H”, indica la cantidad de átomos
+de hidrógeno presentes en esa molécula. La falta de subíndice para el
+símbolo “O” indica que la molécula tiene un solo átomo de
+oxígeno. Ahora, si la molécula que se forma tiene dos átomos de
+oxígeno y dos de hidrógeno (H2O2) dará lugar a una molécula de otro
+material: el agua oxigenada que se utiliza como desinfectante de heridas
+y que no puede ingerirse ya que es tóxica.
+
+Es importante que tengan en cuenta que la molécula de agua es una
+partícula donde los átomos de hidrógeno y oxígeno se mantienen
+fuertemente unidos entre sí. Si se lograra “romper” esa unión
+entre ellos, dejaría de ser una molécula de agua para pasar a ser
+oxígeno, por un lado, e hidrógeno, por el otro. Por lo tanto, los
+cambios en los estados de agregación siempre mantienen la integridad de
+la molécula con los átomos que la constituyen.
+
+Esto nos permite representar a la molécula de un material de un modo
+aún más simple: como una partícula única.
+
+
+
+Nota del corrector: el cuaderno original presenta el esquema de un
+átomo. Se indica el neutrón, el protón y el electrón. Fin de la
+nota.
+
+
+
+Nota del corrector: el cuaderno original presenta un gráfico
+acompañado por el siguiente pie de imagen “Dos formas de representar
+la molécula de agua. En la de la izquierda se representan los núcleos
+atómicos del hidrógeno y el oxígeno, y sus electrones en órbita. En
+la de la derecha se representa solamente el tamaño relativo de los
+átomos y la posición de cada uno en la molécula de agua”. Fin de la
+nota.
+
+Página 64
+
+
+
+Si bien cada tipo de material mantiene o cambia su estado de agregación
+dependiendo de la temperatura a la que se encuentra, ese cambio se
+produce a temperaturas específicas. Esas temperaturas se denominan:
+
+• Punto de fusión: es la temperatura en la que un material pasa de
+estado sólido a líquido o de estado líquido a sólido.
+
+• Punto de ebullición: es la temperatura en la que un material pasa
+de estado líquido a gaseoso o de estado gaseoso a líquido.
+
+Vean algunos ejemplos:
+
+MaterialPunto de fusiónPunto de
+ebulliciónAgua0°C100°CAluminio933°C2792°CMercurio-38°C357°CAlcoho
+l (etanol)-114°C78°C
+
+Respondan en sus carpetas:
+
+a) Según el punto de fusión del mercurio consignado en el cuadro,
+¿por qué este metal se mantiene líquido tanto a temperatura ambiente
+como dentro del congelador de una heladera?
+
+b) Y, según el punto de fusión del agua, ¿por qué una botella de
+agua se vuelve sólida en el congelador pero se mantiene siempre
+líquida en la otra parte de la heladera?
+
+Pero, ¿por qué ocurre un cambio de estado a temperaturas específicas?
+
+Como ya vieron, las partículas que forman los materiales están
+“ligadas” por fuerzas que las mantienen más o menos juntas. Pero, a
+su vez, se mueven (energía cinética). En el estado sólido ese
+movimiento es apenas una vibración sin cambios de lugar.
+
+La transferencia de energía térmica agita a las partículas, de modo
+tal que la vibración comienza a superar las fuerzas de atracción entre
+ellas hasta que, en el estado líquido, comienzan a separarse y moverse
+un poco más libremente. Finalmente, en el estado gaseoso, se separan
+totalmente unas de otras y se mueven con total libertad “escapando”
+hacia la atmósfera.
+
+La temperatura es, precisamente, la medida de esa agitación.
+Dependiendo de la fuerza con la que las partículas están unidas entre
+sí en los diversos materiales, la temperatura a la que ocurren los
+cambios de estado será mayor o menor.
+
+En el aluminio, por ejemplo, las partículas están firmemente unidas
+entre sí, vibrando muy poquito. Se necesita que reciba mucha energía
+para alcanzar una agitación tal que logre separarlas y desordenarlas lo
+suficiente como para que el material pase al estado líquido y, mucho
+más aún, para que se evapore (observen en la tabla anterior el punto
+de fusión y de ebullición de este material).
+
+
+
+Si colocan un trocito de manteca en un vaso o copita pequeña y
+mantienen el recipiente apretado entre las manos sucederá que, bastante
+rápidamente, la manteca se derretirá. Si tienen las condiciones
+necesarias, hagan la prueba y verán que se producirá el cambio desde
+el estado sólido al estado líquido.
+
+Teniendo en cuenta que la manteca se derrite con el calor de las manos,
+¿cuál será, aproximadamente, el punto de fusión de la manteca?
+Justifiquen sus respuestas en la carpeta.
+
+Página 65
+
+
+
+Recorrido 2: Las transformaciones físicas
+
+Los cambios que se producen en los materiales pueden clasificarse en dos
+tipos diferentes: cambios físicos y cambios químicos.
+
+Los cambios físicos son aquellos en los que el material sigue siendo el
+mismo antes y después de sufrir la transformación. La rotura de un
+material es un ejemplo de este tipo de cambio: un vidrio puede romperse
+pero sigue siendo vidrio. La deformación de un globo también, porque
+no altera el material del que está hecho.
+
+Los cambios de estado de agregación que estuvieron estudiando también
+corresponden a cambios o transformaciones físicas.
+
+A partir de los ejemplos dados (cambios de estado en el agua, la
+manteca, etc.) elaboren un breve texto explicativo que permita
+comprender por qué se puede afirmar que corresponden a cambios
+físicos.
+
+Como ya vieron, esas transformaciones son, además, reversibles lo que
+significa que el material puede pasar de un estado a otro y viceversa.
+
+Otro tipo de cambios físicos ocurre cuando los materiales se mezclan.
+En algunos casos es fácil darse cuenta de esta situación. Por ejemplo,
+si realizamos una mezcla de arroz con sal gruesa (secos), podemos
+diferenciar bastante fácilmente los dos materiales que forman la
+mezcla. Sólo bastará observarla con cuidado o con la ayuda de una
+lupa. Incluso podemos separar los materiales (revertir el cambio)
+extrayendo con cuidado cada grano de arroz.
+
+Si hicieran una mezcla de arroz con sal fina, en vez de utilizar sal
+gruesa, ¿qué método o métodos se les ocurre para separar los
+componentes de esa mezcla sin tener que retirar los granos de arroz uno
+por uno? Si tienen las condiciones, prueben el o los métodos que
+propusieron.
+
+Este tipo de mezclas donde se pueden diferenciar los materiales que la
+componen se denominan mezclas heterogéneas. La sangre, por ejemplo, es
+una mezcla de este tipo. Aunque a simple vista no podamos diferenciar
+sus componentes es posible hacerlo utilizando grandes aumentos.
+
+Si se observa una muestra de sangre en el microscopio se pueden
+diferenciar sus componentes sólidos del componente líquido, llamado
+plasma sanguíneo. Por ejemplo, los glóbulos rojos y blancos están
+inmersos en el plasma sanguíneo. En esta muestra hay algunas células
+sanguíneas que fueron teñidas de azul con un colorante.
+
+
+
+Nota del corrector: el cuaderno original presenta una muestra de sangre
+en la que aparecen células azules. Fin de la nota.
+
+
+
+Las mezclas homogéneas
+
+Existen mezclas donde no es posible diferenciar los componentes a simple
+vista. Incluso, no será posible diferenciarlos utilizando grandes
+aumentos, como puede ser un microscopio.
+
+Página 66
+
+
+
+Este tipo de mezclas se denominan mezclas homogéneas.
+
+Es el caso de las llamadas soluciones. En las soluciones, los materiales
+se mezclan tan íntimamente entre sí que es imposible diferenciarlos.
+Un ejemplo de la vida cotidiana puede ser la mezcla entre agua y sal o
+agua y azúcar.
+
+
+
+Para hacer y contestar
+
+a) Llenen un vaso transparente con agua y coloquen una cucharada sopera
+de sal común de mesa (mejor si usan sal gruesa). Sin agitar el
+líquido, observen lo que sucede. ¿Pueden diferenciar el agua de la sal
+a simple vista?
+
+b) Mojen el dedo en el líquido y prueben el gusto.
+
+c) Ahora agiten bien la mezcla con la cuchara durante un rato y vuelvan
+a observar el resultado. ¿Es posible diferenciar la sal del agua?
+
+d) Vuelvan a probar el líquido resultante de la mezcla. ¿Qué
+diferencia encuentran entre el sabor del líquido ahora en comparación
+con el sabor anterior?
+
+
+
+Cuando dos materiales se mezclan formando una solución, se dice que uno
+de los materiales se disuelve en el otro. Al componente que está en
+mayor proporción se lo denomina solvente y al que está en menor
+proporción se lo denomina soluto.
+
+En el ejemplo de la mezcla de sal y agua, ¿cuál es el solvente y cuál
+el soluto? Escriban la respuesta en sus carpetas.
+
+En una solución puede haber más de un soluto. Por ejemplo, si se
+mezclaran agua con sal y azúcar habría dos solutos en un mismo
+solvente (el agua). Pero como los componentes en una solución no se
+diferencian a simple vista, es difícil conocer cuántos solutos forman
+parte de la solución.
+
+Existen muchos tipos de soluciones: entre sólidos, entre sólidos y
+líquidos, entre líquidos y, también, entre gases. Vean algunos
+ejemplos:
+
+GASLÍQUIDOSÓLIDOGASEl aire es una solución compuesta por varios gases
+como el oxígeno, el nitrógeno y el dióxido de carbono.El dióxido de
+carbono es un gas que se transporta disuelto en el líquido sanguíneo
+(plasma).El smog que contamina la atmósfera está formado por
+partículas sólidas que se encuentran en el aire. Algunas de ellas
+forman una solución con los gases atmosféricos.LÍQUIDOLa soda es una
+solución del gas dióxido de carbono en agua. Cuando abrimos una
+botella y se pone en contacto con el aire, este gas “escapa” en
+forma de burbujas.El alcohol que compramos en la farmacia es una
+solución de agua y alcohol. Si miran la botella verán que dice alcohol
+etílico 96 %. El 4 % restante es agua.La sal común o el azúcar en
+agua.
+
+Lean los ejemplos del cuadro anterior y escriban en sus carpetas la o
+las afirmaciones correctas.
+
+• En la soda, el agua es el soluto y el dióxido de carbono es el
+solvente.
+
+• En una solución de agua y sal, la sal es el solvente y el agua es
+el soluto.
+
+• En la sangre, el plasma es el solvente y el dióxido de carbono, el
+soluto.
+
+Página 67
+
+
+
+A concentrarse
+
+Vuelvan al caso de la solución de agua y sal que vieron como ejemplo.
+Si en un vaso con agua colocan una cuchara de sal y revuelven bien, se
+formará la solución agua-sal.
+
+¿Y si ahora colocan dos cucharadas de sal? ¿Y si ponen tres
+cucharadas?
+
+Si lo prueban, verán que llegará un momento en que la sal ya no se
+disuelve más y queda en el fondo del vaso. En ese momento se dice que
+la solución está sobresaturada. Esto significa que se disolvió en el
+agua toda la sal posible y que la que se agregue después de ese momento
+ya no se disolverá y permanecerá en estado sólido.
+
+Se denomina concentración de una solución a la proporción entre la
+cantidad de soluto y la cantidad de solvente que forma la solución. La
+solución estará más concentrada cuando más cantidad de soluto esté
+disuelto.
+
+Según el grado de concentración, se puede establecer una escala en las
+soluciones que va desde la más diluida (poca cantidad de soluto) hasta
+la más concentrada.
+
+
+
+Nota del corrector: el cuaderno original presenta un dibujo de tres
+vasos acompañado del siguiente pie de imagen. Estos vasos tienen una
+solución formada por agua y un colorante rojo. La concentración del
+colorante en la solución se puede observar a través del cambio de
+color.
+
+El primer vaso tiene un tono rosa, el segundo tiene un tono rojo y el
+tercero un tono bordó. La solución rosa está diluida y la más
+oscura, la bordó, está concentrada.
+
+Fin de la nota.
+
+Las llamadas infusiones, como las de té, café o mate son soluciones de
+materiales que se encuentran en los granos o en las hojas que se
+utilizan para prepararlas. Coloquen una C o una D al lado de cada
+afirmación indicando si se refiere a una solución más concentrada o
+más diluida. Pueden trascribir las afirmaciones en sus carpetas y luego
+colocar C o D.
+
+A mí me gusta el café bien liviano
+
+¡Este mate ya está lavado!
+
+Para mí es más rico el té cuando está bien fuerte
+
+
+
+Pero, ¿de qué depende el grado de concentración de una solución? Por
+un lado, depende de los materiales que están en la solución.
+Diferentes mezclas de solventes y solutos adquieren distintos grados de
+concentración. Pero también depende de la temperatura. Cuanto más
+alta sea la temperatura, mayor será la capacidad del solvente de
+disolver un soluto. ¡Pueden experimentarlo!
+
+Página 68
+
+
+
+Les proponemos hacer una sencilla experiencia con soluciones.
+
+a) Tomen un recipiente que pueda calentarse y llénenlo con media taza
+de agua a temperatura ambiente.
+
+b) Coloquen de a poco cucharadas de sal (mejor si es sal gruesa)
+revolviendo cada vez hasta que la solución quede saturada (ocurrirá
+cuando hayan agregado unas cuatro cucharadas del soluto). Se darán
+cuenta cuando quede en el fondo una porción de sal en estado sólido.
+
+c) Ahora pongan a calentar el recipiente con la solución (si necesitan
+ayuda de un adulto, pídanla). Verán que la sal que quedó en el fondo
+se irá disolviendo.
+
+d) Dejen enfriar la solución a temperatura ambiente. Mientras se
+enfría respondan en sus carpetas: ¿qué creen que pasará cuando se
+enfríe?
+
+e) Una vez que la solución se enfrió, observen que ocurrió.
+
+¿Es lo que imaginaban? ¿Por qué ocurrió eso? Prueben ahora de
+colocarla en la heladera, donde la solución se enfriará aún más:
+¿que piensan que sucederá?¿Por qué?
+
+Soluciones y partículas
+
+En las soluciones sólido-líquido, las partículas del soluto que
+están fuertemente unidas entre sí se dispersan dentro del solvente.
+Una representación posible de este proceso es la siguiente:
+
+El efecto de la temperatura sobre las soluciones está relacionado con
+el movimiento de las partículas. Como vieron para el caso de los
+cambios de estado, cuando la temperatura se eleva las partículas se
+mueven más rápido y se desordenan. Este efecto favorece la dispersión
+del soluto dentro del solvente, incrementando la capacidad de
+disolución y aumentando, entonces, la concentración en la solución.
+
+
+
+Nota del corrector: el cuaderno original presenta un gráfico
+acompañado por el siguiente pie de imagen “En una solución, las
+partículas de soluto (rojas) se separan unas de otras (se disocian) y
+quedan “envueltas” por las del solvente (azules)”. Fin de la nota.
+
+Página 69
+
+
+
+Recorrido 3: Soluciones, un método de separación
+
+Como se explicó anteriormente, las soluciones son transformaciones
+físicas reversibles. Es decir que pueden separarse los componentes de
+la solución, aunque no se puedan diferenciar mientras están disueltos.
+
+Un modo común de separar los componentes de una solución
+líquido-sólido es el de evaporar el líquido. Si dejan un recipiente
+con una solución concentrada de agua y sal, el agua se irá evaporando
+y quedarán los cristales de sal en el fondo del recipiente. Claro que,
+en este caso, no se podrá recuperar el agua porque se escapará a la
+atmósfera en forma de vapor.
+
+En los laboratorios y en la industria, para separar componentes de las
+soluciones se utilizan unos dispositivos llamados destiladores. Observen
+el esquema de destilador simple de un laboratorio de química:
+
+
+
+Nota del corrector: el cuaderno original presenta un esquema acompañado
+por el siguiente pie de imagen “Esquema de un aparato de destilación
+simple. El vapor generado a partir del líquido de la solución, pasa
+por un condensador donde se enfría y vuelve al estado líquido que
+puede recuperarse en otro recipiente. Cuando todo el solvente se haya
+evaporado, el soluto sólido quedará en el recipiente que tenía la
+solución”.
+
+El esquema indica entonces, el mechero de gas por el que se calienta la
+solución. Luego el vapor de la parte líquida de la solución es
+conducido por un tubo que tiene un escape donde sale el agua fría.
+Después el vapor pasa por un refrigerante o condensador, más adelante
+hay una entrada de agua fría y por último el líquido de la solución
+(el vapor condensado) es conducido por un tubo hasta el recipiente
+final.
+
+Fin de la nota.
+
+El proceso de destilación se utiliza en muchísimas ramas de la
+industria. Por ejemplo, el petróleo es una mezcla de muy diversos
+componentes: diferentes líquidos y gases en solución, aceites,
+sólidos no solubles, etc. Para obtener productos derivados (nafta,
+gasoil, kerosene, entre otros) hay que separar los componentes de esa
+mezcla. Para esta tarea se utilizan grandes plantas de destilación en
+las que se “aprovecha” que cada componente en solución se evapora a
+diferentes temperaturas para poder recuperarlos.
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía
+acompañada por el siguiente pie de imagen “Sistema de destilación de
+una planta industrial. Las columnas que se ven son los condensadores del
+sistema (columnas de fraccionamiento) y los tanques contienen la mezcla
+que se quiere fraccionar”. Fin de la nota.
+
+Página 70
+
+
+
+Una fábrica de cristales
+
+Un modo divertido de separar componentes de una solución es fabricar
+cristales. Siguiendo paso a paso la siguiente “receta” podrán
+obtener sus propios cristales de sal.
+
+Materiales necesarios:
+
+Plato hondo.
+
+Dos frascos de vidrio transparente, muy limpios.
+
+Agua.
+
+Sal gruesa. Un lápiz.
+
+Hilo de coser no muy finito o colocado doble.
+
+Pegamento rápido.
+
+
+
+Procedimiento: Parte I
+
+1. Colocar en el plato tres cucharada de sal.
+
+2. Verter de a poco agua y revolver hasta que se disuelva toda la sal.
+
+3. Dejar la solución en un lugar donde nadie la mueva por dos días.
+Verán que en el fondo del plato se formarán unos cristales de sal
+cúbicos de unos 3 milímetros. Serán las “semillas” que
+utilizarán en la parte III.
+
+4. Elegir el mejor de los cristales que haya en el plato y atarlo o
+pegarlo a un extremo del hilo. Reservar, apoyándolo con cuidado sobre
+una servilleta.
+
+
+
+Parte II
+
+5. En uno de los frascos, echar agua bien caliente hasta más o menos
+hasta la mitad.
+
+6. Agregar la sal gruesa al agua caliente y continuar revolviendo. Se
+necesita que al final del proceso se haya disuelto la mayor cantidad de
+sal posible (solución saturada). Este fenómeno ocurrirá cuando la sal
+ya no se disuelva más y queden granos en el fondo del recipiente.
+
+7. Dejar enfriar la solución hasta la temperatura ambiente.
+
+8. Trasvasar la solución a otro frasco con cuidado que no pase ningún
+grano de sal que haya quedado en el fondo. Solo el líquido. Para
+asegurarse, se puede filtrar utilizando un paño limpio, un filtro de
+papel para café o un embudo con un “tapón” de algodón. Se llena
+hasta un poco más de la mitad.
+
+
+
+Parte III
+
+9. Ahora, tomar la “semilla” de sal que atamos al hilo y que
+reservamos en la Parte I y sujetar el otro extremo del hilo al lápiz.
+
+10. Sumergir el grano en la solución saturada obtenida (paso 8),
+cuidando que no toque el fondo o las paredes.
+
+
+
+Debe quedar como se observa en la fotografía: Ahora... paciencia. No
+queda más que dejar el frasco en un lugar donde estén seguros de que
+nadie lo moverá. Si todo sale bien, el grano de sal irá
+“creciendo” de a poco porque la sal disuelta se irá depositando
+sobre él (y en el hilo) en la medida que el agua se vaya evaporando.
+
+Pueden ir siguiendo el proceso cada tres o cuatro días con el cuidado
+de no mover el recipiente. Al cabo de dos o tres semanas verán que sus
+cristales parecerán verdaderas joyas.
+
+Pueden probar también colocar un clip en el extremo del hilo, con o sin
+un grano de sal pegado a él. Pueden usar una cadenita en vez de un hilo
+o atar la “semilla” a una tanza. Es cuestión de imaginar y probar.
+En cada caso obtendrán diferente tipo de cristales y de formas, cada
+una más linda que la otra.
+
+Si quieren pueden ir fotografiando el proceso. Si colocan un papel o
+cartulina negra detrás del frasco podrán ver mucho mejor el
+crecimiento del cristal y tomar mejores fotos.
+
+Con este mismo experimento, pueden probar crear cristales de azúcar.
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía del
+resultado del experimento. Fin de la nota.
+
+Página 71
+
+
+
+Recorrido 4: Las transformaciones químicas
+
+Además de las transformaciones físicas, los materiales pueden sufrir
+transformaciones químicas. En ese tipo de cambios los materiales que
+las “sufren” no permanecen como tales, sino que se convierten en
+otro u otros. Muchas de estas transformaciones son irreversibles.
+¿Habrá manera de darse cuenta si una transformación es física o
+química cuando se mezclan materiales diferentes?
+
+Aunque no siempre es fácil, los químicos y las químicas pueden
+detectar ciertos indicios sobre el tipo de fenómeno que está
+ocurriendo. Van a verlo con unos pocos ejemplos, que luego estudiarán
+más detenidamente.
+
+Los materiales que participan en una transformación química (también
+llamada reacción química) se denominan reactivos y el material
+resultante producto.
+
+CAMBIOS QUÍMICOS EN LOS MATERIALESREACTIVOSPRODUCTOSFENÓMENOS
+OBSERVABLESOxígeno y maderacarbón, gases de combustión y vapor de
+aguacambio de color, cambios de textura, desprendimiento de humo y luz
+(fuego)Bicarbonato de sodio y ácidosse forman nuevos materiales, uno de
+ellos en estado gaseosodesprendimiento de burbujas de gasOxígeno y
+hierroÓxido de hierrocambio de color, de textura y dureza del material
+
+Las reacciones químicas, por lo general, se escriben de una forma
+parecida a la siguiente:
+
+
+
+Nota del corrector: el cuaderno original presenta una fórmula que se
+expresará en texto lineal a continuación.
+
+REACTIVO A + REACTIVO B (Transformación química) = PRODUCTO
+
+Fin de la nota.
+
+Ahora, un ejemplo concreto:
+
+El bicarbonato de sodio es una sal que se utiliza comúnmente para
+cocinar y otros usos medicinales. El vinagre de alcohol es una solución
+incolora de ácido acético y agua, que ustedes ya conocen. Si se ponen
+en contacto, se produce una reacción química. Se escribe así:
+
+
+
+Nota del corrector: el cuaderno original presenta una fórmula que se
+expresará en texto lineal a continuación.
+
+Bicarbonato de sodio (sólido) + Vinagre (líquido) = Dióxido de
+carbono (gaseoso) + Otros materiales (disueltos en agua).
+
+Fin de la nota.
+
+Página 72
+
+
+
+1. Para responder: ¿Cuáles son los reactivos y cuáles los productos
+en esta reacción química?
+
+2. Para experimentar:
+
+a. Es probable que en sus casas haya bicarbonato de sodio y vinagre.
+También pueden usar polvo para hornear (que tiene bicarbonato de sodio
+y otros agregados) y vinagre. Si tienen los materiales, coloquen en un
+vaso un poco de vinagre y luego agreguen una cucharadita de bicarbonato
+de sodio. Podrán ver cómo, mientras ocurre la reacción, se forman
+burbujas en el líquido. Esas burbujas son el gas dióxido de carbono.
+¿Funcionará igual con jugo de limón? ¡Pueden probarlo!
+
+b. Pueden probar también colocar en un vaso vinagre caliente y en otro
+la misma cantidad de vinagre frío. Luego agregan la misma cantidad de
+bicarbonato en cada uno. Registren las diferencias que observan en uno y
+otro caso.
+
+3. Para pensar y redactar: teniendo en cuenta lo que se quiere observar,
+¿Por qué piensan que indicamos que hay que colocar la misma cantidad
+de reactivos en cada vaso?
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía de un
+recipiente con espuma. Pie de imagen: Burbujas formadas como producto de
+la reacción química entre el vinagre y el bicarbonato de sodio. Fin de
+la nota.
+
+
+
+PROPIEDADES DE LOS REACTIVOSPROPIEDADES DE LOS PRODUCTOSBicarbonato de
+sodio: material en polvo, sólido y de color blanco.Se observan burbujas
+en el líquido como producto de la reacción. Se ha formado un gas
+llamado dióxido de carbono. El líquido resultante también será un
+material diferente del vinagre agregado.Vinagre: material líquido y
+transparente. Es un ácido (ácido acético) disuelto en agua.
+
+Finalmente puede decirse que así como la temperatura elevada favorece
+la disolución de los solutos en los solventes, también incrementa la
+velocidad de las reacciones químicas. Este efecto es el producto de la
+agitación de las partículas que favorece la interacción entre los
+reactivos.
+
+
+
+La combustión
+
+Otro ejemplo de una reacción química es la combustión. Cuando se
+quema un material, se produce una transformación química donde,
+además de los nuevos productos, se libera energía térmica y
+lumínica. La combustión es una reacción irreversible. Observen el
+siguiente esquema:
+
+
+
+Nota del corrector: el cuaderno original presenta una fórmula que se
+expresará en texto lineal a continuación.
+
+Combustible (sólido) por ejemplo, papel + Oxígeno (gas) presente en el
+aire. Allí intervienen la luz y calor y como resultado se genera el
+carbón (sólido) + dióxido de carbono (gas) + vapor de agua (gas).
+
+Fin de la nota.
+
+Página 73
+
+
+
+Para pensar y responder:
+
+Indiquen cuáles son los reactivos y cuáles los productos de esta
+reacción.
+
+¿Qué significa que esta reacción sea irreversible? ¿Qué tendría
+que ocurrir para que se pudiera considerar reversible?
+
+Anticipen qué sucedería si durante la combustión de un material se
+acabara el oxígeno del aire. Justifiquen la respuesta.
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía de
+cenizas de un objeto que está siendo consumido por el fuego. La
+acompaña el siguiente pie de imagen: Durante la combustión se libera
+energía calórica y lumínica (fuego). Fin de la nota.
+
+
+
+El papel del aire en la combustión
+
+Les proponemos un experimento sencillo para comprobar que la ausencia de
+aire impide la combustión y para observar algunos de los productos de
+la reacción.
+
+Materiales necesarios: Una vela, fósforos o encendedor, un vaso o
+frasco de vidrio transparente más alto que el largo de la vela y un
+plato.
+
+Procedimiento:
+
+1) Calentar levemente la base de la vela y pegarla en el plato.
+
+2) Encender la vela.
+
+3) Cubrir la vela con el frasco con mucho cuidado.
+
+Observaciones: Al cabo de un tiempo, la vela cubierta por el frasco se
+apagará. Verán que sale humo y que las paredes del vaso se empañan,
+apareciendo gotitas de agua.
+
+En la parte superior del frasco o en las paredes es posible que observen
+una mancha negra.
+
+
+
+Nota del corrector: el cuaderno original presenta una fotografía del
+experimento. Muestra una vela apagada cubierta por un frasco al revés.
+Fin de la nota.
+
+Página 74
+
+
+
+Este experimento muestra que ante la falta de aire la combustión se
+interrumpe. El aire es una solución gaseosa formada por varios gases
+(nitrógeno, oxígeno y dióxido de carbono, entre los principales). En
+principio, no se puede saber cuál o cuáles son necesarios para que se
+mantenga la combustión. Las investigaciones químicas informan que ese
+gas es el oxígeno.
+
+Lo que se observa durante el proceso son los productos de la
+combustión: las gotitas de agua en las paredes del frasco es el
+producto del vapor de agua que se libera y que se condensa al enfriarse
+en contacto con el vidrio del frasco.
+
+La mancha negra que tiñe el fondo del frasco es carbón, producto de la
+trasformación química de la parafina y la mecha de la vela en su
+contacto con el fuego y se desprende en forma de humo.
+
+Se libera también el gas dióxido de carbono; pero no es posible verlo
+ya que es un gas transparente.
+
+
+
+Para pensar, responder y seguir experimentando:
+
+Si la vela se apaga por la falta de oxígeno, que es uno de los
+reactivos que se consume durante la reacción química que se produce en
+la combustión, qué resultado anticiparían sobre la velocidad a la
+cual se apagará la vela para las siguientes situaciones:
+
+a. La vela se cubre con un frasco bastante más grande que el que se
+utilizó en el experimento inicial
+
+b. En un frasco del mismo tamaño, en vez de una vela se colocan dos
+velas, ¿qué podría suceder? Justifiquen sus anticipaciones para cada
+caso.
+
+Ahora pueden comprobarlo haciendo las experiencias con frascos de
+diferente tamaño, velas más grandes o más de una vela y tomando el
+tiempo que tarda en apagarse desde que se cubre con el frasco.
+
+¡Atención! Para que sea comparable lo que están experimentando será
+necesario cuidar que:
+
+• Si queremos ver la diferencia con el cambio del tamaño del frasco,
+las velas deberán ser del mismo tipo y tamaño, ya que necesitamos que
+lo único que varíe sea el tamaño del frasco.
+
+• Si queremos saber qué pasa si en vez de una vela se colocan dos,
+será necesario que lo hagamos en frascos del mismo tamaño para
+comparar qué ocurre con una sola vela y qué cuando agregamos otra.
+
+En cualquier experimento es muy importante que solo cambie aquello que
+queremos comprobar porque, si cambiamos muchas cosas a la vez, nunca
+estaremos seguros de cuál de ellas es la responsable del fenómeno.
+
+c. ¿Qué deberían hacer si quisieran comprobar si el tamaño de la
+vela tiene alguna incidencia en el tiempo que tarda en apagarse?
+Elaboren una “receta” (instructivo) para que otros puedan reproducir
+el experimento.
+
+Página 75
+
+
+
+Recorrido 5: Las reacciones químicas en los seres vivos
+
+En el cuerpo de los organismos vivos se producen millones de fenómenos
+físicos y químicos todo el tiempo. La vida es posible porque existen
+mezclas y soluciones así como también transformaciones químicas de
+los materiales de los que estamos hechos.
+
+Algunos de esos fenómenos son muy complejos y otros muy parecidos a los
+que estamos más acostumbrados a ver en la vida cotidiana. Por ejemplo,
+el azúcar o las sales que consumimos con los alimentos son
+transportados en solución en el plasma sanguíneo, asegurando su
+distribución por todo el organismo.
+
+Pero los seres vivos estamos construidos con materiales que son propios
+de la vida y no se producen fuera de ella. Por eso se los denomina
+biomateriales. Los azúcares, las grasas, las proteínas son ejemplos de
+biomateriales. Cabe preguntarse: ¿cómo y dónde se forman, si son
+exclusivos de los seres vivos?
+
+
+
+La fotosíntesis
+
+Aunque algunas bacterias utilizan otros mecanismos, las reacciones
+químicas que conducen a la formación de biomoléculas es
+mayoritariamente parte de un proceso que solo pueden realizar las
+plantas y algunas algas verdes: la fotosíntesis.
+
+Seguramente ya habrán estudiado que las plantas son organismos
+autótrofos; es decir, capaces de producir su propio alimento (un
+biomaterial, propio de los seres vivos). Esa producción la realizan
+utilizando la luz.
+
+La fotosíntesis es un proceso complejo en el que la luz aporta la
+energía necesaria para formar materiales complejos a partir de
+materiales muy simples. Los reactivos que utilizan las plantas para
+realizar la fotosíntesis son el dióxido de carbono (un gas presente en
+la atmósfera) y el agua. Como parte del proceso, liberan oxígeno a la
+atmósfera.
+
+
+
+Nota del corrector: el cuaderno original presenta un gráfico
+acompañado por el siguiente pie de imagen “A través de la
+fotosíntesis las plantas producen alimento”.
+
+En la imagen se indica que a través de la energía solar, el dióxido
+de carbono, y por otra parte, el agua y los minerales que absorbe la
+raíz, la planta puede fabricar su alimento liberando así oxígeno.
+
+Fin de la nota.
+
+
+
+Nota del corrector: el cuaderno original presenta una fórmula que se
+expresará en texto lineal a continuación.
+
+Dióxido de Carbono + Agua (allí interviene la luz solar) =
+Biomateriales + Oxígeno.
+
+Fin de la nota.
+
+El producto de la fotosíntesis es un azúcar llamado glucosa, a partir
+del cual se construyen todos los otros biomateriales a través de
+complejas reacciones químicas.
+
+Página 76
+
+
+
+La molécula de glucosa
+
+La glucosa es un biomaterial que se produce a partir de las reacciones
+fotosintéticas. Estas moléculas son mucho más complejas que las de
+los materiales que no provienen de los seres vivos, también llamados
+inorgánicos. Para comparar pueden ver el modelo de la molécula de agua
+que pusimos más arriba. Aquí, en rojo átomos de carbono; en negro
+átomos de oxígeno y en gris átomos de hidrógeno. La glucosa está
+formada por 6 átomos de carbono, 6 átomos de oxígeno y 12 de
+hidrógeno (C6H12O6).
+
+
+
+Nota del corrector: el cuaderno original presenta un gráfico que
+representa a la glucosa. Los átomos de carbono, los de oxígeno y los
+de hidrógeno están diferenciados por color. Fin de la nota.
+
+¿Cuáles son los reactivos y cuáles los productos de la reacción
+fotosintética?
+
+
+
+A diferencia de los organismos autótrofos, el resto de los seres vivos
+(organismos heterótrofos), consumimos los biomateriales que las plantas
+fabrican, alimentándonos de otros seres vivos o de sus productos (por
+ejemplo, huevos o leche). A partir del alimento construimos nuestros
+propios biomateriales y obtenemos la energía necesaria para todas las
+actividades vitales.
+
+
+
+La respiración celular
+
+La mayoría de los seres vivos necesitan oxígeno para vivir. El
+oxígeno es necesario para que produzca la respiración celular, a
+través de la cual obtienen la energía necesaria para sus funciones
+vitales.
+
+Respiración celular y respiración pulmonar
+
+La denominación respiración celular indica que es un fenómeno que
+ocurre dentro de cada célula del organismo. Se diferencia así de la
+que, en el caso de los vertebrados, se llama respiración pulmonar que
+consiste en el intercambio de gases a través de los pulmones. La
+inhalación del aire que ingresa en los pulmones permite que el oxígeno
+sea transportado por los glóbulos rojos de la sangre a cada célula,
+donde se producirán las reacciones químicas que conducen a la
+respiración celular. A su vez, el dióxido de carbono, uno de los
+productos de la respiración celular, se disuelve en el plasma
+sanguíneo y es transportado a los pulmones desde donde, finalmente, es
+exhalado.
+
+Los productos y reactivos que participan en la respiración celular son
+similares a los que ocurren en la combustión: la combinación del
+oxígeno con la glucosa. Sin embargo, los mecanismos biológicos
+permiten que la reacción se realice en varias etapas, sin que la
+energía se libere en forma brusca. De esta forma, puede ser producida y
+aprovechada por el organismo según sus necesidades.
+
+Página 77
+
+
+
+Finalmente, verán escrito el proceso de respiración como una reacción
+química:
+
+
+
+Nota del corrector: el cuaderno original presenta una fórmula que se
+expresará en texto lineal a continuación.
+
+Alimento (en este caso la glucosa) + Oxígeno (allí interviene la
+energía) = Dióxido de carbono + Vapor de agua.
+
+Fin de la nota.
+
+Comparen la reacción de la respiración celular con la de la
+combustión.
+
+a. ¿Qué similitudes y diferencias observan en los reactivos y en los
+productos?
+
+b. ¿Qué similitud y que diferencia observan en el resultado
+energético de la reacción?
+
+
+
+Comparen la reacción de la respiración celular con la de
+fotosíntesis.
+
+a. ¿Qué similitudes y diferencias observan en los reactivos y en los
+productos?
+
+b. ¿Qué similitud y que diferencia observan en el resultado
+energético de la reacción?
+
+Página 78
+
+
+
+TECLADOS Y PANTALLAS
+
+Tutoriales para la ciencia en acción
+
+Han aprendido que los materiales están formados por partículas muy
+pequeñas. Los químicos y las químicas explican que los fenómenos
+físicos y químicos que ocurren en los materiales dependen del
+comportamiento de esas partículas. Algunos de esos fenómenos fueron
+descriptos y explicados. También, les propusimos realizar unas
+experiencias sencillas para observar el comportamiento de materiales de
+uso cotidiano y relacionar lo que se ve con los modelos que la ciencia
+aporta para explicarlos. El conocimiento que adquirieron es muy valioso,
+por eso les proponemos compartirlo con otros chicos y chicas.
+
+Para esto filmen un videotutorial explicando el paso a paso de una de
+las pruebas que realizaron. Pueden elegir entre:
+
+Una fábrica de cristales.
+
+El papel del aire en la combustión.
+
+
+
+¿Saben que es un videotutorial? ¿Alguna vez hicieron uno? ¿Conocen a
+alguien que se dedique a hacerlos? Si es así, ¿qué temas explica?
+¿Dónde lo ven?
+
+Los videotutoriales explican cómo hacer algo. Por ejemplo, cómo pasar
+de nivel en un videojuego, cómo cocinar una torta o cómo maquillarse
+en cinco minutos. Utilizan las imágenes, la música y las palabras para
+explicar en detalle cómo concretar aquello que se quiere hacer.
+
+También hay tutoriales que explican cómo hacer ciencia. Por ejemplo,
+el Plan Nacional de Ciencias Naturales para todos desarrolló un
+tutorial que puede servir de ejemplo para el que harán ustedes a
+continuación. Si tienen conexión a Internet hagan clic en la imagen
+para verlo:
+
+
+
+Nota del corrector: el cuaderno original presenta una escena del
+tutorial que dice “Identificación del almidón utilizando el reactivo
+de Lugol como indicador”. A continuación se menciona el link en texto
+lineal.
+
+Plan Federal Juana Manso
+
+Fin de la nota.
+
+
+
+Manos a la obra
+
+La producción de un videotutorial se divide en tres momentos.
+
+Preproducción:
+
+¿Qué tema van a explicar? Antes de filmar tienen que decidir qué
+quieren explicar.
+
+¿Quién o quiénes van a hablar en el video? ¿Van a aparecer en
+cámara o sólo se les escuchará la voz?
+
+¿En qué lugar van a filmar? No es lo mismo hacerlo en un laboratorio,
+en una biblioteca o al aire libre sobre una mesa. Es importante que
+confirmen la disponibilidad del lugar para el momento de la filmación.
+
+¿Qué materiales van a necesitar? Busquen la lista de los materiales
+que van a usar y ténganlos disponibles para la filmación.
+
+Página 79
+
+
+
+¿Qué van a decir? Para esto se sugiere que armen un guión en el que
+indiquen la correspondencia entre las palabras y las imágenes.
+
+¿Con qué van a filmar? Para esto evalúen los recursos tecnológicos
+disponibles, que pueden ser un celular o una computadora que cuente con
+cámara.
+
+
+
+Producción:
+
+¿Cómo lo van a contar? ¿Dónde van a ubicar la cámara? ¿Qué van a
+mostrar en cada momento?
+
+Llegado el momento de la filmación tengan en cuenta algunos elementos
+del lenguaje audiovisual.
+
+El encuadre es la porción de espacio que es captado por el objetivo de
+la cámara. Cuando definan el encuadre, definirán también qué se
+verá y qué quedará por fuera de la imagen filmada.
+
+¿Qué ven en esta imagen? Se trata de uno de los científicos más
+importantes del siglo XX.
+
+
+
+Nota del corrector: el cuaderno original presenta un retrato en blanco y
+negro. Se recomienda representarla con recursos concretos, tangibles y
+representativos para que las niñas y los niños accedan al contenido en
+igualdad de condiciones. Fin de la nota.
+
+Pero si abren el encuadre, encontrarán otra imagen:
+
+
+
+En este caso, podemos ver que se trata de una fotografía que sostiene
+un estudiante.
+
+Pero si abren aún más el encuadre también podrán ver que son cuatro
+estudiantes y que están en la escuela:
+
+
+
+Tengan en cuenta que habrá momentos en los que será necesario mostrar
+algo de cerca, por ejemplo un vaso sobre la mesa, pero que en otros
+momentos será necesario que también aparezca en cámara el narrador de
+la prueba.
+
+La luz también es importante a la hora de filmar. La mejor iluminación
+es la de la luz natural entre las 10 y las 11 horas de la mañana.
+Ubiquen los objetos que van a filmar de frente a la luz para que los
+ilumine y se vea todo con claridad.
+
+El sonido es otro de los elementos importantes, por lo tanto es
+conveniente hacer una prueba antes de la grabación definitiva y evaluar
+si se escucha bien.
+
+
+
+Postproducción:
+
+¿Cómo lo van a editar? Esta es la parte final del videotutorial, pero
+no por eso es menos importante. Una vez que esté lista la filmación,
+tal vez sea necesario sacar algunas partes (porque se grabó mal o es
+redundante), cambiar alguna de lugar, o sumarle texto para que sea más
+claro aquello que se explica.
+
+Este procedimiento se llama edición y lo pueden hacer con el programa
+Movie Maker.
+
+Tutorial de Windows Movie Maker - Cortar partes no deseados de un video
+- YouTube
+
+Al principio pueden agregar una placa con el nombre de la prueba y al
+final otra con los créditos; o sea, con el nombre de la escuela y el de
+quienes participaron de la producción.
+
+Como cierre de la producción reflexionen sobre el resultado que
+obtuvieron:
+
+¿Qué es lo que más les gustó del proceso de producción? ¿Qué
+aprendieron? Ahora que saben hacerlo, ¿qué mejorarían del
+videotutorial?
+
+Página 80
+

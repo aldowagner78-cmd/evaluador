@@ -1,0 +1,50 @@
+                                          Comparar decimales
+  Para comparar dos decimales, necesitamos comparar cada dígito de un número con el dígito que está en el
+  mismo lugar de valor posicional del otro número (décimos a décimos, centésimos a centésimos, etc.),
+  comenzando con las unidades mayores. Una tabla de valor posicional puede ayudarte.
+
+  ¿Cuál es mayor, 0.04 o 0.016?
+     z   Comprueba las UNIDADES: 0.04 y 0.016 tienen cero unidades.
+     z   Siguiente, las DECENAS: Los dos números tienen cero décimos.                                                        0 . 0 4
+     z   Y los CENTÉSIMOS: 0.04 tiene cuatro centésimos mientras 0.016 tiene uno.                                            0 . 0 1 6
+                                                                                                                     D       U   d     c   m
+     z   No se cuentan los MILÉSIMOS ya que encontramos que 0.04 tiene más centésimos
+         que 0.016.
+         Aun un centésimos es mayor que los 6 milésimos que tiene 0.016.
+  Entonces, esta comparación de lugar por lugar muestra que 0.04 > 0.016.
+
+ 1. a. Algunos estudiantes creen que 0.3 < 0.21 porque 3 < 21. Pero, ¿tienen razón? Señala 0.3 y 0.21
+       en la recta numérica abajo.
+
+     0.3             0.21
+
+
+   b. Señala 5.02 y 5.2 en la recta numérica. ¿Son iguales, como creen algunos estudiantes?
+
+
+
+     5.02                5.2
+
+
+ 2. Escribe estos números en orden, del menor al mayor. La recta numérica puede ayudarte.
+                                   5.01   5.3       5.03        4.8   5.24     4.92        5.1     5.15   5.19
+
+             ______ < ______ < ______ < ______ < ______ < ______ < ______ < ______ < ______
+
+
+
+
+ 3. Compara los números y escribe < , = , o > . Puedes utilizar la tabla de valor posicional para ayudarte.
+
+     a. 0.6               0.006           b. 0.03               0.3          c. 0.8              0.008      d. 0.80                  0.800
+
+                 .                                  .                                  .                                 .
+                 .                                  .                                  .                                 .
+         D   U       d   c     m           D    U       d   c   m              D   U       d   c   m             D   U       d   c    m
+
+
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                              15
+

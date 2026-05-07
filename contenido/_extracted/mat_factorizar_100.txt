@@ -1,0 +1,79 @@
+7/5/26, 8:10 a.m.                                 Ejercicios de descomposición en factores primos
+
+                                            Ejercicios de factores
+Descompon los siguientes números en factores primos.
+
+   1 a.    89                                                   1 b.   78
+
+
+
+
+   2 a.    84                                                   2 b.   23
+
+
+
+
+   3 a.    87                                                   3 b.   33
+
+
+
+
+   4 a.    61                                                   4 b.   77
+
+
+
+
+   5 a.    87                                                   5 b.   44
+
+
+
+
+   6 a.    54                                                   6 b.   62
+
+
+
+
+   7 a.    62                                                   7 b.   9
+
+
+
+
+   8 a.    88                                                   8 b.   89
+
+
+
+
+https://www.mamutmatematicas.com/ejercicios/tabla-factorizar.php?col=2&row=8&type1=1&min1=100&max1=1000&font=Defau…   1/2
+7/5/26, 8:10 a.m.                                                          Ejercicios de descomposición en factores primos
+
+
+
+Pagina 2
+                                                                                    Clave
+
+   1 c.      primo                                                                            1 c.       2 × 3 × 13
+
+   2 c.      22 × 3 × 7                                                                       2 c.       primo
+
+   3 c.      3 × 29                                                                           3 b.       3 × 11
+
+   4 b.      primo                                                                            4 b.       7 × 11
+
+   5 b.      3 × 29                                                                           5 b.       22 × 11
+
+   6 b.      2 × 33                                                                           6 b.       2 × 31
+
+
+   7 b.      2 × 31                                                                           7 b.       32
+
+   8 a.      23 × 11                                                                          8 b.       primo
+
+    Autorización de copias: Se permite realizar un número ilimitado de copias de esta hoja de ejercicios para proporcionar material de trabajo a los estudiantes para sus tareas de
+                                     matemáticas. No se permite su distribución en sitios web, libros o similares sin la autorización de la autora.
+                                            Copyright 2006- Taina Maria Miller / Ejercicios de Matematicas en MamutMatematicas.com
+
+
+
+
+https://www.mamutmatematicas.com/ejercicios/tabla-factorizar.php?col=2&row=8&type1=1&min1=100&max1=1000&font=Defau…                                                                   2/2
+

@@ -1,0 +1,156 @@
+                           Sumar números enteros 1: fichas
+  Se puede modelar la suma de números enteros utilizando fichas. Utilizaremos fichas verdes con un signo “+”
+  para representar positivos y fichas rojas con un signo “−” para representar negativos.
+
+
+
+
+                                        Este dibujo muestra la suma                    1 + (−1) = 0
+                                        (−2) + (−3). Sumamos
+       Aquí tenemos la suma 2 + 3.      negativos y negativos. En           Una ficha positiva y una ficha
+       Hay un grupo de 2 positivos      total, hay cinco negativos,         negativa eliminan una a la otra.
+       y otro de 3 positivos.           entonces la suma es −5.             En otras palabras, ¡su suma es cero!
+
+
+
+
+                                                                                       (−4) + 3 = −1
+               2 + (−2) = 0                     3 + (−1) = 2
+                                                                             Ahora, hay más negativos que
+       Dos negativos y dos                Aquí, se cancela un par            positivos. Forma pares con tres
+       positivos también eliminan         de “positivo-negativo”,            de cada uno, y todavía queda un
+       uno al otro. Su suma es cero.      y nos quedan 2 positivos.          negativo.
+
+ 1. Refiere a los dibujos y suma. Recuerda que se elimina cada par de “positivo-negativo”.
+
+
+
+
+  a. 2 + (−5) = _____                   b. (−3) + 5 = _____                    c. (−6) + (−3) = _____
+
+
+
+
+  d. 3 + (−5) = _____                   e. 2 + (−4) = _____                    f. (−8) + 5 = _____
+
+ 2. Escribe sumas (ecuaciones) que corresponden con los dibujos.
+
+
+
+
+  a.                                    b.                                     c.
+
+
+
+
+  d.                                    e.                                     f.
+Hoja de muestra de
+www.MamutMatematicas.com                                 14
+      Una nota sobre notación
+      Podemos escribir un signo menos elevado para indicar un número negativo: −4.
+      O podemos escribirlo con un signo menos y paréntesis: (−4).
+      Aun podemos escribirlo sin los paréntesis si el significado es claro: −4.
+      Entonces, −4 + −4 = −8 es lo mismo que (−4) + (−4) = (−8), lo cual es lo mismo que −4 + (−4) = −8.
+
+      Deberías escribir los paréntesis si tienes + y −, o dos signos −, uno al lado del otro.
+      Entonces, no escribas “8 + − 4”; sino escribe “8 + (−4).” Y no escribas “3 − −3”;
+      sino escribe “3 − (−3).”
+
+ 3. Piensa en las fichas. Suma.
+
+  a. 7 + (−8) =                   b. (−7) + (−8) =              c. 5 + (−7) =               d. 50 + (−20) =
+     (−7) + 8 =                      7+8=                          7 + (−5) =                   10 + (−40) =
+
+  e. −2 + −4 =                    f. 10 + −1 =                  g. −8 + 2 =                 h. −9 + −1 =
+     −6 + 6 =                        −10 + −1 =                    −8 + −2 =                     9 + −1 =
+
+ 4. Reescribe estas oraciones utilizando símbolos, y resuelve las sumas resultantes.
+
+   a. La suma de siete positivos y cinco negativos.
+
+   b. Suma −3 y −11.
+
+   c. Se suman 100 positivos y 15 negativos.
+
+
+
+ 5. Escribe una suma para cada situación, y resuelve.
+
+   a. Tu cuenta corriente tiene un descubierto de $50. (Esto significa que tu cuenta es negativa).
+      Luego realizas un depósito de $60. ¿Cuánto saldo tiene tu cuenta ahora?
+
+
+   b. Anita le debe $20 a su mamá. Luego, ella pide prestado $15 más de su mamá.
+      ¿Cuánto “saldo” tiene Anita ahora?
+
+
+ 6. Considera las cuatro expresiones 2 + 6, (−2) + (−6), (−2) + 6 y 2 + (−6). Escribe estas
+    expresiones en orden de la expresión que tiene el valor menor a la expresión que tiene el
+    valor mayor.
+
+
+
+
+ 7. Encuentra el número que falta en las ecuaciones.
+
+  a. −3 + _______ = −7                     b. −3 + _______ = 3                    c. 3 + _______ = (−7)
+
+  d. ______ + (−15) = −22                  e. 2 + _______ = −5                    f. _______ + (−5) = 0
+Hoja de muestra de
+www.MamutMatematicas.com                                   15
+     Comparar saltos en la recta numérica y fichas
+     Podemos pensar en −5 + (−3) como cinco negativos y tres negativos, con un total de 8 negativos o −8.
+     También sabemos que −5 − 3 es como comenzar en −5 y saltar tres pasos hacia la izquierda en la
+     recta numérica, terminando con −8.
+     Ya que ambos tienen la misma respuesta, las dos expresiones −5 + (−3) y −5 − 3 son iguales:
+                                                  −5 + (−3) = −5 − 3
+     Es como si el “+ −” en el medio se convirtiera en un sólo signo − . ¡Esto, de verdad, es un atajo!
+
+     De forma similar, 2 + (−7) es lo mismo que 2 − 7. O piensa en tener 2 fichas positivas y 7 fichas negativas,
+     con un total de 5 fichas negativas, o piensa en estar en 2 y tomar 7 pasos a la izquierda, terminando en −5.
+
+                     Cuando resolviendo problemas con números enteros, puede que pienses
+                      en saltos en la recta numérica o en fichas, cualquier que sea más fácil.
+
+
+ 8. Compara cómo se modela −7 + 4 en la recta numérica y con fichas.
+
+   a. En la recta numérica, −7 + 4 es como comenzar en _____, y mover _____ pasos a la _____________,
+      terminando en _____.
+
+   b. Con fichas, −7 + 4 es como _____ negativos y _____ positivos sumados. Podemos
+      formar _____ pares de negativo-positivo que eliminan uno al otro, y quedan ____ negativos.
+
+
+ 9. Suma.
+
+  a. 4 + (−10) =                b. −8 + (−8) =                  c. −5 + (−7) =             d. 11 + (−2) =
+    −6 + 8 =                         7 + (−8) =                    12 + (−5) =              −10 + 20 =
+
+
+ 10. a. Encuentra el valor de la expresión x + (−4) para cuatro valores de x diferentes.
+        Puedes escoger los valores.
+
+
+
+
+    b. ¿Para qué valor de x tiene la expresión x + (−4) el valor de 0?
+
+
+
+
+ 11. Resuelve los problemas, y observa los patrones.
+
+  a. 3 − 2 =                    b. −7 − 0 =                     c. −5 + 0 =                d. −6 + 6 =
+     3−3=                           −7 − 1 =                       −5 + 1 =                   −6 + 7 =
+
+     3−4=                           −7 − 2 =                       −5 + 2 =                   −6 + 8 =
+
+                                    −7 − 3 =                       −5 + 3 =                   −6 + 9 =
+     3−5=
+                                    −7 − 4 =                       −5 + 4 =                   −6 + 10 =
+     3−6=
+
+Hoja de muestra de
+www.MamutMatematicas.com                                   16
+

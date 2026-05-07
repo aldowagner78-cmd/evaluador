@@ -1,0 +1,50 @@
+    Porcentaje de cambio
+     Porcentaje de cambio tiene que ver con situaciones donde un precio o alguna otra cantidad aumenta o
+     disminuye (cambia) por un porcentaje. Primero, repasaremos rebajas y aumentos de precio. Después,
+     estudiaremos cómo calcular el porcentaje de cambio — es decir, cómo hallar por cuánto por ciento
+     cambió el precio u otra cantidad.
+
+     Ya has estudiado rebajas, donde se rebaja el precio de un artículo 10%, 15%, u otro porcentaje. De
+     forma similar, también se puede aumentar el precio de un artículo por un cierto porcentaje.
+     Ejemplo. Un boleto de avión cuesta $120 ahora. La semana que viene, aumenta del 10%.
+     ¿Cuál será el precio nuevo?
+     Primero, calcula 10% de $120. Son $12. Ya que el precio está aumentando, lo sumamos al precio
+     actual: $120 + $12 = $132. Entonces, el precio nuevo es $132.
+
+
+    1. Vamos a repasar. Todos estos artículos están a la venta. Calcula el nuevo precio rebajado.
+
+
+                       a.                               b.                                    c.
+
+                       Precio: $9                       Precio: $6                            Precio: $90
+                       Rebajado 20%                     Rebajado 25%                          Rebajado 30%
+
+       Precio nuevo: $___________         Precio nuevo: $____________          Precio nuevo: $__________
+
+
+    2. Se aumentan los precios de estos artículos. Halla los precios nuevos.
+
+                            a.                          b.                                   c.
+
+                       Precio: $5,000                   Precio: $110                        Precio: $90
+                       Un aumento de                    Un aumento de                       Un aumento de
+                       10%                              20%                                 30%
+       Precio nuevo: $__________           Precio nuevo: $__________           Precio nuevo: $_________
+
+                  d.
+                                                   e.                                  f.
+                  Precio: $3
+                  Un aumento de                    Precio: $2                          Precio: $1.50
+                  15%                              Un aumento de 30%                   Un aumento de 50%
+       Precio nuevo: $__________            Precio nuevo: $_________           Precio nuevo: $__________
+
+
+    3. Una chaqueta cuesta $50. Primero, se aumenta su precio un 20%.
+       Después, está rebajada 20%. Calcula el precio final.
+       Nota: ¡NO será $50!
+
+
+Hoja de muestra de
+www.MamutMatematicas.com                                37
+

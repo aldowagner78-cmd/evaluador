@@ -1,0 +1,50 @@
+                                     ¿Qué porcentaje…?
+                                    Un coro tiene 22 mujeres      Un par de pantalones cuesta $25 y otro par
+       ¿Qué porcentaje de un
+                                    y 18 hombres. Halla el        cuesta $28. ¿Cuánto por ciento es el precio
+       árbol de 4 metros representa
+                                    porcentaje de miembros        de los pantalones más baratos con respecto al
+       un arbolito de 1 metro?
+                                    del coro que son hombres.     precio de los más caros?
+
+ Mira cuidadosamente las preguntas anteriores. Observa que los problemas no te dicen el porcentaje; en otras
+ palabras, en el problema no hay ningún número escrito como x%. En cambio, ¡piden que tú lo halles!
+
+  Preguntas con “Qué porcentaje…?” o “Cuánto por ciento…?”
+
+  Preguntar ¿Qué porcentaje? o ¿Cuánto por ciento? es lo mismo que preguntar ¿Cuántas centésimas partes?
+  Podemos resolver estas preguntas con un proceso de dos partes:
+  1. Primero determina en forma de fracción qué parte se pide. El denominador probablemente no sea 100.
+  2. Convierte esa fracción a decimal. ¡Luego puedes convertir fácilmente el decimal a porcentaje!
+
+  Ejemplo 1. Un coro tiene 22 mujeres y 18 hombres. Halla el porcentaje de miembros que son hombres.
+  1. Halla qué parte (fracción) de los miembros son hombres. Eso es 18/40, o 9/20.
+  2. Escribe 9/20 como porcentaje. Puedes usar fracciones equivalentes: 9/20 = 45/100 = 45%.
+
+  Ejemplo 2. Un par de pantalones cuesta $25 y otro par cuesta $28.
+  ¿Cuánto por ciento es el precio de los pantalones más baratos con respecto al precio de los más caros?
+  1. Escribe qué parte (fracción) es el precio más barato respecto del precio más caro. La respuesta es 25/28.
+  2. Escribe 25/28 como porcentaje. Una calculadora da 25/28 = 0.8928…
+     Redondeado al porcentaje entero más cercano, sería 89%.
+
+ 1. a. ¿Qué porcentaje de un árbol de 4 metros representa un arbolito de 1 metro?
+
+   b. ¿Cuánto por ciento son $12 de $16?
+
+
+
+ 2. Halla qué porcentaje es la altura del objeto más pequeño respecto a la del más alto.
+
+
+
+
+        6m              8m                  300 cm            120 cm              4m                 5m
+
+  a.                                   b.                                  c.
+
+
+
+
+Hoja de muestra de                                       11
+www.MamutMatematicas.com
+

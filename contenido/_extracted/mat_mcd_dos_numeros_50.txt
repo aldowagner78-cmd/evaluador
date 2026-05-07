@@ -1,0 +1,63 @@
+7/5/26, 8:10 a.m.                                            Hoja de ejercicios 1
+
+
+                               Hoja de ejercicios de MCD/mcm 1
+  Halla el máximo comun divisor de los siguientes números.
+
+    1a.    39, 9                                            1b.    40, 24
+
+
+
+    2a.    42, 28                                           2b.    24, 35
+
+
+
+
+    3a.    36, 42                                           3b.    49, 42
+
+
+
+    4a.    30, 18                                           4b.    27, 6
+
+
+
+
+    5a.    25, 10                                           5b.    49, 7
+
+
+
+    6a.    10, 46                                           6b.    42, 21
+
+
+
+    7a.    48, 12                                           7b.    7, 42
+
+
+
+    8a.    24, 42                                           8b.    25, 45
+
+
+
+
+    9a.    16, 24                                           9b.    36, 12
+
+
+
+    10a.   14, 23                                           10b.   36, 24
+
+
+
+
+                                                       Clave
+
+https://www.mamutmatematicas.com/ejercicios/tabla-mcd-mcm.php?col=2&row=10&gcf=1&gcfmin=1&gcfmax=50&lcmmin=4&lc…   1/2
+7/5/26, 8:10 a.m.                                                                             Hoja de ejercicios 1
+    Autorización de copias: Se permite realizar un número ilimitado de copias de esta hoja de ejercicios para proporcionar material de trabajo a los estudiantes para sus tareas de
+                                     matemáticas. No se permite su distribución en sitios web, libros o similares sin la autorización de la autora.
+                                         Copyright 2006-2026 Taina Maria Miller / Ejercicios de Matematicas en MamutMatematicas.com
+
+
+
+
+https://www.mamutmatematicas.com/ejercicios/tabla-mcd-mcm.php?col=2&row=10&gcf=1&gcfmin=1&gcfmax=50&lcmmin=4&lc…                                                                      2/2
+
